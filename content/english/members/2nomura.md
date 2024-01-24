@@ -1,8 +1,8 @@
 ---
-title: Sebastian VOLZ
+title: Masahiro NOMURA
 email: 
 image: "/images/avatar.png"
-description: Director
+description: Co-director
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-Director of LIMMS
+Director (IIS)

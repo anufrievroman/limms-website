@@ -3,12 +3,12 @@ title: "Open positions"
 # meta title
 meta_title: ""
 # meta description
-description: "Patents"
+description: "Open positions at LIMMS"
 # save as draft
 draft: false
 ---
 
-### Campaign Internship FY – 2024 (Deadline: 15 Octobre 2023)
+### Campaign Internship FY – 2024
 
 - Nomura Lab: Spin-mechanics quantum project.
 - Hirakawa Lab: Quantum cascade cooler fabrication and characterization.

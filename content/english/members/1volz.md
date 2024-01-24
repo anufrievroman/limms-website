@@ -1,8 +1,8 @@
 ---
-title: Masahiro NOMURA
+title: Sebastian VOLZ
 email: 
 image: "/images/avatar.png"
-description: Co-director
+description: Director (CNRS)
 social:
   - name: github
     icon: fa-brands fa-github
@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-Co-director of LIMMS
+Director (CNRS)

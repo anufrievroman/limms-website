@@ -1,0 +1,72 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Hosts"
+url = "host-professors/"
+weight = 2
+
+[[main]]
+name = "Members"
+url = "members/"
+weight = 3
+
+
+[[main]]
+weight = 4
+name = "Publications"
+hasChildren = true
+
+[[main]]
+weight = 4
+parent = "Publications"
+name = "Journals"
+url = "publications/"
+
+[[main]]
+weight = 5
+parent = "Publications"
+name = "Conferences"
+url = "conferences/"
+
+[[main]]
+weight = 6
+parent = "Publications"
+name = "Patents"
+url = "patents/"
+
+[[main]]
+weight = 7
+name = "Positions"
+url = "positions/"
+
+[[main]]
+name = "SMMIL-E"
+url = "smmil-e/"
+weight = 8
+
+[[main]]
+name = "Access"
+url = "access/"
+weight = 9
+
+# footer menu
+[[footer]]
+name = "Access"
+url = "access/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

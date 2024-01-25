@@ -1029,3 +1029,7 @@ p a {
 .accordion-content a {
   padding: 0 1.3rem !important;
   padding-top: 0 !important; }
+
+.centered-title {
+  text-align: center;
+  padding-bottom: 30px; }

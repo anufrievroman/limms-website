@@ -3228,6 +3228,10 @@ p a {
   padding-top: 1.4rem;
   padding-bottom: 1.1rem; }
 
+.accordion-content a {
+  padding: 0 1.3rem !important;
+  padding-top: 0 !important; }
+
 @media (min-width: 540px) {
 
   .sm\:col-10 {

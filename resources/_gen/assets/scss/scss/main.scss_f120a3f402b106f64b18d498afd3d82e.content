@@ -1025,3 +1025,7 @@ p a {
 .py-14 {
   padding-top: 1.4rem;
   padding-bottom: 1.1rem; }
+
+.accordion-content a {
+  padding: 0 1.3rem !important;
+  padding-top: 0 !important; }

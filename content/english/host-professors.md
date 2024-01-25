@@ -91,7 +91,7 @@ https://www.naojimatsuhisa.com
 - Vascular biology
 {{< /accordion >}}
 
-{{< accordion "Minami Lab Supramolecular organic sensors" >}}
+{{< accordion "Minami Lab - Supramolecular organic sensors" >}}
 
 http://www.tminami.iis.u-tokyo.ac.jp/en
 
@@ -132,12 +132,12 @@ http://www.nlab.iis.u-tokyo.ac.jp
 
 
 {{< accordion "SMMiL-E - Seeding Microsystems for Medecine In Lille and Europe" >}}
-[SMMIL-E](smmil-e)
+[SMMIL-E](/smmil-e)
 {{< /accordion >}}
 
 
 
-{{< accordion "Someya Lab Flexible electronics with organic transistors" >}}
+{{< accordion "Someya Lab - Flexible electronics with organic transistors" >}}
 
 http://www.ntech.t.u-tokyo.ac.jp
 

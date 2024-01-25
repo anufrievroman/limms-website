@@ -8,7 +8,7 @@ description: "Host laboratories"
 draft: false
 ---
 
-Researchers and students at LIMMS are hosted in the following laboratories:
+LIMMS combines the expertise of French and Japanese scientists in order to explore new scientific domains related to micro- and nanotechnologies. Researchers who are recruited by LIMMS are hosted in the following Japanese research groups affiliated to LIMMS:
 
 {{< accordion "Hirakawa Lab - Quantum semiconductor Electronics" >}}
 
@@ -190,3 +190,4 @@ http://toshi.iis.u-tokyo.ac.jp/toshilab
 - Energy harvester
 {{< /accordion >}}
 
+For more information about host laboratories, see [LIMMS booklet.](/files/Booklet2023.pdf)

@@ -2,14 +2,16 @@
 # Banner
 banner:
   title: "Laboratory for Integrated </br>Micro-Mechatronic Systems"
-  content: "LIMMS is a CNRS International Research Laboratory (IRL 2820) on MEMS and NEMS (Micro- and Nano-Electro-Mechanical Systems), jointly operated by France (CNRS, [Institute for Sciences of Engineering and Systems](https://www.insis.cnrs.fr)), and Japan (University of Tokyo, [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/)).
+  content: '
+
+  LIMMS is a CNRS International Research Laboratory (IRL 2820) on MEMS and NEMS (Micro- and Nano-Electro-Mechanical Systems), jointly operated by France (CNRS, [Institute for Sciences of Engineering and Systems](https://www.insis.cnrs.fr)), and Japan (University of Tokyo, [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/)).
 
 LIMMS operates on two sites: on the Komaba Research Campus of the University of Tokyo in Japan, and at the university hospital of Centre Oscar Lambret, in Lille, France.
 
 Since its founding in 1995, our laboratory has hosted more than 175 scientists from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
 
 Thanks to its close integration into the French, European and Japanese research landscapes, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE and EUJO-LIMMS
-"
+'
 
   image: "/images/map-limms.webp"
   button:
@@ -22,7 +24,9 @@ Thanks to its close integration into the French, European and Japanese research 
 info:
   title: "Research topics"
   content: '
-
+Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing three specific research axes: Energy, Bio, Quantum and Molecular Technologies. For more information about research at LIMMS, [download LIMMS booklet 2023](/files/Booklet2023.pdf)
+</br>
+</br>
     {{< accordion "Energy" >}}
 
     In Energy, LIMMS researchers have obtained world-class results in developing phononic crystals for heat focusing. LIMMS technologies are at the cutting edge regarding thermoelectric micro-devices and have confirmed new concepts in thermionic cooling. Interface research programs are also set to find solutions to power the Internet of Things (IoT) based on energy harvesters integrated with Smart MEMS devices."
@@ -42,8 +46,6 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 
     {{< /accordion >}}
 
-<br>
-<p>[Download LIMMS booklet 2023](Booklet2023.pdf)</p>
     '
   image: "/images/limms-axes.jpg"
   button:

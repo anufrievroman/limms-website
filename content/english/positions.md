@@ -18,3 +18,6 @@ draft: false
 - B. J. Kim Lab: Advanced porous scaffolds for in vitro vascularization.
 - S. H. Kim Lab: DNA hydrogels for selective capture and subsequent culture of cancer cells.
 - S. H. Kim Lab: Microplasma project.
+
+
+For more information about the recruitment, see [LIMMS booklet.](/files/Booklet2023.pdf)</p>

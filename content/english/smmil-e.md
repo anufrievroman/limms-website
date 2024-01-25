@@ -16,6 +16,9 @@ https://smmil-e.com
 
 The microsystems for biology and health, referred as bio-MEMS, experience an unprecedented development, especially in Japan. The technological level and maturity they demonstrate allow their integration in clinical trials protocols. Such microsystems are developed in LIMMS/CNRS-IIS, a joint international unit between CNRS and the Institute of Industrial Science of the University of Tokyo (IIS). The convergence of bioMEMS with a comprehensive research against Cancer open a promising scientific investigation domain, notably as the research against cancer pursued in Lille was endorsed by the National Cancer under the SIRIC ONCOLille program.
 
+
+{{< image src="images/smmile.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+
 ### Objectives
 
 SMMiL-E relates to the setting-up and the realization of a comprehensive research program on bioMEMS against Cancer in a sustainable international high-level collaboration.

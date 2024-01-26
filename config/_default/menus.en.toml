@@ -51,8 +51,8 @@ url = "smmil-e/"
 weight = 8
 
 [[main]]
-name = "Access"
-url = "access/"
+name = "Contacts"
+url = "contacts/"
 weight = 9
 
 # footer menu

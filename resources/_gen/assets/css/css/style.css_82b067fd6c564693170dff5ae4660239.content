@@ -945,7 +945,6 @@ main {
   color: rgb(180 175 182 / var(--tw-text-opacity));
 }
 .form-label {
-  margin-bottom: 1rem;
   display: block;
   font-family: Signika, sans-serif;
   font-size: 1.25rem;
@@ -953,6 +952,7 @@ main {
   font-weight: 400;
   --tw-text-opacity: 1;
   color: rgb(4 4 4 / var(--tw-text-opacity));
+  margin-bottom: 0rem;
 }
 :is(.dark .form-label) {
   --tw-text-opacity: 1;
@@ -2027,9 +2027,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .mt-20 {
   margin-top: 5rem;
 }
-.mt-4 {
-  margin-top: 1rem;
-}
 .mt-6 {
   margin-top: 1.5rem;
 }
@@ -2173,10 +2170,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .py-1\.5 {
   padding-top: 0.375rem;
   padding-bottom: 0.375rem;
-}
-.py-10 {
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
 }
 .py-14 {
   padding-top: 3.5rem;
@@ -3236,6 +3229,20 @@ p a {
   text-align: center;
   padding-bottom: 40px; }
 
+.mb-4 {
+  margin-bottom: 0rem !important; }
+
+.social-icons li a {
+  display: flex;
+  height: 2.25rem;
+  width: 2.25rem;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  text-align: center;
+  margin-right: 20px; }
+
 @media (min-width: 540px) {
 
   .sm\:col-10 {
@@ -3451,16 +3458,8 @@ p a {
     margin-left: 0px;
   }
 
-  .lg\:mt-0 {
-    margin-top: 0px;
-  }
-
   .lg\:block {
     display: block;
-  }
-
-  .lg\:inline-block {
-    display: inline-block;
   }
 
   .lg\:flex {
@@ -3492,14 +3491,6 @@ p a {
 
   .lg\:pb-0 {
     padding-bottom: 0px;
-  }
-
-  .lg\:text-left {
-    text-align: left;
-  }
-
-  .lg\:text-right {
-    text-align: right;
   }
 
   .group:hover .lg\:group-hover\:visible {

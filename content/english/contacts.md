@@ -1,9 +1,9 @@
 ---
-title: "Access"
+title: "Contacts"
 # meta title
 meta_title: ""
 # meta description
-description: "Access"
+description: "Contacts of LIMMS"
 # save as draft
 draft: false
 ---

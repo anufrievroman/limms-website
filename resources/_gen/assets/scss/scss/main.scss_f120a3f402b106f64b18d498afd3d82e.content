@@ -1034,8 +1034,11 @@ p a {
   text-align: center;
   padding-bottom: 40px; }
 
-.mb-4 {
+.mb-2 {
   margin-bottom: 0rem !important; }
+
+.mb-4 {
+  margin-bottom: 2rem !important; }
 
 .social-icons li a {
   display: flex;
@@ -1047,3 +1050,6 @@ p a {
   color: #000000 !important;
   text-align: center;
   margin-right: 20px; }
+
+.theme-switcher label {
+  margin-right: 8px; }

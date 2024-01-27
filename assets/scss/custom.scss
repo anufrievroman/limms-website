@@ -27,8 +27,12 @@ p a{
     padding-bottom: 40px;
 }
 
-.mb-4 {
+.mb-2 {
   margin-bottom: 0rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 2rem !important;
 }
 
 .social-icons li a {
@@ -42,3 +46,7 @@ p a{
   text-align: center;
   margin-right: 20px;
 }
+
+.theme-switcher label {
+    margin-right: 8px;
+  }

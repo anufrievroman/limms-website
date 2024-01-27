@@ -1,9 +1,16 @@
 {{ define "main" }}
 {{ partial "page-header" . }}
 
+
   <section class="section">
     <div class="container">
 
+      {{ $text:= .Params.info }}
+      {{ if $text }}
+        <div class="mb-10">
+          <p>{{ $text }}</p>
+        </div>
+      {{ end }}
       <div class="centered-title">
         <h2>Directors</h2>
       </div>

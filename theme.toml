@@ -1,9 +1,9 @@
 name = "LIMMS"
 license = "MIT"
-licenselink = "https://github.com/zeon-studio/hugoplate/blob/main/LICENSE"
+licenselink = "https://limms-tokyo.org"
 description = "LIMMS is an international research unit on MEMS and NEMS (Micro- and Nano-Electro-Mechanical Systems) operated in joint names of France, CNRS – INSIS, and Japan, IIS, The University of Tokyo."
-homepage = "https://github.com/zeon-studio/hugoplate"
-demosite = "https://zeon.studio/preview?project=hugoplate"
+homepage = "https://limms-tokyo.org"
+demosite = ""
 min_version = "0.121.2"
 
 tags = [

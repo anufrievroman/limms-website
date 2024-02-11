@@ -43,7 +43,7 @@ url = "patents/"
 [[main]]
 weight = 7
 name = "Positions"
-url = "positions/"
+url = "open-positions/"
 
 [[main]]
 name = "SMMIL-E"

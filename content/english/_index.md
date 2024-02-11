@@ -76,5 +76,3 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 #      label: ""
 #      link: ""
 ---
-
-

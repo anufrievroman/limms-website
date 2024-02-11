@@ -31,3 +31,4 @@ draft: false
 **Contact:**	[https://www.ircl.org/contact](https://www.ircl.org/contact)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d40508.46570656108!2d3.0348490000000004!3d50.612642!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c2d511ea0c4203%3A0xc32eae213ff890d5!2sInstitute%20For%20Recherche%20Sur%20Le%20Cancer%20De%20Lille!5e0!3m2!1sen!2sus!4v1706034181330!5m2!1sen!2sus" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+

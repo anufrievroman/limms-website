@@ -8,6 +8,9 @@ description: "Journal publications"
 draft: false
 ---
 
+### 2024
+
+- R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
 
 ### 2023
 

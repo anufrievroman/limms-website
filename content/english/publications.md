@@ -10,7 +10,8 @@ draft: false
 
 ### 2024
 
-- R. Anufriev, Y. Wu, S. Volz, M. Nomura, [Quasi-ballistic thermal transport in silicon carbide nanowires](https://doi.org/10.1063/5.0180685), Applied Physics Letters 124, 022202 (2024). 
+- R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
+- Y. Ikegami*, T. Duenki*, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
 
 ### 2023
 

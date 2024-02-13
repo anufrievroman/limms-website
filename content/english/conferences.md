@@ -15,9 +15,7 @@ draft: false
 - S. Volz,  Heat Transport driven by Surface Phonon-Polaritons, Thermal Polaritonics Workshop, Tokyo, invited, 2023.
 - S. Volz,  SuperPlanckian Far-Field Phonon-Polaritons, APS Spring 2023, San Francisco, invited, 2023.
 - S. Volz,  Heat Transport driven by Surface Phonon-Polaritons, Thermal Polaritonics Workshop, Tokyo, invited, 2023.
-- Morisseau L, Rodriguez-Fernandez J, Gallego-Ferrer G, Tolosa L, 
-- Legallais C, Jellali R, Sakai Y, Salmeron-Sanchez M, Leclerc E, Modelling Non-Alcoholic Fatty Liver Disease by culturing HepG2C3A cells 
-- using a microfluidic biochip combined with a biomimetic hydrogel, yESAO Exchange Program Award 2023, ESAO 2023, Bergamo, Italy
+- Morisseau L, Rodriguez-Fernandez J, Gallego-Ferrer G, Tolosa L, Legallais C, Jellali R, Sakai Y, Salmeron-Sanchez M, Leclerc E, Modelling Non-Alcoholic Fatty Liver Disease by culturing HepG2C3A cells using a microfluidic biochip combined with a biomimetic hydrogel, yESAO Exchange Program Award 2023, ESAO 2023, Bergamo, Italy
 - Wang H, Danoy M, Tia U, Ya G, Choi H, Arakawa H, Kato Y, Nishikawa M, Sakai Y, Leclerc E,Investigation of the effect of palmitic acid on hepatocyte-like-cells derived from human induced pluripotent stem cells using liver on chip, JSAO 2023, Tokyo , Japan
 - Morisseau L, Pawlowski V, Plaisance V, Legallais C, Sakai Y, Abderrahmani A, Jellali R, Leclerc E, Investigation of oleic acid, palmitic acid and their mixture on the development of hepatic steatosis using liver-on-chip technology,  ESAO 2023, Bergamo, Italy
 

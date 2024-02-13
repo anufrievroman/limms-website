@@ -8,15 +8,59 @@ description: "Conferences"
 draft: false
 ---
 
+### 2023
 
+- D. Decanini, A. Harouri, A. Mizushima, B. J. Kim, Y. Mita, G. Hwang, IEEE MEMS 2023, Munchen, Germany, January 2023
+- Q. Rezard, F. A. Shaik, J.-C. Gerbedoen, F. Cleri, D. Collard, C. Lagadec and M. C. Tarhan, "Silicon compatible process to integrate impedance cytometry with mechanical characterterization", 36th IEEE Int. Conf. on Micro Electro Mechanical Systems (MEMS'23), pp. 475-478, (2023).
+- S. Volz,  Heat Transport driven by Surface Phonon-Polaritons, Thermal Polaritonics Workshop, Tokyo, invited, 2023.
+- S. Volz,  SuperPlanckian Far-Field Phonon-Polaritons, APS Spring 2023, San Francisco, invited, 2023.
+- S. Volz,  Heat Transport driven by Surface Phonon-Polaritons, Thermal Polaritonics Workshop, Tokyo, invited, 2023.
+- Morisseau L, Rodriguez-Fernandez J, Gallego-Ferrer G, Tolosa L, 
+- Legallais C, Jellali R, Sakai Y, Salmeron-Sanchez M, Leclerc E, Modelling Non-Alcoholic Fatty Liver Disease by culturing HepG2C3A cells 
+- using a microfluidic biochip combined with a biomimetic hydrogel, yESAO Exchange Program Award 2023, ESAO 2023, Bergamo, Italy
+- Wang H, Danoy M, Tia U, Ya G, Choi H, Arakawa H, Kato Y, Nishikawa M, Sakai Y, Leclerc E,Investigation of the effect of palmitic acid on hepatocyte-like-cells derived from human induced pluripotent stem cells using liver on chip, JSAO 2023, Tokyo , Japan
+- Morisseau L, Pawlowski V, Plaisance V, Legallais C, Sakai Y, Abderrahmani A, Jellali R, Leclerc E, Investigation of oleic acid, palmitic acid and their mixture on the development of hepatic steatosis using liver-on-chip technology,  ESAO 2023, Bergamo, Italy
 
 
 ### 2022
 
--   L. Jalabert, J. Ordonez-Miranda, S. Tachikawa, Y. Wu, R. Anufriev, M. Nomura and S. Volz, Prototype of high-temperature vacuum prober from 300 K to 1200 K for continuous 3-omega thermal measurements, MRS Spring Meeting, SF15.14.07 (oral), May 23rd, Hawaii (2022).
--   B. Ahmadian, D. Mbujamba, J-C. Gerbedoen, M. Kumemura, H. Fujita, D. Collard, S. Dabo-Niang, C. Lagadec, M.C. Tarhan, Single Cell Classification Using Statistical Learning on Mechanical Properties Measured by MEMS Tweezers,  IEEE 35th Int. Conf. on MEMS, (2022), doi: 10.1109/MEMS51670.2022.9699466
--   J. Cacheux, A. Bancaud, J. Ordonez-Miranda, L. Jalabert, Y. Matsunaga “Collagen matrix remodeling by fibroblasts monitored by interstitial flow metrology” Microphysio (2022), Cargèse (France)
-
+- L  Morisseau, R Jellali, A Abderrahmani, V Pawlowski, C Legallais , Y Sakai, E Leclerc, Modeling NAFLD using human-induced Pluripotent Stem Cell and organ-on-chip technology, ESAO congress 2022, Krems, Austria
+- M Danoy, S Poulain, B Scheidecker, SH Kim, T Kido, A Miyajima, Y Sakai, E Leclerc, A transcriptomic study on the influence of the stimulation by a microfluidic environment for the induction of zonation-like patterns in carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells, 9th World congress of biomechanics, WCB, Taipei, August 2022; Taiwan
+- S. Volz, Surface Phonon-Polaritons as Efficient Cooling Vectors, Eurothem NMHTVII, Palermo, May 2022.
+- S. Volz,  Surface Phonon-Polariton as Efficient Heat Carriers, Heraeus Seminar,Bad Honnef, invited, 2022.
+- S. Volz,  Controlling Thermal Radiation /in/ Micro and Nanosytems, MIPE2022, Nagoya, Japan, Plenary, 2022.
+- S. Volz,  Temporal Coherence in Heat Conduction, ICTP, May 30, Trieste, Italy, invited, 2022.
+- S. Volz,  How coherence is driving phonon heat conduction, META2022, July, TorreMolinos, invited, 2022.
+- S. Volz,  Surface Phonon-Polaritons Conduction and Radiation, ICPPP, Slovenia, Plenary, 2022.
+- S. Volz,  Wavelet Analysis Unfolds Thermal Phonon Coherence , MRS Spring 2022, Hawaii, invited, 2022.
+- S. Volz,  How Coherence of Thermal Phonons Impacts Heat Transport, APS Spring 2022, Chicago, invited, 2022.
+- L. Jalabert, J. Ordonez-Miranda, S. Tachikawa, Y. Wu, R. Anufriev, M. Nomura and S. Volz, Prototype of high-temperature vacuum prober from 300 K to 1200 K for continuous 3-omega thermal measurements, MRS Spring Meeting, SF15.14.07 (oral), May 23rd, Hawaii (2022).
+- Y. Guo, M. Nomura, S. Tachikawa, S. Volz, J. Ordonez-Miranda "Quantum of Thermal Conductance of Nanofilms due to Surface Phonon-Polaritons", MRS Spring Meeting & Exibits, (2022).
+- Y. Wu, J. Ordonez-Miranda, L. Jalabert, S. Tachikawa, R. Anufriev, S. Volz, M. Nomura, Macroscale Ballistic Heat Conduction by Surface Phonon-Polaritons, MRS Spring Meeting & Exibits, (2022).
+- R. Anufriev, Y. Wu, J. Ordonez-Miranda, M. Nomura, "Phonon mean free path spectroscopy in Si and SiC nanomembranes in the 4 - 400 K range", MRS Spring Meeting & Exibits, (2022).
+- R. Anufriev, Y. Wu, J. Ordonez-Miranda, M. Nomura, Nanoscale limit of the thermal conductivity in SiC membranes, nanowires, and phononic crystals, Nanoscale and Microscale Heat Transfer VII, (2022).
+- Y. Guo, M. Nomura, S. Tachikawa, S. Volz, J. Ordonez-Miranda, "Quantum of Thermal Conductance of Nanofilms due to Surface Phonon-Polaritons", Nanoscale and Microscale Heat Transfer VII, (2022).
+- X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Phonon hydrodynamic conduction facilitated with isotopic enrichment, Nanoscale and Microscale Heat Transfer VII, (2022).
+- R. Anufriev, A. Ramiere, J. Maire, J. Ordonez-Miranda, S. Volz, M. Nomura, Ballistic heat conduction at nanoscale: demonstrations and applications, Telluride workshop: Thermal Transport at the Nanoscale, (2022).
+- X. Huang, S. Gluchko, R. Anufriev, S. Volz, M. Nomura, Surface nanocones control the heat transport in silicon membrane, The 2nd International Conference on Materials Science & Engineering (Virtual), (2022).
+- X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Study of phonon hydrodynamics in submicroscale graphite ribbon structures, 第6回フォノンエンジニアリング研究会, (2022).
+- H. Xin, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Transition from ballistic to hydrodynamic phonon transport regime in submicroscale purified graphite ribbons, 第83回応用物理学会秋季学術講演会, (2022).
+- J. Ordonez-Miranda, S. Volz, M. Nomura, Resonant Polariton Thermal Transport along a Vacuum Gap, 第83回応用物理学会秋季学術講演会, (2022).
+- Y. Wu, J. Ordonez-Miranda, L. Jalabert, R. Anufriev, S Volz, M. Nomura, Length-dependent Surface Phonon-Polaritons thermal conduction up to 500K, 第83回応用物理学会秋季学術講演会, (2022).
+- M. Nomura (invited), J. Ordonez-Miranda, R. Anufriev, Thermal phonon mean free path analysis of semiconductor membranes, META 2022, (2022).
+- R. Anufriev, J. Ordonez-Miranda, Y. Wu, S. Volz, and M. Nomura, Phonon mean free path in Si and SiC nanostructures linked to their thermal conductivity, Seminar "Photon, Phonon, and Electron Transitions in Coupled Nanoscale Systems", (invited, online), (2022).
+- R. Anufriev, Y. Wu, S. Gluchko, S. Volz, and M. Nomura, Ballistic phonon and thermal transport at nanoscale, Seminar "Plasmons and Vibrational Dynamics in Nanomaterials",(invited, online), (2022).
+- R. Anufriev, A. Ramiere, J. Maire, S. Gluchko, J. Ordonez-Miranda, S. Volz, and M. Nomura, Ballistic heat conduction at nanoscale: demonstrations and applications, Colloquium at Los Alamos National Laboratory, (2022).
+- J. Ordonez-Miranda, S. Volz, M. Nomura, Heat propagation driven by surface electromagnetic waves, NAMIS Marathon Workshop 2022, (2022).
+- B. Ahmadian, D. Mbujamba, J-C. Gerbedoen, M. Kumemura, H. Fujita, D. Collard, S. Dabo-Niang, C. Lagadec, M.C. Tarhan, Single Cell Classification Using Statistical Learning on Mechanical Properties Measured by MEMS Tweezers,  IEEE 35th Int. Conf. on MEMS, (2022), doi: 10.1109/MEMS51670.2022.9699466
+- J. Cacheux, A. Bancaud, J. Ordonez-Miranda, L. Jalabert, Y. Matsunaga “Collagen matrix remodeling by fibroblasts monitored by interstitial flow metrology” Microphysio (2022), Cargèse (France)
+- S. Grall, Y. Gosselin, I. Muguet, L. Jalabert, S. H. Kim, G. Larrieu, and N. Clement, Na+ Sensing and Electrochemical Noise Measured with Nano FinFET, in SSDM 2022 (Makuhari, Chiba, Japan, 2022), pp. 247–248.
+- D. Decanini, A. Harouri, B. Kim, Y. Mita, G. Hwang, “Manufacturing of magnetically reconfigurable 3D printed micro fractal pipette array”, French symposium on emerging Technologies for Micro-Nanofabrication (JNTE 2022), pp. 29, Besancon, France Nov. 28- Dec. 2, 2022
+- H. Laval, G. Wantz, S. Chambon, “Environmentally Friendly Organic Photovoltaics”,  (Poster), Les Houches School of Physics, Les Houches (France), 3-8 April 2022
+- Gwenaël Bonfante, Anthony Genot, Soo Hyeon Kim, Sylvain Chambon, “Synthesis of organic semiconductor nanoparticles with 3D-printed millifluidic”,  (Flash talk + Poster), Cheminas 46, Tokushima (Japan), 14 – 16 November 2022
+- Sylvain Chambon, “De 1% à 19%, histoire des principales avancées du photovoltaïque organique et futures direction”, (Invited talk), 12ème Journée Nationale du Photovoltaïque (JNPV), 29 November – 2 December 2022, Dourdan, France
+- F. Soncin, Blood vessel-on-chip model of the vascular barrier, 1st International conference on Blood-Tissue Interfaces, 03-04 Octobre 2022, Montpellier, France.
+ 
 ### 2021
 
 -   Rezard, G. Perret, J-C. Gerbedoen, D. Pekin, F. Cleri, D. Collard, C. Lagadec, M.C. Tarhan, Developing A Mems Device for High-Throughput Multi-Parameter Single Cell Biophysical Analysis, IEEE 34th Int. Conf. on MEMS, (2021)

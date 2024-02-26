@@ -1,7 +1,7 @@
 ---
 title: Dorina PAPANASTASIOU
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/dorina.jpg"
 description:  
 ---
 

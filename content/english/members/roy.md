@@ -1,7 +1,7 @@
 ---
 title: Sona ROY
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/roy.jpg"
 description:  
 ---
 

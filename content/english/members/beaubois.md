@@ -1,7 +1,7 @@
 ---
 title: Romain BEAUBOIS
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/beaubois.jpg"
 description:  
 ---
 

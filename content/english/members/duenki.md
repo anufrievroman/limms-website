@@ -1,7 +1,7 @@
 ---
 title: Tomoya DUENKI
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/duenki.jpg"
 description:  
 ---
 

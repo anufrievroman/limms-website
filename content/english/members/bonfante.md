@@ -1,7 +1,7 @@
 ---
 title: Gwenaël BONFANTE 
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/bonfante.jpg"
 description:  
 ---
 

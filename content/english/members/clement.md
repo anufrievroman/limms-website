@@ -1,7 +1,7 @@
 ---
 title: Nicolas CLÉMENT
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/clement.jpg"
 description:  
 ---
 

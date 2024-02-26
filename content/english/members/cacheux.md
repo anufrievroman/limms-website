@@ -1,7 +1,7 @@
 ---
 title: Jean CACHEUX 
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/cacheux.jpg"
 description:  
 ---
 

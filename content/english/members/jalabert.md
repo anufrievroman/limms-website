@@ -1,7 +1,7 @@
 ---
 title: Laurent JALABERT
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/jaja.jpg"
 description:  
 ---
 

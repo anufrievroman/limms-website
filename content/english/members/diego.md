@@ -1,7 +1,7 @@
 ---
 title: Michele DIEGO
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/diego.jpg"
 description:  
 ---
 

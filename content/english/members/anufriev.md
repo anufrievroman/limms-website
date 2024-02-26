@@ -1,7 +1,7 @@
 ---
 title: Roman ANUFRIEV
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/anufriev.jpg"
 description:
 ---
 

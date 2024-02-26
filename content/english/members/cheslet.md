@@ -1,7 +1,7 @@
 ---
 title: Jérémy CHESLET
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/cheslet.jpg"
 description:  
 ---
 

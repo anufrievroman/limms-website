@@ -1,7 +1,7 @@
 ---
 title: Vincent SALLES 
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/salles.jpg"
 description:  
 ---
 

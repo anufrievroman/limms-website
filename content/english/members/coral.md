@@ -1,7 +1,7 @@
 ---
 title: Maëlie CORAL
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/coral.jpg"
 description:  
 ---
 

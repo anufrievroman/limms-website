@@ -1,7 +1,7 @@
 ---
 title: Simon GRALL
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/grall.jpg"
 description:  
 ---
 

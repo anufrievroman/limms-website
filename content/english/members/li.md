@@ -1,7 +1,7 @@
 ---
 title: Shuo LI
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/li.jpg"
 description:  
 ---
 

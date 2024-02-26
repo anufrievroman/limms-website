@@ -1,7 +1,7 @@
 ---
 title: Gilgueng HWANG
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/hwang.jpg"
 description:  
 ---
 

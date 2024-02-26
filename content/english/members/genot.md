@@ -1,7 +1,7 @@
 ---
 title: Anthony GENOT
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/genot.jpg"
 description:  
 ---
 

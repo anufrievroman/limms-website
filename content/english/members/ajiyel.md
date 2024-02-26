@@ -1,7 +1,7 @@
 ---
 title: Hajar AJIYEL
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/ajiyel.jpg"
 description:  
 ---
 

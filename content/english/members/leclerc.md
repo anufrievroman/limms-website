@@ -1,7 +1,7 @@
 ---
 title: Eric LECRERC
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/leclerc.jpg"
 description:  
 ---
 

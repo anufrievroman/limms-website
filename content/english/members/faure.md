@@ -1,7 +1,7 @@
 ---
 title: Pierre-Marie FAURE
 email: 
-image: "/images/avatar.png"
+image: "/images/ava/faure.jpg"
 description:  
 ---
 

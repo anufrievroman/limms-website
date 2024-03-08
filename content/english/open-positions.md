@@ -10,13 +10,12 @@ draft: false
 
 ### Campaign of the JSPS PD long term program through CNRS selection
 
-Application deadline via ABG link below: **18th March 2024**
+Application deadline via ABG links below is **18th March 2024**
 
 - T. Minami Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120992
-
 - N. Matsuhisa Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120993
-
 - Beomjoon Kim Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120994
+
 
 
 ### Campaign Internship FY – 2024

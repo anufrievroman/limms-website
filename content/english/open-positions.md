@@ -8,7 +8,7 @@ description: "Open positions at LIMMS"
 draft: false
 ---
 
-### LIMMS Campaign of the JSPS PD long term program through CNRS selection
+### Campaign of the JSPS PD long term program through CNRS selection
 
 Application deadline via ABG link below: **18th March 2024**
 

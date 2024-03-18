@@ -495,3 +495,30 @@ draft: false
 - F. Evenou, M. Hamon, T. Fujii, S. Takeuchi, and Y. Sakai, “Gas-permeable Membranes and Co-culture with Fibroblasts Enable High-density Hepatocyte Culture as Multilayered Liver Tissues”, Biotechnology Progress, Vol. 27, no.4, pp. 1146-1153, 2011.
 
 - Bisotto, E S Kannan, S Sassine, R Murali, T J Beck, L Jalabert and J-C Portal, “Microwave based nanogenerator using the ratchet effect in Si/SiGe heterostructures”, Nanotechnology Vol. 22, no.24, p.24540, 2011.
+
+
+### 2009
+
+- Arata H., Gillot F., Collard D. and Fujita H., Millisecond analysis of double stranded DNA with ﬂuorescent intercalator by microthermocontrol-device, International Journal of Pure and Applied Analytical Chemistry (Talanta), 79(3): 963-966, 2009
+- Ataka M., Legrand B., Buchaillot L., Collard D. and Fujita H., Design, Fabrication, and Operation of Two-Dimensional Conveyance System With Ciliary Actuator Arrays, IEEE/ASME Transaction on Mechatronics, 14(1): 119-125, 2009
+- Bottier C., Fattaccioli J., Tarhan M.C., Yokokawa R., Morin F.O., Kim B.J., Collard D. and Fujita H., Active transport of oil droplets along oriented microtubules by kinesin molecular motors, Lab on a chip, 9(12):1694-1700, 2009
+- Bozlar M., He D., Bai J., Chalopin Y., Mingo N. and Volz S., Carbon nanotube microarchitectures for enhanced thermal conduction at ultralow mass fraction in polymer composites, Advanced Materials, in press, 2009
+- Chapuis Y.A., Debray A., Jalabert L. and Fujita H., Alternative approach in 3D MEMS-IC integration using ﬂuidic self-assembly techniques, Journal of micromechanics and microengineering, 19(10): 1-9, 2009
+- Collard D. and Fujita H., Mechanical characterization and modeling of chain molecules with MEMS tweezers, IEEJ Transactions on Electrical and Electronic Engineering, Invited, 2009
+- Couderc S., Blech V. and Kim B., New surface treatment and microscale/nanoscale surface patterning using electrostatically clamped stencil mask, Japanese Journal of Applied Physics, 48(9), 2009
+- Couderc S., Ducloux O., Kim B.J. and Someya T., A mechanical switch device made of a polymide-coated microﬁbrillated cellulose sheet, Journal of micromechanics and microengineering, 19(5), 2009
+- Dubuc D., Grenier K., Fujita H. and Toshiyoshi H., Plastic-based microfabrication of artiﬁcial dielectric for miniaturized microwave integrated circuits, Metamaterials, 3: 165-173, 2009
+- Evenou F., Fujii T. and Sakai Y., Spontaneous formation of highly functional three-dimensional multilayer from human hepatoma Hep G2 cells cultured on an oxygen-permeable polydimethylsiloxane membrane, Tissue Engineering Part C: Methods, 2009
+- Grenier K., Dubuc D., Poleni P.E., Kumemura M., Toshiyoshi H., Fujii T. and Fujita H., Integrated Broadband Microwave and Microﬂuidic Sensor Dedicated to Bioengineering, IEEE Transaction on Microwave Theory and Techniques, 57(12), 3246-3253, 2009
+- Hajj B., De Reguardati S., Hugonin L., Le Piouﬂe B., Osaki T., Suzuki H., Takeuchi S., Mojzisova H., Chauvat D. and Zyss J., Electro-optical imaging microscopy of dye-doped artiﬁcial lipidic membranes, Biophysical Journal, 97(11): 2913-2921, 2009
+- Hoel A., Nishida S., Kobayashi D., Nishimori Y., Rijk I. and Kawakatshu H., Building and testing of a liquid Atomic Force Microscope for imaging of biological samples, SEISAN-KENKYU, 61(2): 139-141, 2009
+- Iino R., Lam L., Tabata K., Rondelez Y. and Noji H., Single-molecule assay of biological reaction in femtoliter chamber array, Japanese Journal of Applied Physics, 48(8), 2009
+- Ishida T., Nakajima Y., Endo J., Collard D. and Fujita H., Real-time transmission electron microscope observation of gold nanoclusters diﬀusing into silicon at room temperature, Nanotechnology, 20(6), 2009
+- Jalabert L., Bottier C., Kumemura M. and Fujita H., Embedded SiO2 nanosheets in PDMS using an alternative nanopatterning process, Journal of vacuum science and technology B, 27(6), 2009
+- Levi T., Tomas J., Lewis N. and Fouillat P., A CMOS Resizing Methodology for Analog Circuits, IEEE Design & Test of Computers, 26(1): 78-86, 2009
+- Mahamdi R., Saci L., Mansour F., Temple-Boyer P., Scheid E. and Jalabert L., Physicochemical Characterization of Annealed PolySi/NIDOS/SiO2 Structures, Spectroscopy Letters, 42(3): 167-170, 2009
+- Montagne K., Komori K., Yang F., Tatsuma T., Fujii T. and Sakai Y., A micropatterned cell array with an integrated oxygen-sensitive ﬂuorescent membrane, Photochemical & Photobiological Sciences, 8(11):1529-1533, 2009
+- Nagai M. and Kumemura M., Asai H. and Fujita H., Binding of artiﬁcial object to vorticella for a microsystem powered by a microorganism, Journal of surface science and nanotechnology, 7: 673-676, 2009
+- Osaki T.,Suzuki H.,Le Piouﬂe B. and Takeuchi S., Multichannel simultaneous measurements of single molecule translocation in alpha-hemolysin nanopore array, Analytical Chemistry, Online, 2009
+- Ota S., Yoshizawa S. and Takeuchi S., Microﬂuidic formation of monodisperse, cell-sized, and unilamellar vesicles, Angewandte Chemie, 48(35): 6533-6537, 2009
+- Rousseau E., Siria A., Jourdan G., Volz S., Comin F., Chevrier J. and Greﬀet J.-J., Radiative heat transfer at the nanoscale, Nature Photonics, 3: 514 - 517, 2009

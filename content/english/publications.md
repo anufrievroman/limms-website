@@ -10,6 +10,7 @@ draft: false
 
 ### 2024
 
+- S. Koike, R. Yanagisawa, L. Jalabert, R. Anufriev, M. Kurosawa, T. Mori, M. Nomura; Planar-type SiGe thermoelectric generator with double cavity structure. Appl. Phys. Lett. 18 March 2024; 124 (12): 123902. https://doi.org/10.1063/5.0191450
 - R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
 - Y. Ikegami*, T. Duenki*, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
 

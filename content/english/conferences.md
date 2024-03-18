@@ -310,3 +310,263 @@ draft: false
 -   Y. Rondelez, Building in vitro molecular systems, SFB NanoAgents meeting 2015 Munich Germany 25.02.2015 (invited)
 -   K. Montagne, G. Gines, and Y . Rondelez. Degradation Controlled Non­linearities in DNA Networks, DNA21 Boston, USA, (august 2015) Oral.
 
+
+- Perret, G.; Lacornerie, T.; Manca, F.; Giordano, S.; Kumemura, M.; Lafitte, N.; Jalabert, L.; Lartigau, E.; Fujii, T.; Cleri, F.; Fujita, H.; Collard.D, “Real time mechanical characterization of DNA in liquid during a radiotherapy treatment and its theoretical analysis”, in The 18th International Conference on Solid-State Sensors, Actuators and Microsystems IEEE Transducers, Anchorage, USA, 2015.
+
+- Y. Takayama, T. Ishida, T. Sato, L. Jalabert and H. Fujita, “Study of Viscous Deformation of SiO2 by Nanoscale Tensile Test under In-Situ Observation”, in 27th International Microprocesses and Nanotechnology conference (MNC2014), Fukuoka, Japan, 2015.
+
+- D. Collard, “Nano systems and nano scaled devices for new applications in biology and nanotechnology”, in EUROSOI-ULIS 2015, 2015 Joint International EUROSOI Workshop and International Conference on Ultimate Integration on Silicon, Bologna, Italy, 2015.
+
+- F. Larramendy, D. Serien, S. Yoshida, L. Jalabert, S. Takeuchi and O. Paul, "High-topography surface functionalization based on parylene-C peel-off for patterned cell growth", in The 28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2015), Estoril, Portugal, 2015.
+
+- F. Larramendy, S. Yoshida, Z. Fekete, D. Serien, S. Takeuchi and O. Paul. "Stackable octahedron-based photoresist scaffold by direct laser writing for controlled three-dimensional cell networks" in 18th International Conference on Solid-State Sensors, Actuators and Microsystems. Transducers 2015. Anchorage, Alaska, USA, 2015.
+
+- F. Barz, P. Ruther, S. Takeuchi and O. Paul, "Flexible Silicon-Polymer Neural Probe Rigidified by Dissolvable Insertion Vehicle for High-Resolution Neural Recording with Improved Duration", in The 28th IEEE International Conference on Micro Electro Mechanical Systems (MEMS 2015), Estoril, Portugal, 2015.
+
+- D. Damiron, P. Allain, Y. Miyazaki, D. Kobayashi, N. Sasaki, H. Kawakatsu, " Study on the bottom tracking technique for chemical contrast imaging ", in 62nd JSAP Spring Meeting, Tokyo, Japan, 2015.
+
+- J. Maire, T. Hori, J. Shiomi, M. Nomura, "Thermal conductivity reduction mechanism in Si 1D phononic crystals at room temperature ", in 62nd JSAP Spring Meeting, Tokyo, Japan, 2015.
+
+- A. Tixier-Mita, B-D. Segard, Y-J Kim, Y. Matsunaga, H. Fujita and H. Toshiyoshi, “TFT Display Panel Technology as a Base for Biological Cells Electrical Manipulation - Application to Dielectrophoresis -”, in The 28th IEEE International Conference on Micro Electro Mechanical Systems, MEMS'2015, Estoril, Portugal, 2015.
+
+-  A. Dramé-Maigné, K. Amikura, D. Kiga, T. Fujii, Y. Rondelez, "Artificial networks and droplet compartmentalization as high-throughput selection tools for directed evolution of the nicking enzyme Nt.BstNBI (NBI)", in SSBSS 2015 (International Synthetic and Systems Biology Summer School), Taormina, Italy, 2015.
+
+
+### 2014
+
+
+- D. Damiron, P.E. Allain, Y. Miyazaki, D. Kobayashi, K. Nagao, K. Edagawa, N. Sasaki,H. Kawakatsu, “Efforts to Enhance Chemical Contrast between Atomic Species while Scanning with an All Optical Non-Contact Atomic Force Microscope”, in International Colloquium on Scanning Probe Microscopy (ICSPM22), Atagawa, Japan 2014.
+
+- Y. Miyazaki, P.E. Allain, D. Damiron, D. Kobayashi, K. Nagao, K. Edagawa, N. Sasaki, H. Kawakatsu, “Noise consideration for extraction of information from frequency shift curves for chemical contrast.-Algorithms for treating quantitative data into physical parameters-“, in International Colloquium on Scanning Probe Microscopy (ICSPM22), Atagawa, Japan 2014.
+
+- G. Valet, M. Kumemura, L. Jalabert, Y. Takayama, T. Sato, H. Fujita, "A new TEM liquid-cell with integrated MEMS microfluidic valve", in 31st Sensor Symposium, Matsue, Japan, 2014.
+
+- K. Hatakeyama, E.Sarajlic, M.H. Siekman, L. Jalabert, H. Fujita, N. Tas and L. Abelmann, “Wafer-scale fabrication of scanning thermal probes with integrated metal nanowire resistive elements for sensing and heating”, in The 27th IEEE International Conference on Micro ElectroMechanical Systems (MEMS 2014), San Francisco, USA, 2014.
+
+- P. E. Allain, D. Damiron, Y. Miyazaki, D. Kobayashi, K. Nagao, K. Edagawa N. Sasaki, H. Kawakatsu, “ All optical non-contact Atomic Force Microscope working with high frequency non-flexural modes towards shorter range chemical contrast”, in 7th International Symposium on Surface Science (ISSS-7), Matsue, Japan, 2014.
+
+- Y. Miyazaki, P. E. Allain, D. Damiron, Y. Toriyama, K. Nagao, D. Kobayashi, N. Sasaki, K. Edagawa ,H. Kawakatsu, “Real time chemical contrast technique by direct detection of local minima of frequency shifts, in 7th International Symposium on Surface Science (ISSS-7), Matsue, Japan, 2014.
+
+- P. Allain, D. Damiron, Y. Toriyama ,Y. Miyazaki , D. Kobayashi1 K. Nagao , K. Edagawa; H. Kawakatsu, “Versatile chemical contrast mapping technique by direct detection of local minima of frequency shifts”Flexural and torsional modes – , in NC-AFM, Tsukuba, Japan, 2014.
+
+- D. Damiron, P. Allain, Y. Toriyama, Y. Miyazaki, D. Kobayahi, H. Kawakatsu, “Optimization of amplitude of drive and dither for ‘colour AFM’ “, in NC-AFM, Tsukuba, Japan, 2014.
+
+- Y. Kumata, S. Takeda, P. Allain, K. Nakano, D. Kobayashi, H. Kawakatsu, “Effect of TEM beam on frequency shift curves”, in NC-AFM, Tsukuba, Japan, 2014.
+
+- D.Damiron, P. Allain, Y. Toriyama, Y. Miyazaki, H. Kawakatsu, “Controlling tip sample distance at the local minima of torsional frequency shift -Towards chemical contrast imaging with the torsional mode”, in International Nanotribology Forum, Kerala India, 2014.
+
+- D.Damiron, Y. Toriyama, P. Allain, D. Kobayashi, Y. Miyazaki, N. Sasaki, H. Kawakatsu, “Towards atomic force microscopy with chemical contrast”, in 5th International Workshop on Advanced Scanning Probe Microscopy Techniques, Karlsruhe, Germany, 2014.
+
+- P. Allain, D. Damiron, Y. Toriyama, K. Nagao, D. Kobayashi, K. Edagawa, H. Kawakatsu, “Quasicrystals: a benchmark sample for colour AFM”, in JSAP Spring Meeting, Kanagawa, Japan, 2014.
+
+- D. Damiron, Y. Toriyama, P. Allain, Y. Miyazaki, D. Kobayashi, H. Kawakatsu, “An all-optic UHV atomic force microscopy for chemical contrast in lateral mode”, in JSAP Spring Meeting, Kanagawa, Japan, 2014.
+
+- F. Manca, S. Giordano, P.L. Palla, G. Perret, E. Lartigau, D. Collard, H. Fujita, F. Cleri, "Theoretical study of the basic mechanisms of DNA damage by therapeutic radiation beams", in E-MRS Spring meeting 2014, Symposium N, Lille, France
+
+- G. Perret, T. Lacornerie, M. Kumemura, H. Guillou, L. Jalabert, E. Lartigau, T. Fujii, F. Cleri, H. Fujita, D. Collard, "Silicon nanotweezers inside liquid for the real time characterization of DNA degradation under radiotherapy treatment", in E-MRS Spring meeting 2014, Symposium N, Lille, France, 2014.
+
+- L. Jalabert, T. Sato, G. Valet, D. Guo, R. Kometani, H. Fujita and S. Volz, "Thermal conductivity of DLC nanowire", in E-MRS Spring meeting 2014, Symposium D, Lille, France, 2014.
+
+- S. Nabeya, T. Akao, Y. Takayama, T. Sato, L. Jalabert and H. Fujita,” In situ stem observation of tribology and electrical measurement on ru and ruo2 nano contact for probe-based data storage”, in 7th Asia-Pacific Conference on Transducers and Micro/Nano Technologies (APCOT2014), , Daegu, Korea, 2014.
+
+- G. Valet, T. Sato, L. Jalabert, M. Egawa, Y. Takayama, H. Fujita, “Toward a lab-in-tem by combining application specific mems with tem”, in 7th Asia-Pacific Conference on Transducers and Micro/Nano Technologies (APCOT2014), Daegu, Korea, 2014.
+
+- M. Kumemura, S. L. Karsten, N. Lafitte, H. Guillou, L. Jalabert, H. Fujita, D. Collard, “Electrical detection of amplified dna using silicon nanotweezers”, in 7th Asia-Pacific Conference on Transducers and Micro/Nano Technologies (APCOT2014), Daegu, Korea, 2014.
+
+- H. Guillou, N. Iwanaka, N. Lafitte, M. Kumemura, K. Shimizu, L. Jalabert, S. Kaneda, T. Fujii, H. Fujita, K. Sakata, S. Konishi, D. Collard, “Silicon nano tweezers with force/stiffness/losses measurements of local contractility of myocytes”, in 7th Asia-Pacific Conference on Transducers and Micro/Nano Technologies (APCOT2014), Daegu, Korea, 2014.
+
+- T. LEVI, A. ARAKI, T. FUJII, "Microfluidic neuron: a Neuromimetic Approach to Interact with Biological Neurons", in IEEE EMBS Micro and Nanotechnology in Medecine conference, Hawaii, USA, 2014.
+
+- T. LEVI, M. AMBROISE, F. GRASSIA, O. MALOT, S. SAIGHI, Y. BORNAT, J. TOMAS, S. RENAUD, "Biomimetic neural networks for hybrid experiments", in International Symposium on Neuromorphic and Nonlinear Engineering, ISNNE 2014, Tokyo, Japan, 2014.
+
+- M. AMBROISE, T. LEVI, S. SAIGHI, "Biomimetic CPG on FPGA for hybrid experiments", International Symposium on Neuromorphic and Non-linear Engineering, ISNNE 2014, Tokyo, Japan, 2014.
+
+- S. BACCAR, T. LEVI, D. DALLET, F. BARBARA, "Modeling and Simulation of an Instrumentation Amplifier in High Temperature Using a VHDL-AMS Op-Amp Model", in NEWCAS 2014, Trois-Rivières, Canada, 2014.
+
+- T. LEVI, M. AMBROISE, F. GRASSIA, S. SAIGHI, T. KOHNO, T. FUJII, "Biomimetic CPGs for robotic applications", in 19th International Symposium on Artificial Life and Robotics, Beppu, Japan, 2014.
+
+- F. GRASSIA, T. LEVI, T. KOHNO, S. SAIGHI, "Silicon neuron: digital hardware implementation of the quartic model", in 19th International Symposium on Artificial Life and Robotics, Beppu, Japan, 2014.
+
+- M. Nomura and J. Maire, “Reduced thermal conduction in Si nanowires and phononic crystal nanostructures fabricated using EB lithography,” in The 9th IEEE International Conference on Nano/Micro Engineered and Molecular Systems, T1G-1, Hawaii, USA, 2014.
+
+- Maire Jeremie, “Temperature dependence of thermal conductivity for Si nanostructures,” in  75  ABCD EF GH, Sapporo, Japan, 2014.
+
+- T. Ohkubo, H. Kinoshita, T. Maekawa, H. Kimura, S. Kuroda, and T. Fujii, “Microfluidic cell culture system for dynamic cell signaling study”, in 18th International Conference on Miniaturized Systems for Chemistry and Life Sciences, MicroTAS 2014, Texas, USA, 2014.
+
+- Kim, S.-H., Maria, A., Kobayashi, M., Kaneda, S., Laurell, T., and Fujii, T., “Integration of acoustophoretic cell enrichment and dielectrophoretic single cell trapping for highly efficient rare-cell analysis”, in Proceedings of MicroTAS2014 conference, San Antonio, USA, 2014.
+
+- Kaneda, S., Nakamura, H., Kawada, J., Ono, K., and Fujii, T., "Formation of Spatially-Defined Heterogeneous ECM-Coated Surfaces Using Microfluidic Patterning with Capillary Stop Valves to Control Cell Adhesion of Stem Cells", in Proceedings of IEEE Micronanotechnology in Medicine conference 2014, Hawaii, USA, 2014.
+
+
+### 2013
+
+
+- Nomura Masahiro, Jeremie Maire, “Thermal conductivity reduction in Silicon nanostructures,” in  5 /012 34567 89:;<, Miyagi, Japan, 2013.
+
+- J. Maire and M. Nomura, “Thermal conductivity measurements in phononic crystal nanostructures,“ in International NAMIS Autumn School, Seoul, Korea, 2013.
+
+- T. Levi, "Conception de reseau de neurones du coeur de sangsue", in JFR13, Tokyo, Japan, 2013.
+
+- P. Allain, "Combinaison d'un microscope a force atomique "couleur" avec d'autres microscopes a resolution atomique", in JFR13, Tokyo, Japan, 2013.
+
+- L. Jalabert, "Conductance thermique d'une nanojonction en silicium fabriquee in-situ dans un microscope en transmission", in JFR13, Tokyo, Japan, 2013.
+
+- J. Maire and M. Nomura, “Thermal Conductivity in 1D and 2D Phononic Crystal Nanostructures”, in 2013 MRS Fall meeting, Boston, USA, 2013.
+
+- J. Maire and M. Nomura, “Reduced Thermal Conductivities of Si 1D Phononic Crystal and Nanowire”, in 26th MNC, Sapporro, Japan, 2013.
+
+- J. Maire and M. Nomura, “Thermal conductivity measurement of a 1D Silicon phononic crystal nanostructure”, in 74th JSAP Autumn meeting, Kyoto, 2013.
+
+- J. Maire and M. Nomura, “Reduced thermal conductivity in a 1D Si phononic crystal nanostructure”, in EDISON 18, Matsue, Japan, 2013.
+
+- G. Perret, T. Lacornerie, M. Kumemura, N. Lafitte, H. Guillou, L. Jalabert, E. Lartigau, T. Fuji, F. Cleri, H. Fujita,
+
+- D. Collard, “Real Time Biomechanical Characterization of DNA Damage under Therapeutic Radiation Beams”, in MRS Boston, USA, 2013.
+
+- L. Jalabert, T. Sato, G. Valet, S. Volz, H. Fujita, "in-situ low temperature UHV-TEM nanoscience using MEMS", in 12th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures (ACSIN-12) in conjunction with the 21st International Colloquium on Scanning Probe Microscopy (ICSPM21), 2013..
+
+- T. Sato, L. Jalabert, S. Nabeya, H. Fujita, “In-situ Observation of Single Asperity Friction”, in 12th International Conference on Atomically Controlled Surfaces, Interfaces and Nanostructures (ACSIN-12) in conjunction with the 21st International Colloquium on Scanning Probe Microscopy (ICSPM21), 2013.
+
+- H. Toshiyoshi, Z. Han, K. Kohno, T. Haatainen, T. Makela, H. Fujita, K. Hirakawa, “Electrostatic MEMS tunable split-ring-resonators for THz filter applications”, in IEEE Optical MEMS and Nanophotonics 2013, Kanazawa, Japan, 2013.
+
+- M. Kumemura, S. L. Karsten, N. Lafitte, H. Guillou, L. Jalabert, H. Fujita, D. Collard, “Isothermal amplification of DNA on tips of silicon nanotweezers and its electrical and mechanical characterizations”, in MicroTAS 2013, Freiburg, Germany, 2013.
+
+- R. Renaudot, T. Nguyen, Y. Fouillet, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, V. Agache, “Local surface modification at the microscale enabled by liquid dielectrophoresis”, in MicroTAS 2013, Freiburg, Germany, 2013.
+
+- G.Perret, T.Lacornerie, M.Kumemura, N.Lafitte, H.Guillou, L.Jalabert, E.Lartigau, T.Fujii, F.Cleri, H. Fujita, D.Collard , “Real time bio mechanical characterization of DNA damage under therapeutic radiation beams”, in MicroTAS 2013, Freiburg, Germany, 2013.
+
+- N. Lafitte, “Integrated MEMS Platform with Silicon Nanotweezers and Open Microfluidic Device for Real-Time and Routine Biomechanical Probing on Molecules and Cells”, in EMBC'13, Osaka, Japan, 2013.
+
+- G. Perret, “Silicon Nanotweezers with a Microfluidic Cavity for the Real Time Characterization of DNA Damage under Therapeutic Radiation Beams”, in EMBC'13, Osaka, Japan, 2013.
+
+- N. Lafitte, Y. Haddab, Y. Le Gorrec, H. Guillou, M. Kumemura, L. Jalabert, H. Fujita, D. Collard, “Closed-loop control of silicon nanotweezers for improvement of sensitivity to mechanical stiffness measurement and biosensing on DNA molecules”, in 2013 IEEE/RSJ International Conference on Intelligent Robots and Systems, 2013.
+
+- D. Damiron, Y. Toriyama, M. Othman, D. Kobayashi, H.Kawakatsu, “AFM for Real Time Chemical Identification and its Application in Lateral Force Microscopy”, in MRS Spring Meeting and Exhibit, San Francisco, USA, 2013.
+
+- Y. Toriyama, D. Damiron, O. Mohammad, D. Kobayashi, H. Kawakatsu, “Towards Atomic Force Microscopy with Chemical Contrast”, in MRS Spring Meeting and Exhibit, San Francisco, USA, 2013.
+
+- H. Guillou, N. Lafitte, L. Jalabert, M. Kumemura, T. Fujii, H. Fujita, D. Collard, “Silicon nano tweezers for easy cell biomechanical measurements”, in NMC 2013 Workshop, Stanford, USA, 2013.
+
+- J. Lee, K. Yagi, M. Kumemura, T. Sato, L. Jalabert, D. Collard, H. Houjou, and H. Fujita, “Characterization of conjugated metallopolymer’s mechanical stiffness by using silicon nanotweezers”, in IEEE Transducers 2013, Barcelona, Spain, 2013.
+
+- H. Guillou, N. Lafitte, R. Léal, L. Jalabert, T. Fujii, H. Fujita, Y. T. Matsunaga, D. Collard, “Silicon nanotweezers with double actuation and extended stroke for single cell studies”, in IEEE Transducers 2013, Barcelona, Spain, 2013.
+
+- R. Renaudot, Y. Fouillet, V. Agache, M. Kumemura, L. Jalabert, D. Collard and H. Fujita, “Fast continuous paraffin wax channel-based microfluidic chips fabrication using liquid dielectrophoresis and electrowetting”, in EEE Transducers 2013, Barcelona, Spain, 2013.
+
+- N. Lafitte, Y. Haddab, Y. Le Gorrec, H. Guillou, M. Kumemura, L. Jalabert, D. Collard and H. Fujita, “Active control of silicon nanotweezers detects enzymatic reaction at the molecular level”, in IEEE Transducers 2013, Barcelona, Spain, 2013.
+
+- L. Jalabert, G. Valet, A. Chorosz, D. Guo, R. Kometani, H. Guillou, T. Sato, S. Volz,H. Fujita, “Improved memsin-tem setup for high sensitivity thermal characterization of nanowire using a new tem cryo-holder”, in IEEE Transducers 2013, Barcelona, Spain, 2013.
+
+- T. Sato, T. Ishida, S. Nabeya, L. Jalabert, H. Fujita, “MEMS combined with TEM setup for nanotribology”, in ISPS 2013, Santa Clara, USA, 2013.
+
+- Y. Rondelez, “Advances in Molecular Programming and Computing”,, in Rational design of temporal and spatiotemporal emergence, Copenhaguen, Denmark, 2013.
+
+- Y. Rondelez, “Frontiers of nanoscience and biosystems”, in LIMMS workshop, Paris, France, 2013.
+
+- Y. Rondelez, “Rational encoding of reaction- and reaction-diffusion networks using DNA”, in Solvay Workshop on Patterns and Hydrodynamic Instabilities in Reactive Systems, Bruxelles, Belguim, 2013.
+
+- Y. Rondelez, “Is molecular programming a good model of biological circuits? “, in French-Japanese Workshop on Bioinspired Methods & applications, Tokyo, Japan, 2013.
+
+- A. Baccouche, T. Fujii, Y. Rondelez, “New inhibitory architecture for in vitro DNA reaction networks”, in DNA19, Tempe, USA, 2013.
+
+- N. Aubert, T. Fujii, M. Hagiya, Y. Rondelez, “A Computer Assisted Design Tool for Dynamic DNA Computation Systems” in DNA19, Tempe, USA, 2013.
+
+- A. Padirac, J-C. Galas, A. Zadorin, A. Kalley, Y. Rondelez, A. Estévez-Torres, « DNA molecular programming goes spatial”, in DNA19, Tempe, USA, 2013.
+
+- N. Aubert, H. D. Quang, M. Hagiya, H. Iba, T. Fujii, Y. Rondelez, “Evolution of Cheating DNA-Based Agents Playing the Game of Rock–Paper–Scissors.” In ECAL, Taormine, Italy, 2013.
+
+- A. Padirac, A. Baccouche, T. Fujii, A. Estevez-Torres and Y. Rondelez, “Predator prey molecular landscapes”, in ECAL, Taormine, Italy, 2013.
+
+- Y. Tauran, R. Ueno, B. Kim, A.W. Coleman, “Para-sulphonato-calix[4]arene capped silver nanoparticles as complexing agents of Dopamine and Epinephrine”, in 3rd Euro-India International Conference on Nanomedicine and Tissue Engineering, Kottayam, India, 2013.
+
+- Perry, G., Xiao, W., Provin, C., Shinohara, M., Fujii, T. and Sakai, Y., “ Liver cord reconstruction in microfluidic device for drug screening by bile recovery”, in 1st steps, Symposium on New Technology for Cell-Based Drug Assay, Tokyo, Japan, 2013.
+
+- Xiao, W., Perry, G., Komori, K. and Sakai, Y., “Establishment of a multicellular 3D liver model by co-culturing rat hepatocytes with TMNK-1 based on gas-permeable membranes for drug screening”, in 27th Meeting of the Japanese Society for Alternatives to Animal Experiments, Yokohama National University, Japan, 2013.
+
+### 2012
+
+
+- F. GRASSIA, T. LEVI, S. SAIGHI, T. KOHNO, "Bifurcation analysis in a silicon neuron", in 17th International Symposium on Artificial Life and Robotics, Beppu, Japan, 2012.
+
+- H. Nishizawa, P. Allain, D. Kobayashi and H. Kawakatsu, “Development of Atom Probe Atomic Force Microscope for Chemical Identification”, in ICSPM 20, Okinawa, Japan. 2012.
+
+- J. Malapert, S. Morishita, M. Ataka, H. Fujita and Y. Mita, “CMOS Post-Processing of Ciliary Motion Actuators of UV-patterned Polyimides”, in IEEJ Technical Meeting on Sensors and Micromachines, Kyoto, Japan, 2012.
+
+- D. Damiron, M. Othman, Y. Obata, D. Kobayashi, H. Kawakatsu, “Towards multimodal all-optic UHV Atomic Force Microscopy”, in NC-AFM, Czech republic, 2012.
+
+- Y. Toriyama, D. Damiron, M. Othman, D. Kobayashi, H.Kawakatsu, “AFM with chemical contrast and its application in lateral force microscopy”,in ICSPM 20, Okinawa, Japan. 2012.
+
+- Maurizio R. Gullo, Ryohei Ueno, Yuan Pang, Nobuyuki Takama, Yasuyuki Sakai, Beomjoon Kim and Jürgen Brugger, "Towards Single cell level heat shock protein expression by means of hydrodynamic trapping and local heating", in MFHS-2012 conference (1st. International conference on MicroFluidic Handling Systems), Enschede, The Netherlands, 2012.
+
+- Dominique Collard, Thomas Lacornerie, Momoko Kumemura, Nicolas Lafitte, Herve Guillou, Laurent Jalabert, Eric Lartigau, Teruo Fujii, Fabrizio Cleri, Hiroyuki Fujita, "Silicon nano tweezers for real time biomechanical assay on dna damage by therapeutic radiation beams", in MicroTAS, Okinawa, JAPAN, 2012.
+
+- M. C. Tarhan,D. Collard, L. Jalabert, M. Kumemura, N. Lafitte, Q. Delouvee, S. L. Karsten and H. Fujita, "Continuous real-time monitoring of molecular detection by silicon nanotweezers-integrated microfluidic device", in MicroTAS, Okinawa, JAPAN, 2012.
+
+- Y. Tauran, M. Kumemura, N. Lafitte, R. Ueno, L. Jalabert, Y. Takayama, D. Collard, H. Fujita, A. W. Coleman and B-J. Kim, “Mechanical effect of calix[n]arene capped silver nanoparticles on DNA measured with silicon nano tweezers”, in MicroTAS, Okinawa, JAPAN, 2012.
+
+- R. Renaudot, V. Agache, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, “Performances of High-K dielectric materials (Al2O3, HfO2, ZrO2) for Liquid Dielectropphoresis (LDEP) microfluidic devices”, in 16th International Conference on Miniaturized Systems for Chemistry and Life Sciences (μTAS 2012), Okinawa, Japan, 2012.
+
+- Y. Tauran, R. Ueno, A.W. Coleman and B.J. Kim, “Temperature effects on calixarene capped silver nanoparticle sensing of nucleotides”, in IEEE-NEMS 2012, Kyoto, Japan, 2012.
+
+- J. SONE, L. JALABERT, H. FUJITA, “Feasibility Design of Nano-Displacement Simple Solid Actuator”, in ICMS2012, Kobe, Japan, 2012.
+
+- R. Renaudot, Y. Fouillet, V. Agache, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, “New approach for continuous based-channels microfluidic chips fabrication using EWOD and/or LDEP transductions”, in 8th International Meeting on Electrowetting, Athens, Greece, 2012.
+
+- Adrian Martinez-Rivas, Laurent Mazenq, Laurent Jalabert, Childérick Séverac, Christophe Vieu, "Tube interconnection in polydimethylsiloxane based fluidic microchannels" in MNE 2012, Toulouse, France, 2012.
+
+- L.Jalabert, H.Guillou, T. Sato, T. Ishida, M. Egawa, S. Nabeya, Y. Takayama, S. Volz, H. Fujita, "Toward a Labin-a-TEM by mounting advanced-MEMS in TEM holder." , in MNE 2012, Toulouse, France, 2012.
+
+- Takaaki Sato, Laurent Jalabert, Hiroyuki Fujita, "Development of MEMS integrated into TEM setup to monitor the shear deformation, force and stress for nano tribology", in MNE 2012, Toulouse, France, 2012.
+
+- T. Ishida, L. Jalabert, H. Fujita, “In-situ observation of formation of eutectic structures between gold and silicon”, in 3rd IEEE International Workshop on Low Temperature Bonding for 3D Integration, Tokyo, Japan, 2012.
+
+- L. Jalabert, T. Sato, T. Ishida, H. Fujita, Y. Chalopin and S. Volz, "Ballistic phonon transport in nanowires at ambient temperature", in XIV International Conference on Phonon Scattering in Condensed Matter (PHONON 2012), Ann Arbor, MI USA, 2012.
+
+- Ch. Pigot & A. Hibara, “Microfluidic resonator”, in MEMS 2012, Paris, France, 2012.
+
+- Ch. Pigot & A. Hibara, “Toward chemical senssing on micro-sized interface s using a micro-fluidic resonator”, in IEEE-NEMS 2012, Kyoto, Japan, 2012.
+
+- S. Kaneda, J. Kawada, A. Araki, X. He and T. Fujii, "Synthetic Peptides and Polyethylene Glycol Surfaces for Micropatterning of Pluripotent Stem Cells, " in Proc. ISSCR 2012, Yokohama, 2012.
+
+- J. Kawada, H. Kimura, S. Kaneda, H. Akutsu, Y. Sakai and T. Fujii, "Generating articulated embryoid body for spatially controlled differentiation, " in Proc. ISSCR 2012, Yokohama, 2012.
+
+- X. He, H. Kimura, S. Kaneda, J. Kawada, H. Akutsu, Y. Sakai and T. Fujii, “Patterned Neural and Cardiac Differentiation of One EB of Nanog-iPS Using a Microfliuidic Device,” in Proc. ISSCR 2012, Yokohama, Japan, 2012.
+
+- M. Kobayashi, S. Kaneda, S. H. Kim, and T. Fujii, "An interdigitated microelectrode array for capture and lysing cell as a tool for downstream analysis of acoustofluidic cell separation", in 10th Ultrasonic Standing Network Conference (USWNet 2012), Lund, Sweden, 2012.
+
+- S. H. Kim, X. He, S. Kaneda, J. Kawada, D. Fourmy, H. Noji, and T. Fujii, "Quantitative analysis of gene expression level of indivisual iPS cells by using electroactive microwell array", in Proceedings of MicroTAS 2012 conference, Okinawa, Japan, 2012.
+
+- S. Kaneda, A. Araki, and T. Fujii, "An electronic pipette compatible microfluidic chip for continuous processing of size-dependent cell depletion and immunohistochemistry", in Proceedings of MicroTAS 2012 conference, Okinawa, Japan, 2012.
+
+- A. Araki, S. Kaneda, and T. Fujii, "A simple method for cell isolation by utilizing both cell size and affinity to surfaces", in Proceedings of MicroTAS 2012 conference, Okinawa, Japan, 2012.
+
+- K. Ono, S. Kaneda, and T. Fujii, "Single-step capillary electrophoresis for field-amplified sample stacking", in Proceedings of MicroTAS 2012 conference, Okinawa, Japan, 2012.
+
+- S. Kaneda, A. Araki, and T. Fujii, "A Multi-Well Microfluidic Plate for Parallelization of Cell Separation andCompartmentalization of Separated Cells", in Proceedings of IEEE EMBS Conference on Micro and Nanotechnology in Medicine 2012, Hawaii, USA, 2012.
+
+- A. Araki, S. Kaneda, and T. Fujii, "A Microfluidic Chip for Capturing Rare Cells Utilizing Both Cell Size and Immunoaffinity", in Proceedings of IEEE EMBS Conference on Micro and Nanotechnology in Medicine 2012, Hawaii, USA, 2012.
+
+### 2011
+
+- M. C. Tarhan, R. Yokokawa, L. Jalabert, D. Collard, and H. Fujita, "Assembling Microtubule Networks for a Motor Protein-based Nano Transport System", in MRS Spring Meeting and Exhibit, San Francisco, USA, 2011.
+
+- M. Kumemura, S.L. Karsten, D. Collard, and H. Fujita, "Rolling Circle Amplification (RCA) and Trapping of DNA on a Microchip", in The Asia-Pacific Interdisciplinary, Aichi, Japan, 2011.
+
+- Y. Rondelez,” In vitro dynamic networks”, Annual Meeting on Cell Synthesis Research, Osaka, Japan, 2011. Ch. Pigot & A. Hibara, “Toward improvment of spectral analysis of fluid/fluid interface on a Lab-on-chip”, in ICAS 2011 , Kyoto, 2011.
+
+- Ch. Pigot & A. Hibara, “Modelisation of single beam heterodyne method dedicated to microfluidic systems”, in Asianalysis 2011, Nanjin, China, 2011.
+
+- Ch. Pigot & A. Hibara,” Capillary wave resonance”, in JAIMA 2011, Tokyo, 2011.
+
+- G. Tortissier, P. Ginet, B. Kim, H. Fujita, H. Toshiyoshi; “Enhanced CF4 Plasma Treated Polymer Film for Flexible Display Application“, in Optical MEMS and Nanophotonics, Istanbul, Turkey, 2011.
+
+- G. Tortissier, H. Fujita, H. Toshiyoshi “Color Filter MEMS Flexible Display“, in International Conference on Materials for Advanced Technologies , Singapore, 2011.
+
+- E. S. Kannan, I. Bisotto, R. Murali, T. J. Beck, L. Jalabert, K. Sawano, H. Fujita and J.-C. Portal, “Electronantidot interaction in antidot lattice with different etching parameter”, in The 19th international conference on Electronic Properties of Two-Dimensional Systems (EP2DS19) and the 15th conference on Modulated Semiconductor Structures (MSS 15), Tallahassee, Florida, 2011.
+
+- I. Bisotto, E. S. Kannan, R. Murali, T. J. Beck, L. Jalabert, K. Sawano, H. Fujita and J.-C. Portal, “Ratchet photovoltage in Si/SiGe heterostructure for different antidot lattice parameters”, in the 19th international conference on Electronic Properties of Two-Dimensional Systems (EP2DS19) and the 15th conference on Modulated Semiconductor Structures (MSS 15), Tallahassee, Florida, 2011.
+
+- S. Volz, L. Jalabert, Y. Chalopin and H. Fujita, “Thermal Conductance of Silicon Nanocontacts”, Poster BB9.24, MRS Spring Meeting 2011.
+
+- A. Padirac, K. Montagne, R. Plasson, T. Fujii, Y. Rondelez, “Building complex dynamic behaviors in a tube”, in the 49th Annual Meeting of the Biological Society of Japan, Himeji. Japan, 2011.
+

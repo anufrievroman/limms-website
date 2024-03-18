@@ -329,3 +329,169 @@ draft: false
 - M. Nomura, Y. Kage, J. Nakagawa, T. Hori, J. Maire J. Shiomi, R. Anufriev, D. Moser, O. Paul, Impeded thermal transport in Si multiscale hierarchical architectures with phononic crystal nanostructures, Phys. Rev. B 91, 205422 (2015).
 - A. Zambrano, A. S. Zadorin, Y. Rondelez, A. Estévez-Torres, and J. C. Galas, Pursuit-and-evasion reaction-diffusion waves in microreactors with tailored geometry, J. Phys. Chem. B 119, 5349 (2015).
 
+
+- Q. Huy, N. Aubert, N. Noman, T. Fujii, Y. Rondelez, H. Iba, “An Effective Method for Evolving Reaction Network in Synthetic Biochemical Systems”, IEEE Transaction on Evolutionary Computations, Vol. 19, no. 3, pp. 374386, 2015. (this paper is in 2015)
+
+- Perret, P. Ginet, M.C. Tarhan, A. Baccouche, T. Lacornerie, M. Kumemura, L. Jalabert, F. Cleri, E. Lartigau, B.J. Kim, S.L. Karsten, H. Fujita, Y. Rondelez, T. Fujii, D. Collard, “Nano systems and nano scaled devices in biology and nanotechnology”. Solid-State Electronics, (accepted) 2015.
+
+- S.L. Karsten, M.C. Tarhan, L.C. Kudo, D. Collard, H. Fujita, “Point-of-Care Devices (POCDs) by Means of Advanced MEMS”, Talanta, (in press) 2015.
+
+- F. Larramendy, M-C. Blatche, L. Mazenq, A. Laborde, P. Temple-Boyer and O. Paul. "Microchannel-connected SU-8 honeycombs by single-step projection photolithography for positioning cells on silicon oxide nanopillar arrays" , J. Micromech. Microeng. Vol. 25 p.045010, 2015.
+
+- S. Zadorin, Y. Rondelez, J.-C. Galas, “A. Estevez-Torres Synthesis of Programmable Reaction-Diffusion Fronts Using DNA Catalyzers”, Phys. Rev. Lett, Vol.114,p. 068301, 2015.
+
+- Tozawa, T. Maekawa, H. Kimura, T. Fujii, "A novel effect of parylene-based surface coating on HepG2 cell function", Mater Sci Eng C , Vol. 46, pp. 190-194, 2015.
+
+- N. Lafitte, Y. Haddab, Y. Le Gorrec, M. Kumemura, L. Jalabert, C. Yamahata, et al., "DNA manipulation based on nanotweezers " in Enclyclopedia of nanotechnology, B. Bhusban, Ed., ed: Springer, 2015. (in press) (to put in 2015).
+
+- Provin, A. Nicolas, S. Grégoire, T. Fujii, "A Microfluidic Diffusion Cell for Fast and Easy Percutaneous Absorption Assays", Pharm Res, Vol. 21, no. 8, pp. 2704-2712, 2015.
+
+- N. Lafitte, Y. Haddab, Y. Le Gorrec, H. Guillou, L. Jalabert, D. Collard, et al., "Improvement of silicon nanotweezers sensitivity for mechanical characterization of biomolecules using closed- loop control," IEEE/ASME Trans. Mechatron., Vol. 20, no. 3, pp. 1418-1427, 2015.
+
+- Y. Tauran, B.J. Kim, A.W. Coleman, “Bio-applications of calix[n]arene capped silver nanoparticles”, J. Nanosci. Nanotechnol., (accepted) 2015.
+
+- Collard, N. Lafitte, H. Guillou, M. Kumemura, L. Jalabert, and H. Fujita, "Silicon Nano Tweezers for molecules and cells manipulation and characterization," in Emerging Tools for Micro and Nano Manipulation, X. Liu and Y. Sun, Eds., ed: Wiley-VCH, 2015.
+
+### 2014
+
+
+- H. van Roekel, L. Meijer; S. Masroor, G. Zandra, A. Estévez-Torres, Y. Rondelez, A. Zagaris, M. Peletier, P. Hilbers, T. de Greef, “Automated Design of Programmable Enzyme-Driven DNA Circuits”, ACS Synthetic Biology, Vol. 4, no. 6, pp. 735-745, 2014.
+
+- Baccouche, K. Montagne, A. Padirac, Y. Rondelez, “Dynamic DNA reaction network: a walkthrough”, Methods, Vol. 67, no. 2, pp. 234-249, 2014.
+
+- N. Aubert, T. Fujii, M. Hagiya, Y. Rondelez, “Computer Assisted Design for Scaling Up Systems based on DNA Reaction Networks”, J. R. Soc. Interface, Vol. 11, no. 94, p. 20141167, 2014.
+
+- Bisotto, E.S Kannan, J-C Portal, D. Brown, T.J Beck, Y. Krupko, L. Jalabert, H. Fujita, Y. Hoshi, Y. Shiraki and
+
+- T. Saraya, “Ratchet effect study in Si/SiGe heterostructures in the presence of asymmetrical antidots for different polarizations of microwaves”, Sci. Technol. Adv. Mater, Vol. 15, no. 4, p. 045005, 2014.
+
+- J. Maire and M. Nomura, “Reduced Thermal Conductivities of Si 1D periodic structure and Nanowires,” Jpn. J. of Appl. Phys, Vol. 53, p. 06JE09, 2014.
+
+- M. Nomura and J. Maire, “Towards heat conduction control by phononic nanostructures,” Thermal Science and Engineering, Vol. 53, pp.67-72, 2014.
+
+- M. Nomura and J. Maire, “Mechanism of reduced thermal conduction in fishbone type Si phononic crystal nanostructures”, J. Electron. Mat., Vol. 44, no. 6, 1426-1431, 2014.
+
+- Grassia, T. Levi, T. Kohno, S. Saighi, "Silicon neuron: digital hardware implementation of the quartic model", Artif. Life and Robotics, Vol. 19, no. 3, pp. 215-219, 2014.
+
+- R. Renaudot, Y. Fouillet, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, et al., "Performances of a broad range of dielectric stacks for Liquid Dielectrophoresis transduction," Microfluidics Nanofluidics, vol. 16, pp. 620626, 2014.
+
+- R. Renaudot, Y. Fouillet, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, et al., "Programmable LDEP technology to fabricate versatile master molds for PDMS continuous-flow microfluidic applications," Microfluid Nanofluid, vol. 16, pp. 701-710, 2014.
+
+- Y. Tauran, C. Anjard, B. Kim, M. Rhimi and A. W. Coleman, “ Large supramolecular organic marcrocycles as inhibitors of endonuclease enzymes” Chem. Commun., Vol. 50, pp. 11404-11406, 2014.
+
+- M.M. Chowdhury, M. Danoy, F. Rahman, M. Shinohara, S. Kaneda, K. Shiba, N. Fujita, T. Fujii, Y. Sakai, Y.: “Adhesion of Pancreatic Cancer Cells in a Liver-Microvasculature Mimicking Coculture Correlates with Their Propensity to Form Liver-Specific Metastasis In Vivo,” BioMed Res. Int., Vol. 2014, p. 241571, 2014.
+
+- S.H. Kim, X.M. He, S. Kaneda, J. Kawada, D. Fourmy, H. Noji, T. Fujii, “Quantifying genetically inserted fluorescent protein in single iPS cells to monitor Nanog expression using electroactive microchamber arrays,” Lab Chip, Vol. 14, no. 4, pp. 730-736, 2014.
+
+### 2013
+
+
+- K. Ono, S. Kaneda and T. Fujii, “Single-step CE for miniaturized and easy-to-use system”, Electrophoresis, vol. 34, pp.903-910, 2013.
+
+- S. H. Kim, S. Yoshizawa, S. Takeuchi, T. Fujii and D. Fourmy, “Ultra-high density protein spots achieved by on chip digitalized proteinsynthesis”, Analyst, vol.138, pp. 4663-4669, 2013.
+
+- Tarhan, M. C., Yokokawa, R., Morin, F. O. and Fujita, H., “Specific Transport of Target Molecules by Motor Proteins in Microfluidic Channels”. ChemPhysChem, vol.14: pp.1618–1625, 2013.
+
+- Plessy, C., Desbois, L., Fujii, T. and Carninci, P., “Population transcriptomics with single-cell resolution: A new field made possible by microfluidics”. Bioessays, Vol. 35, pp.131–140, 2013.
+
+- T. Sato, L. Jalabert, H. Fujita, “Development of MEMS integrated into TEM setup to monitor shear deformation, force and stress for nanotribology”, Microelectronic Engineering, Vol.112, pp.269-272, 2013.
+
+- R. Renaudot, V. Agache, Y. Fouillet, G. Laffite, L. Jalabert, E. Bisceglia, M. Kumemura, D. Collard and H. Fujita, "A programmable and reconfigurable microfluidic chip",Lab Chip, vol.13, pp.4517-4524, 2013.
+
+- R. Renaudot, Y. Fouillet, L. Jalabert, M. Kumemura, D. Collard, H. Fujita, V. Agache “Programmable LDEP technology to fabricate versatile master molds for PDMS continuous-flow microfluidic applications”, Microfluidics and Nanofluidics, Vol. 15, no. 3, pp. 297-307, 2013.
+
+- Collard, "Silicon Nanotweezers for Biomechanical and bioelectrical assays," Frontiers in Bioscience, vol. E5, pp. 955-965, 2013.
+
+- K. Hasatani, M. Leocmach, A. J. Genot, A. Estevez-Torres, T. Fujii, Y. Rondelez, “High-throughput observation of compartmentalized biochemical oscillators”, Chem. Commun., Vol. 49, no. 73, pp. 8090-8092, 2013.
+
+- N. Aubert, Q. H. Dinh, M. Hagiya, T. Fujii, H. Iba, N. Bredeche, Y. Rondelez, "Evolution of Cheating DNA-based Agents Playing the Game of Rock-Paper-Scissors." In Advances in Artificial Life, ECAL, vol. 12, pp. 1143-1150, 2013.
+
+- Padirac, T. Fujii, A. Estévez-Torres, Y. Rondelez, “Spatial waves in synthetic biochemical networks”, J. Am. Chem, Vol. 135, no. 39, pp. 14586-14592, 2013.
+
+- A Genot, T. Fujii & Y. Rondelez, “Scaling down DNA circuits with competitive neural networks”, J. R. Soc. Interface, vol.10, p. 20130212, 2013.
+
+- Genot, T. Fujii & Y. Rondelez, “In vitro regulatory models for systems biology”, Journal of Biotechnology Advances, Vol. 31, no. 6, pp. 789-796, 2013.
+
+- T. Fujii & Y. Rondelez, “Predator-prey molecular ecosystems”, ACS nano, vol.7 pp. 27-34, 2013.
+
+- Collard, S. H. Kim, T. Osaki, M. Kumemura, B. Kim, D. Fourmy, T. Fujii, S. Takeuchi, S. L. Karsten, and H. Fujita, "Nano bioresearch approach by microtechnology," Drug Discov Today, vol. 18, pp. 552-559, 2013.
+
+- R. Renaudot, T. Nguyen, Y. Fouillet, D. Jary, M. Kumemura, L. Jalabert, D. Collard, H. Fujita, V. Agache, "Alternative method for local surface functionalization using Liquid Dielectrophoresis: an application with PolyEthyleneImine polymer for bacteria trapping onto a surface", RSC Adv., Vol. 3, no. 24, p. 9214, 2013,
+
+- R. Renaudot, V. Agache, Y. Fouillet, M. Kumemura, L. Jalabert, D. Collard, H. Fujita, “Performances of a broad range of dielectric stacks for liquid dielectrophoresis transduction”, Microfluidics Nanofluidics, Vol. 15, no. 3, pp. 297-307, 2013.
+
+- J. Malapert, S. Morishita, M. Ataka, H. Fujita, D. Collard and Y. Mita, “Power-Regulated Thermal Actuator Based on UV-Patterned Polyimides for a Ciliary Motion System”, IEEJ Trans. on Sensors and Micromachines, Vol.133, pp 77-84, 2013.
+
+- J. Sone, L. Jalabert, H. Fujita, “Design of a Nano-displacement No-wiring Solid Actuator”, Journal of Computational Science and Technology, Vol. 7, no. 2, pp. 148-155, 2013.
+
+- M. Usami, T. Ishida, M. Kumemura, L. Jalabert, D. Collard, H. Fujita, “Four-terminal electrical measurement of a DNA molecular bundle captured by silicon nanotweezers”, IEEJ Transaction on Sensors and Micromachines, Vol. 133, n3, pp.98-99, 2013.
+
+- Daunay, R. Renaudot, M. Kumemura, V. Agache, L. Jalabert, D. Collard and H. Fujita, “Optimized micro devices for liquid-dielectrophoresis (LDEP) actuation of conductive solutions,Sensors and Actuators B”, Chemical, Vol. 177, pp.620–626, 2013.
+
+- Y. Tauran, A. Brioude, A. W. Coleman, M. Rhimi, B. Kim. “Molecular recognition by gold, silver and copper nanoparticles”, World Journal of Biological Chemistry. Vol. 4, pp. 35-63, 2013.
+
+- N. Aubert, Y. Rondelez, T. Fujii, M. Hagiya, “Enforcing delays in DNA computing systems”, Natural Computing, Vol. 13, no. 4, pp. 559-572, 2014 (this paper was put in 2013)
+
+
+- S. Yamaoka, N. Ito, S. Ohka, S. Kaneda, H. Nakamura, T. Agari, T. Masatani, K. Nakagawa, K. Okada, K. Okadera, H. Mitake, T. Fujii and M. Sugiyama, “Involvement of the Rabies Virus Phosphoprotein Gene in Neuroinvasiveness”, J. Virol., vol.87, pp.12327-12338, 2013.
+
+### 2012
+
+
+- F. Grassia, T. Levi, S. Saigh, T. Kohno, "Bifurcation analysis in a silicon neuron", Journal of Artificial Life and Robotics, Springer, vol. 17, Issue 1, pp. 53-58, 2012.
+
+- Hoel, T. Osaki, S. Takeuchi, S. Volz, and H. Kawakatsu, "Molecular Resolution of a Dioleoyl-sn-glycerophosphocholine lipid bilayer in Liquid by Phase Modulation Atomic Force Microscopy", Appl. Phys. Lett., Vol. 101, p. 063117, 2012.
+
+- T. Sato, T. Ishida, L. Jalabert, H. Fujita,”Real-time transmission electron microscope observation of nanofriction at a single Ag asperity”, Nanotechnology, vol.23, p.505701, 2012.
+
+- Padirac, T. Fujii, Y. Rondelez, “Nucleic acids for the rational design of reaction circuits“ Curr. Op. Biotech. Vol. 24, pp.1-6, 2012.
+
+- Padirac, T. Fujii, Y. Rondelez, “Bottom-up construction of in vitro switchable memories.” PNAS 109, E3212E3220 , 2012.
+
+- L. Desbois, A. Padirac, S. Kaneda, Y. Rondelez, D. Hober, D. Collard & T. Fujii, “A microfluidic device for on-chip agarose microbeads generation with ultralow reagent consumption”, Biomicrofluidics, Vol. 6, p. 044101, 2012.
+
+- Genot, T. Fujii, Y. Rondelez, “Competition and computation in biomolecular networks”, Phys. Rev. Lett., Vol. 109, p. 208102, 2012.
+
+- Padirac, T. Fujii, Y. Rondelez, “Quencher-free multiplexed monitoring of DNA reaction circuits”, Nucleic Acid Research, Vol. 40, pp. e118, 2012.
+
+- Y. Rondelez, “Competition for catalytic resources alters biological network dynamics”, Phys. Rev., Vol. 108, p. 018102, 2012.
+
+- M. Kumemura, D. Collard, S. Yoshizawa, B. Wee, S. Takeuchi, and H. Fujita, “Enzymatic Reaction in Droplets Manipulated with Liquid Dielectrophoresis,” ChemPhysChem, vol. 13, no. 14, pp. 3308–3312, 2012.
+
+- Y. Tauran, M. Rhimi, R. Ueno, M. Grosso, A. Brioude, E. Janneau, K. Suwinska, R. Kassab, P. Shahgaldian, A. Cumbo, B. Fenet, B.J. Kim, and A. W. Coleman,” Cytosine: para-sulphonato-calix[4]arene assemblies: in solution, in the solid-state and on the surface of hybrid silver nanoparticles”, J. Incl. Phenom. Macrocycl. Chem., Vol. 74, 2012.
+
+- L. Jalabert, T. Sato, T. Ishida, H. Fujita, Y. Chalopin, S. Volz, “Ballistic Thermal Conductance of a Lab-in-aTEM Made Si Nanojunction”, Nano Lett., Vol.12, pp 5213–5217, 2012.
+
+- F. Perret, Y. Tauran, K. Suwinska, B.J. Kim, C. Chassain-Nely, M. Boulet, and A. W. Coleman, “Molecular recognition and transport of active pharmaceutical ingredients on anionic calix[4]arene-capped silver nanoparticles”, Journal of Chemistry, Vol. 2013, Article ID 191828, 2012.
+
+- J. Sone, L. Jalabert, H. Fujita, “Feasibility study for designing a parylene actuator for nano-positioning”, Transaction on IEEJ, 2012.
+
+- E.S. Kannan, I. Bisotto, J-C. Portal, T.J. Beck, L. Jalabert, “Energy free microwave based signal communication using ratchet effect, Appl. Phys. Lett., Vol. 101, p.143504, 2012.
+
+- Pigot and A. Hibara, “Surface tension measurement at the micro scale by passive resonance of capillary waves”, Analytical Chemistry, Vol.84, pp 2557–2561, 2012.
+
+- S. Kaneda, K. Ono, T. Fukuba, T. Nojima, T. Yamamoto and T. Fujii, "Modification of the Glass Surface Property in PDMS-Glass Hybrid Microfluidic Devices", Analytical Sciences, Vol. 28, no. 1, pp. 39-44, 2012. Daunay, P. Lambert, L. Jalabert, M. Kumemura, R. Renaudot, V. Agache and H. Fujita, “Effect of Substrate Wettability in Liquid Dielectrophoresis (LDEP) Based Droplets Generation: Theoretical Analysis and Experimental Confirmation”, Lab Chip, Vol.12, p.361, 2012.
+
+- Y. Tauran , A. Brioude , P. Shahgaldian , A. Cumbo , B. J. Kim , F. Perret , A. W. Coleman, I. Montasser, “Calix-arene silver nanoparticles interactions with surfactants are charge, size and critical micellar concentration dependent”, Chemical Communications, Vol. 48, no. 76, pp. 9483-9485, 2012
+
+- T. Nojima, S. Kaneda, H. Kimura, T. Yamamoto and T. Fujii, "Application of cell-free expression of GFP for evaluation of microsystems", Frontiers in Bioscience, Vol. 17, pp. 1931-1939, 2012.
+
+### 2011
+
+- T. Fukuba, A. Miyaji, T. Okamoto, T. Yamamoto, S. Kaneda and T. Fujii,” Integrated in situ genetic analyzer for microbiology in extreme environments”, RSC Advances, 2011, Vol. 1, no. 8, pp.1567-1573, 2011.
+
+- Y. Kimura, S. Kaneda, T. Fujii and S. Murata, “Layer-by-Layer Assembly of Photonic Crystal Using DNA”, IEEJ Transactions on Sensors and Micromachines, Vol. 131, no.. 8, pp.286-291 (in Japanese), 2011.
+
+- J Park, S. Nishida, P. Lambert, H. Kawakatsu and H. Fujita, “High-Resolution cantilever biosensor resonator at air-liquid in microchannel” Lab on a Chip, Vol. 11, pp. 4187-4193, no.24, 2011.
+
+- N. Yamamoto, K. Komori, K. Montagne, H. Matsui, H. Nakayama, S. Takeuchi, Y. Sakai, "Cytotoxicity evaluation of reactive metabolites using rat liver homogenate microsome-encapsulated alginate gel microbeads", Journal of Bioscience and Bioengineering, Vol. 111, no.4, pp.454-458, 2011.
+
+- K. Montagne, H. Huang, K. Ohara, K. Matsumoto, A. Mizuno, K. Ohta and Y. Sakai, "Use of liposome encapsulated hemoglobin as an oxygen carrier for fetal and adult rat liver cell culture", Journal of Bioscience and Bioengineering , Vol. 112, pp.485-490, 2011.
+
+- G. Tortissier, P. Ginet, B. Daunay, L. Jalabert ,P. Lambert, B. Kim, H. Fujita and H. Toshiyoshi, “CF4 plasma treatment assisted inkjet printing for color pixel Àexible display”, J. Micromech. Microeng. Vol. 21, p.105021, 2011.
+
+- T. Sato, T. Ishida, L. Jalabert and H. Fujita, “Development of MEMS-in-TEM Setup to Observe Shear Deformation for the Study of Nano-Scale Friction”, Tribology Online, Vol.5, pp. 226-229, 2011.
+
+- F. Evenou, M. Hamon, T. Fujii, S. Takeuchi, and Y. Sakai, “Gas-permeable Membranes and Co-culture with Fibroblasts Enable High-density Hepatocyte Culture as Multilayered Liver Tissues”, Biotechnology Progress, Vol. 27, no.4, pp. 1146-1153, 2011.
+
+- Bisotto, E S Kannan, S Sassine, R Murali, T J Beck, L Jalabert and J-C Portal, “Microwave based nanogenerator using the ratchet effect in Si/SiGe heterostructures”, Nanotechnology Vol. 22, no.24, p.24540, 2011.

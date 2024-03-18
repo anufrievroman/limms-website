@@ -12,10 +12,9 @@ draft: false
 
 Application deadline via ABG links below is **18th March 2024**
 
-- T. Minami Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120992
-- N. Matsuhisa Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120993
-- Beomjoon Kim Lab. Project - https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120994
-
+- T. Minami Lab. [More information](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120992)
+- N. Matsuhisa Lab. [More information](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120993)
+- Beomjoon Kim Lab. [More information](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/120994)
 
 
 ### Campaign Internship FY – 2024

@@ -16,6 +16,9 @@ draft: false
 - Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, (2024) in press.
 - Zhiyong Zheng Z., Simon Grall, Soo Hyeon Kim, Arnaud Chovin, Nicolas Clement, and Christophe Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024)
 - R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
+- Byunggi Kim, Félix Barbier-Chebbah, Yohei Ogawara, Laurent Jalabert, Ryoto Yanagisawa, Roman Anufriev, and Masahiro Nomura*, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano, 18, 15, 10557–10565 (2024)
+- S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters, 124,  123902 (2024).
+- Saeko Tachikawa, Jose Ordonez-Miranda, Laurent Jalabert, Yunhui Wu, Roman Anufriev, Yangyu Guo, Byunggi Kim, Hiroyuki Fujita, Sebastian Volz, and Masahiro Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. accepted (2024).
 
 ### 2023
 

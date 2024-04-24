@@ -1,5 +1,5 @@
 ---
-title: Eric LECRERC
+title: Eric LECLERC
 email: 
 image: "/images/ava/leclerc.jpg"
 description:  

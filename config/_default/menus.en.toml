@@ -16,7 +16,6 @@ name = "Members"
 url = "members/"
 weight = 3
 
-
 [[main]]
 weight = 4
 name = "Publications"
@@ -51,9 +50,20 @@ url = "smmil-e/"
 weight = 8
 
 [[main]]
+weight = 9
+name = "Collaborations"
+hasChildren = true
+
+[[main]]
+weight = 9
+parent = "Collaborations"
+name = "Int collaborations"
+url = "collaborations/"
+
+[[main]]
 name = "Contacts"
 url = "contacts/"
-weight = 9
+weight = 10
 
 # footer menu
 [[footer]]

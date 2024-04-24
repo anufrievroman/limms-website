@@ -10,15 +10,15 @@ draft: false
 
 ### 2024
 
-- T. Osaki*, T. Duenki*, SYA. Chow*, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat Commun 15, 2945 (2024). 
-- Y. Ikegami*, T. Duenki*, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
-- Messelmani T, Le Goff A, Soncin F, Souguir Z, Merlier F, Maubon N, Legallais C, Leclerc E, Jellali R, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75 (2024).
-- Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, (2024) in press.
-- Zhiyong Zheng Z., Simon Grall, Soo Hyeon Kim, Arnaud Chovin, Nicolas Clement, and Christophe Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024)
+- T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat Commun 15, 2945 (2024). 
+- Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
+- T. Messelmani, A. Le Goff, F. Soncin, Z. Souguir, F. Merlier, N. Maubon, C. Legallais, E. Leclerc, R. Jellali, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75 (2024).
+- B. Scheidecker, S. Poulain, M. Sugimoto, T. Kido, T. Kawanishi, A. Miyajima, S.H. Kim, H. Arakawa, Y. Kato, M. Nishikawa, M. Danoy, Y. Sakai, E. Leclerc, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, *in press* (2024).
+- Z. Zheng Z., S. Grall, S. Hyeon Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024)
 - R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
-- Byunggi Kim, Félix Barbier-Chebbah, Yohei Ogawara, Laurent Jalabert, Ryoto Yanagisawa, Roman Anufriev, and Masahiro Nomura*, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano, 18, 15, 10557–10565 (2024)
-- S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters, 124,  123902 (2024).
-- Saeko Tachikawa, Jose Ordonez-Miranda, Laurent Jalabert, Yunhui Wu, Roman Anufriev, Yangyu Guo, Byunggi Kim, Hiroyuki Fujita, Sebastian Volz, and Masahiro Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. accepted (2024).
+- B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano, 18, 15, 10557–10565 (2024)
+- S. Koike, R. Yanagisawa, L. Jalabert, R. Anufriev, M. Kurosawa, T. Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters, 124,  123902 (2024).
+- S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. *accepted* (2024).
 
 ### 2023
 

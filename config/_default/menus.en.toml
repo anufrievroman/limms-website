@@ -57,8 +57,14 @@ hasChildren = true
 [[main]]
 weight = 9
 parent = "Collaborations"
-name = "Int collaborations"
+name = "Int. collaborations"
 url = "collaborations/"
+
+[[main]]
+weight = 9
+parent = "Collaborations"
+name = "KIKO"
+url = "kiko/"
 
 [[main]]
 name = "Contacts"

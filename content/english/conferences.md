@@ -18,6 +18,9 @@ draft: false
 - Morisseau L, Rodriguez-Fernandez J, Gallego-Ferrer G, Tolosa L, Legallais C, Jellali R, Sakai Y, Salmeron-Sanchez M, Leclerc E, Modelling Non-Alcoholic Fatty Liver Disease by culturing HepG2C3A cells using a microfluidic biochip combined with a biomimetic hydrogel, yESAO Exchange Program Award 2023, ESAO 2023, Bergamo, Italy
 - Wang H, Danoy M, Tia U, Ya G, Choi H, Arakawa H, Kato Y, Nishikawa M, Sakai Y, Leclerc E,Investigation of the effect of palmitic acid on hepatocyte-like-cells derived from human induced pluripotent stem cells using liver on chip, JSAO 2023, Tokyo , Japan
 - Morisseau L, Pawlowski V, Plaisance V, Legallais C, Sakai Y, Abderrahmani A, Jellali R, Leclerc E, Investigation of oleic acid, palmitic acid and their mixture on the development of hepatic steatosis using liver-on-chip technology,  ESAO 2023, Bergamo, Italy
+- J. Cheslet, R. Beaubois, U. Rançon, L. Bailly, M. Bernet, T. Kohno, B. Yvert, T. Levi, FPGA implementation of a Spiking Neural Network for Real-Time Action Potential and Burst Detection, IEEE BioCAS 2023, Toronto, Canada
+- F. Soncin. Vaisseaux sanguins-sur-puce pour de nouveaux modèles 3D de barrière vasculaire. 15èmes Journées du Cancéropôle Nord-Ouest, Deauville
+- F. Soncin Blood vessels-on-chip models of the vascular barrier. Webinar series Société Française d'Angiogenèse, online June 1st, 2023
 
 
 ### 2022

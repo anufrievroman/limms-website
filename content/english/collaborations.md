@@ -8,7 +8,7 @@ description: "Collaboration projects with LIMMS"
 draft: false
 ---
 
-## IOMEG
+## BIOMEG
 #### Bordeaux IIS BiOMorphic Group
 
 The objective of the BIOMEG team is to test different technological approaches across various domains (Electronics, Mechanics, Thermics, Chemistry, etc.) to address fundamental questions in Neuroscience and to design innovative multi-physical tools. BIOMEG is an international project team working on high-risk multidisciplinary projects.
@@ -74,12 +74,19 @@ The scientific aim of SUNRYSE IPT is to conceive and fabricate energy-efficient 
 ## MiNanoBio
 #### MIcro-&NANO-technology for BIO-engineering and bio-sensing
 
-Exchange knowledge and technologies in the field of bioengineering and biosensing. The goal is to set up advanced micro-&nano- technologies and biophysical models in LAAS and implement them in advanced bioengineered systems and applications in LIMMS/IIS.
+The MiNanoBio international project team,  between LAAS-CNRS in Toulouse and LIMMS-IIS, is actively developing collaborative projects in the fields of bioengineering and biosensing, including exchange of knowledge and technologies. One direction is to establish advanced micro- and nano-technologies, as well as biophysical models, at LAAS, and subsequently integrate them into advanced bioengineered systems and applications at LIMMS. It is articulated around 4 research activities involving researchers from IIS and LAAS-CNRS:
 
 
 {{< image src="images/minanobio.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-#### Laboratories
+#### Coordinators
+
+- Yoshiho Ikeuchi ,LIMMS-IIS
+- Guilhem Larrieu, LAAS-CNRS
+
+#### Participants
+
+**LIMMS-IIS**
 
 - Ikeuchi Lab
 - SH Kim Lab
@@ -88,9 +95,10 @@ Exchange knowledge and technologies in the field of bioengineering and biosensin
 - Mita Lab
 - Texier Lab
 
-#### Coordinators
+**CNRS**
 
-- A. Genot
-- A. Bancaud
 - N. Clement
+- A. Bancaud
+- A. Genot
 - G. Larrieu
+

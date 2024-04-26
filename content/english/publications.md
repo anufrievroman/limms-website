@@ -48,7 +48,7 @@ draft: false
 - R. Gauthier, N. Attik, C. Chevalier, V. Salles, B. Grosgogeat, K. Gritsch, A.-M. Trunfio-Sfarghiu, 3D Electrospun Polycaprolactone Scaffolds to Assess Human Periodontal Ligament Cells Mechanobiological Behaviour, Biomimetics 8, 108 (2023).
 - X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nat. Comm. 14, 2044 (2023).
 - R. Anufriev, D. Ohori, Y. Wu, R. Yanagisawa, L. Jalabert, S. Samukawa, M. Nomura, Impact of nanopillars on phonon dispersion and thermal conductivity of silicon membranes, Nanoscale 15, 2248 (2023).
-
+- N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023)
 
 ### 2022
 

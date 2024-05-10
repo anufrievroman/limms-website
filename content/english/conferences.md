@@ -7,6 +7,18 @@ description: "Conferences"
 # save as draft
 draft: false
 ---
+### 2024
+
+1. S. Volz, Guided Polaritons Thermal Radiation, MRS Spring Meeting 2024, Seattle, April 2024.
+2. Maelie Coral, Saeko Tachikawa, Jose Ordonez-Miranda, Laurent Jalabert, Roman Anufriev,  Yannick De Wilde, Masahiro Nomura, Sebastian Volz, Far-field Surface Phonon Polaritons-based Thermal Diodicity, PIERS 2024, Chengdu, April 2024.
+3. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, 2D Far-Field Thermal Radiation Driven by Surface Polaritons, PIERS 2024, Chengdu, April 2024.
+4. Jose Ordonez-Miranda, Yuriy Kosevich,  Masahiro Nomura, and Sebastian Volz, Long-range, Short-wavelength, and Ultrafast Heat Conduction Driven by Three Plasmon Modes Supported by Graphene, MRS Spring Meeting 2024, Seattle, April 2024.
+5. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, 2D Far-Field Thermal Radiation Driven by Surface Polaritons, 8th Phonon Engineering Workshop, Miyako, May 2024.
+6. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, Quantum of Far-Field Thermal Radiation between Subwavelength Films, Nanoscale and Microscale Heat Transfer VIII, Girona, June 2024.
+7. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, Net Heat Current at Zero Mean Temperature Gradient, The 3rd Asian Conference on Thermal Sciences, Shanghai, June 2024.
+8. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, Quantum of Far-Field Thermal Radiation between Subwavelength Films, Nanorad, Sapporo, July 2024.
+9. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, Harnessing Thermal Waves for Heat Pumping, ICPPP, Coimbra, July 2024.
+10. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, 2D Far-Field Thermal Radiation Driven by Surface Polaritons, IRMC, Cancun, August 2024.
 
 ### 2023
 

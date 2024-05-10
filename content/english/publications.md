@@ -10,45 +10,48 @@ draft: false
 
 ### 2024
 
-- T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat Commun 15, 2945 (2024). 
-- Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
-- T. Messelmani, A. Le Goff, F. Soncin, Z. Souguir, F. Merlier, N. Maubon, C. Legallais, E. Leclerc, R. Jellali, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75 (2024).
-- B. Scheidecker, S. Poulain, M. Sugimoto, T. Kido, T. Kawanishi, A. Miyajima, S.H. Kim, H. Arakawa, Y. Kato, M. Nishikawa, M. Danoy, Y. Sakai, E. Leclerc, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, *in press* (2024).
-- Z. Zheng Z., S. Grall, S. Hyeon Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024)
-- R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024). 
-- B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano, 18, 15, 10557–10565 (2024)
-- S. Koike, R. Yanagisawa, L. Jalabert, R. Anufriev, M. Kurosawa, T. Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters, 124,  123902 (2024).
-- S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. *accepted* (2024).
+1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat. Comm. 15, 2945 (2024). 
+2. Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12:1259138. (2024).
+3. Messelmani T, Le Goff A, Soncin F, Souguir Z, Merlier F, Maubon N, Legallais C, Leclerc E, Jellali R, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75, 2024
+4. Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, 2024 in press
+5. Zhiyong Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 2024, 146, 9, 6094–6103
+6. R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024).
+7. B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano 2024, 18, 15, 10557–10565.
+8. S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters 124 (12) (2024).
+9. J. Ordonez-Miranda, R. Anufriev, M. Nomura, and S. Volz, Harnessing Thermal Waves for Heat Pumping, Phys Rev. Appl., accepted.
+10. S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. 132, 186904 (2024).
+11. Morisseau L, Tokito F, Lucas M, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene. 2024 Apr 10;917:148441. doi: 10.1016/j.gene.2024.148441.
+12. J Cacheux, T Nakajima, D Alcaide, T Sano, K Doi, A Bancaud, Y T Matsunaga, Protocol for fabricating and characterizing microvessel-on-a-chip for human umbilical vein endothelial cells, STAR protocols 5 (2), 102950 (2024). 
 
 ### 2023
 
-- A. Sekkat, D. T. Papanastasiou, M. A. Ghani, H. Roussel, M. Weber, L. Rapenne, C. Jimenez, D. Munoz-Rojas, D. Bellet, Highly transparent and stable flexible electrodes based on MgO/AgNW nanocomposites for transparent heating applications, Adv. Mater. Technol. 2301143 (2023).
-- J. Ordonez-Miranda, Y. A. Kosevich, M. Nomura, S. Volz, Long-range, short-wavelength, and ultrafast heat conduction driven by three plasmon modes supported by graphene, Phys. Rev. B 108, L161404 (2023).
-- X. Wu, X. Huang, L. Yang, Z. Zhang, Y. Guo, S. Volz, Q Han, M Nomura, Suppressed thermal transport in mathematically inspired 2D heterosystems, Carbon, 213, 118264, (2023).
-- X. Xiang, S. Patinet, S. Volz, Y. Zhou, Quasilocalized vibrational modes as efficient heat carriers in glasses, Int. J. Heat Mass Transf. 210, 124150 (2023).
-- C. Xu, G. Bonfante,  J. Park, V. Salles and B. Kim, Fabrication of an electrospun polycaprolactone substrate for colorimetric bioassays, Biomed. Microdevices 25, 32 (2023).
-- I. Madrid, Z. Zheng, C. Gerbelot, A. Fujiwara, S. Li, S. Grall, K. Nishiguchi, S.-H. Kim, A. Chovin, C. Demaille, N. Clement, Ballistic Brownian Motion of Nanoconfined DNA, ACS Nano 17, 17031 (2023).
-- S. Li, Y. Coffinier, C. Lagadec, F. Cleri, K. Nishiguchi, A. Fujiwara, S.-H. Kim, N. Clement, Single-Cell Electrochemical Aptasensor Array, ACS Sensors 8, 2921 (2023).
-- K. Chennit, Y. Coffinier, S. Li, N. Clement, A. Anne, A. Chovin and C. Demaille, High-density single-antibody electrochemical nanoarrays, Nano Research, 16, 5412 (2023).
-- M. Awadein, M. Sparey, S. Grall, F. Kienberger, N. Clement and G. Gramse, Nanoscale Electrochemical Charge Transfer Kinetics investigated by Electrochemical Scanning Microwave Microscopy, Nanoscale Adv. 5, 659 (2023).
-- J. Cacheux, J. Ordonez-Miranda, A. Bancaud, L. Jalabert, D. Alcaide, M. Nomura, Y. T. Matsunaga, Asymmetry of tensile vs. compressive elasticity and permeability contributes to the regulation of exchanges in collagen gels, Sci. Adv. 9, eadf9775 (2023).
-- S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Phys. Rev. Lett. 130, 218001 (2023).
-- L. Bourdon, N. Attik, L. Belkessam, C. Chevalier, C. Bousige, A. Brioude, V. Salles, Direct-Writing Electrospun Functionalized Scaffolds for Periodontal Regeneration: In Vitro Studies, J. Funct. Biomater. 14, 263 (2023).
-- J. Ordonez-Miranda, L. Jalabert, Y. Wu, S. Volz, and M. Nomura, Analytical integration of the heater and sensor 3ω signals of anisotropic bulk materials and thin films, J. Appl. Phys. 133, 205104 (2023).
-- M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 1-14 (2023).
-- D. Alcaide, J. Cacheux, A. Bancaud, R. Muramatsu, Y. T. Matsunaga, Solute transport in the brain tissue: what are the key biophysical parameters tying in vivo and in vitro studies together?, Biomaterials Science, accepted.
-- I. Persson, H. Laval, S. Chambon, G. Bonfante, K. Hirakawa, G. Wantz, B. Watts, M. A. Marcus, X. Xu, L. Ying, G. Lakhwani, M. R. Andersson, J. M. Cairney, N. P. Holmes, Sub-4 nm mapping of donor–acceptor organic semiconductor nanoparticle composition, Nanoscale  15, 6126 (2023).
-- K. Ghorbani, P. Mirchi, S. Arabha, A. Rajabpour, S Volz, Lattice thermal conductivity and elastic modulus of XN4 (X= Be, Mg and Pt) 2D materials using machine learning interatomic potentials, Physical Chemistry Chemical Physics, accepted.
-- X. Xiang, S. Patinet, S. Volz, Y. Zhou, Quasilocalized vibrational modes as efficient heat carriers in glasses, Int. J. Heat and Mass Transf. 210, 124150, (2023).
-- Z. Zhang, Y. Guo, M. Bescond, M. Nomura, S. Volz, J Chen, Assessing Phonon Coherence Using Spectroscopy, Phys. Rev. B 107, 155426 (2023).
-- Y. Cheng, Z. Fan, T. Zhang, M. Nomura, S. Volz, G. Zhu, B. Li, S. Xiong, Magic angle in thermal conductivity of twisted bilayer graphene, Materials Today Physics, accepted.
-- Z. Zheng, S.-H. Kim, A. Chovin, N. Clement, C. Demaille, Electrochemical response of surface-attached redox DNA governed by low activation energy electron transfer kinetics Chemical Science 14, 3652 (2023).
-- J. Ordonez-Miranda, Y. A. Kosevich, B. J. Lee, M. Nomura, S. Volz, Plasmon Thermal Conductance and Thermal Conductivity of Metallic Nanofilms, Phys. Rev. Appl. 19, 044046 (2023).
-- J. Ordonez-Miranda, M. Coral, M. Nomura,  S. Volz, Resonant thermal transport driven by surface phonon-polaritons in a cylindrical cavity, Int. J. Thermophys. 44, 73 (2023).
-- R. Gauthier, N. Attik, C. Chevalier, V. Salles, B. Grosgogeat, K. Gritsch, A.-M. Trunfio-Sfarghiu, 3D Electrospun Polycaprolactone Scaffolds to Assess Human Periodontal Ligament Cells Mechanobiological Behaviour, Biomimetics 8, 108 (2023).
-- X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nat. Comm. 14, 2044 (2023).
-- R. Anufriev, D. Ohori, Y. Wu, R. Yanagisawa, L. Jalabert, S. Samukawa, M. Nomura, Impact of nanopillars on phonon dispersion and thermal conductivity of silicon membranes, Nanoscale 15, 2248 (2023).
-- N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023)
+1. A. Sekkat, D. T. Papanastasiou, M. A. Ghani, H. Roussel, M. Weber, L. Rapenne, C. Jimenez, D. Munoz-Rojas, D. Bellet, Highly transparent and stable flexible electrodes based on MgO/AgNW nanocomposites for transparent heating applications, Adv. Mater. Technol. 2301143 (2023).
+2. J. Ordonez-Miranda, Y. A. Kosevich, M. Nomura, S. Volz, Long-range, short-wavelength, and ultrafast heat conduction driven by three plasmon modes supported by graphene, Phys. Rev. B 108, L161404 (2023).
+3. X. Wu, X. Huang, L. Yang, Z. Zhang, Y. Guo, S. Volz, Q Han, M Nomura, Suppressed thermal transport in mathematically inspired 2D heterosystems, Carbon, 213, 118264, (2023).
+4. X. Xiang, S. Patinet, S. Volz, Y. Zhou, Quasilocalized vibrational modes as efficient heat carriers in glasses, Int. J. Heat Mass Transf. 210, 124150 (2023).
+5. C. Xu, G. Bonfante,  J. Park, V. Salles and B. Kim, Fabrication of an electrospun polycaprolactone substrate for colorimetric bioassays, Biomed. Microdevices 25, 32 (2023).
+6. I. Madrid, Z. Zheng, C. Gerbelot, A. Fujiwara, S. Li, S. Grall, K. Nishiguchi, S.-H. Kim, A. Chovin, C. Demaille, N. Clement, Ballistic Brownian Motion of Nanoconfined DNA, ACS Nano 17, 17031 (2023).
+7. S. Li, Y. Coffinier, C. Lagadec, F. Cleri, K. Nishiguchi, A. Fujiwara, S.-H. Kim, N. Clement, Single-Cell Electrochemical Aptasensor Array, ACS Sensors 8, 2921 (2023).
+8. K. Chennit, Y. Coffinier, S. Li, N. Clement, A. Anne, A. Chovin and C. Demaille, High-density single-antibody electrochemical nanoarrays, Nano Research, 16, 5412 (2023).
+9. M. Awadein, M. Sparey, S. Grall, F. Kienberger, N. Clement and G. Gramse, Nanoscale Electrochemical Charge Transfer Kinetics investigated by Electrochemical Scanning Microwave Microscopy, Nanoscale Adv. 5, 659 (2023).
+10. J. Cacheux, J. Ordonez-Miranda, A. Bancaud, L. Jalabert, D. Alcaide, M. Nomura, Y. T. Matsunaga, Asymmetry of tensile vs. compressive elasticity and permeability contributes to the regulation of exchanges in collagen gels, Sci. Adv. 9, eadf9775 (2023).
+11. S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Phys. Rev. Lett. 130, 218001 (2023).
+12. L. Bourdon, N. Attik, L. Belkessam, C. Chevalier, C. Bousige, A. Brioude, V. Salles, Direct-Writing Electrospun Functionalized Scaffolds for Periodontal Regeneration: In Vitro Studies, J. Funct. Biomater. 14, 263 (2023).
+13. J. Ordonez-Miranda, L. Jalabert, Y. Wu, S. Volz, and M. Nomura, Analytical integration of the heater and sensor 3ω signals of anisotropic bulk materials and thin films, J. Appl. Phys. 133, 205104 (2023).
+14. M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 1-14 (2023).
+15. D. Alcaide, J. Cacheux, A. Bancaud, R. Muramatsu, Y. T. Matsunaga, Solute transport in the brain tissue: what are the key biophysical parameters tying in vivo and in vitro studies together?, Biomaterials Science, accepted.
+16. I. Persson, H. Laval, S. Chambon, G. Bonfante, K. Hirakawa, G. Wantz, B. Watts, M. A. Marcus, X. Xu, L. Ying, G. Lakhwani, M. R. Andersson, J. M. Cairney, N. P. Holmes, Sub-4 nm mapping of donor–acceptor organic semiconductor nanoparticle composition, Nanoscale  15, 6126 (2023).
+17. K. Ghorbani, P. Mirchi, S. Arabha, A. Rajabpour, S Volz, Lattice thermal conductivity and elastic modulus of XN4 (X= Be, Mg and Pt) 2D materials using machine learning interatomic potentials, Physical Chemistry Chemical Physics, accepted.
+18. X. Xiang, S. Patinet, S. Volz, Y. Zhou, Quasilocalized vibrational modes as efficient heat carriers in glasses, Int. J. Heat and Mass Transf. 210, 124150, (2023).
+19. Z. Zhang, Y. Guo, M. Bescond, M. Nomura, S. Volz, J Chen, Assessing Phonon Coherence Using Spectroscopy, Phys. Rev. B 107, 155426 (2023).
+20. Y. Cheng, Z. Fan, T. Zhang, M. Nomura, S. Volz, G. Zhu, B. Li, S. Xiong, Magic angle in thermal conductivity of twisted bilayer graphene, Materials Today Physics, accepted.
+21. Z. Zheng, S.-H. Kim, A. Chovin, N. Clement, C. Demaille, Electrochemical response of surface-attached redox DNA governed by low activation energy electron transfer kinetics Chemical Science 14, 3652 (2023).
+22. J. Ordonez-Miranda, Y. A. Kosevich, B. J. Lee, M. Nomura, S. Volz, Plasmon Thermal Conductance and Thermal Conductivity of Metallic Nanofilms, Phys. Rev. Appl. 19, 044046 (2023).
+23. J. Ordonez-Miranda, M. Coral, M. Nomura,  S. Volz, Resonant thermal transport driven by surface phonon-polaritons in a cylindrical cavity, Int. J. Thermophys. 44, 73 (2023).
+24. R. Gauthier, N. Attik, C. Chevalier, V. Salles, B. Grosgogeat, K. Gritsch, A.-M. Trunfio-Sfarghiu, 3D Electrospun Polycaprolactone Scaffolds to Assess Human Periodontal Ligament Cells Mechanobiological Behaviour, Biomimetics 8, 108 (2023).
+25. X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nat. Comm. 14, 2044 (2023).
+26. R. Anufriev, D. Ohori, Y. Wu, R. Yanagisawa, L. Jalabert, S. Samukawa, M. Nomura, Impact of nanopillars on phonon dispersion and thermal conductivity of silicon membranes, Nanoscale 15, 2248 (2023).
+27. N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023)
 
 ### 2022
 

@@ -1,5 +1,5 @@
 ---
-title: "EURA LIMMS"
+title: "EURope Asia – LIMMS"
 # meta title
 meta_title: ""
 # meta description
@@ -8,11 +8,11 @@ description: "EURope Asia – LIMMS network on Energy, Bioengineering and Quantu
 draft: false
 ---
 
-### EURope Asia – LIMMS network on Energy, Bioengineering and Quantum & Molecular technologies 
+###  Network on energy, bioengineering and quantum & molecular technologies 
 
 The EURA-LIMMS project aims to create a Europe-Asia network for the development of innovative technologies in energy, bioengineering, and molecular sciences. Our objective is to revive the success of the NAMIS network supported by the CNRS, by adapting the themes to actual key research topics in Engineering and with a restricted number of partners.
 
-{{< image src="images/eura-map.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/eura-map.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="EURA  LIMMS map"  webp="false" >}}
 
 #### The project
 
@@ -22,6 +22,10 @@ The EURA-LIMMS project aims to create a Europe-Asia network for the development 
 - **Industrial Partners** - Interaction with startups and large companies to foster technological implementation.
 Industry partners can take advantage of this Europe/Asia network with leading research labs for their strategic development and provide a financial support to the network.  
 
-{{< image src="images/eura-structure.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/eura-structure.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="EURA LIMMS Structure"  webp="false" >}}
 
-More information: Official website
+#### Summer school
+
+Summer school will be held in Porquerolles, France. The dates will be announced later.
+
+More information: Official website (under construction)

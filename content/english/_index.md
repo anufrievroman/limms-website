@@ -24,7 +24,7 @@ Thanks to its close integration into the French, European and Japanese research 
 info:
   title: "Research topics"
   content: '
-Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing three specific research axes: Energy, Bio, Quantum and Molecular Technologies. For more information about research at LIMMS, [download LIMMS booklet 2023](/files/Booklet2024.pdf)
+Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing three specific research axes: Energy, Bio, Quantum and Molecular Technologies. For more information about research at LIMMS, [download LIMMS booklet 2024](/files/Booklet2024.pdf)
 </br>
 </br>
     {{< accordion "Energy" >}}

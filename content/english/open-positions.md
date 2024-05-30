@@ -29,4 +29,4 @@ Application deadline via ABG links below is **18th March 2024**
 - S. H. Kim Lab: Microplasma project.
 
 
-For more information about the recruitment, see [LIMMS booklet.](/files/Booklet2023.pdf)</p>
+For more information about the recruitment, see [LIMMS booklet.](/files/Booklet2024.pdf)</p>

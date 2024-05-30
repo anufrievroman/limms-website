@@ -190,4 +190,4 @@ http://toshi.iis.u-tokyo.ac.jp/toshilab
 - Energy harvester
 {{< /accordion >}}
 
-For more information about host laboratories, see [LIMMS booklet.](/files/Booklet2023.pdf)
+For more information about host laboratories, see [LIMMS booklet.](/files/Booklet2024.pdf)

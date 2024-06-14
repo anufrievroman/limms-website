@@ -1,12 +1,14 @@
 ---
-title: "International collaborative projects"
+title: "International Project Teams"
 # meta title
 meta_title: ""
 # meta description
-description: "Collaboration projects with LIMMS"
+description: "International Project Teams"
 # save as draft
 draft: false
 ---
+
+The "International Project Team" initiative from the CNRS represents a strategic collaboration framework that fosters the sharing of human and facility resources to support research on specific topics. This partnership involves the Laboratory for Integrated Micro Mechatronic Systems (LIMMS) and a French CNRS laboratory affiliated with or connected to a university. These teams create a vital organic link between France and LIMMS, driven by the efforts of LIMMS alumni who lead projects, supervise students, or conduct research with LIMMS. 
 
 ## BIOMEG
 #### Bordeaux IIS BiOMorphic Group

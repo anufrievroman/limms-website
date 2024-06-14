@@ -57,7 +57,7 @@ hasChildren = true
 [[main]]
 weight = 9
 parent = "Collaborations"
-name = "Int. collaborations"
+name = "International Project Teams"
 url = "collaborations/"
 
 [[main]]

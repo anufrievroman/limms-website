@@ -22,6 +22,10 @@ draft: false
 10. S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. 132, 186904 (2024).
 11. Morisseau L, Tokito F, Lucas M, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene. 2024 Apr 10;917:148441. doi: 10.1016/j.gene.2024.148441.
 12. J Cacheux, T Nakajima, D Alcaide, T Sano, K Doi, A Bancaud, Y T Matsunaga, Protocol for fabricating and characterizing microvessel-on-a-chip for human umbilical vein endothelial cells, STAR protocols 5 (2), 102950 (2024). 
+13. Guéric Etesse, Chloé Salhani, Xiangyu Zhu, Nicolas Cavassilas, Kazuhiko Hirakawa, and Marc Bescond, Selective energy filtering in a multiple-quantum-well nanodevice: The quantum cascade cooler, Phys. Rev. Applied 21, 054010, (2024).
+14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nat. Commun. 15, 5142 (2024).
+15. M. Diego, B. Kim, M. Pirro, S. Volz, and M. Nomura, Piezoelectrically driven diamond phononic nanocavity by phonon-matching scheme for quantum applications, Phys. Rev. Applied 21, 064064 (2024).
+
 
 ### 2023
 

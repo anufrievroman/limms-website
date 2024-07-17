@@ -42,7 +42,7 @@ draft: false
 11. S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Phys. Rev. Lett. 130, 218001 (2023).
 12. L. Bourdon, N. Attik, L. Belkessam, C. Chevalier, C. Bousige, A. Brioude, V. Salles, Direct-Writing Electrospun Functionalized Scaffolds for Periodontal Regeneration: In Vitro Studies, J. Funct. Biomater. 14, 263 (2023).
 13. J. Ordonez-Miranda, L. Jalabert, Y. Wu, S. Volz, and M. Nomura, Analytical integration of the heater and sensor 3ω signals of anisotropic bulk materials and thin films, J. Appl. Phys. 133, 205104 (2023).
-14. M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 1-14 (2023).
+14. M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 53, 661, (2023).
 15. D. Alcaide, J. Cacheux, A. Bancaud, R. Muramatsu, Y. T. Matsunaga, Solute transport in the brain tissue: what are the key biophysical parameters tying in vivo and in vitro studies together?, Biomaterials Science, accepted.
 16. I. Persson, H. Laval, S. Chambon, G. Bonfante, K. Hirakawa, G. Wantz, B. Watts, M. A. Marcus, X. Xu, L. Ying, G. Lakhwani, M. R. Andersson, J. M. Cairney, N. P. Holmes, Sub-4 nm mapping of donor–acceptor organic semiconductor nanoparticle composition, Nanoscale  15, 6126 (2023).
 17. K. Ghorbani, P. Mirchi, S. Arabha, A. Rajabpour, S Volz, Lattice thermal conductivity and elastic modulus of XN4 (X= Be, Mg and Pt) 2D materials using machine learning interatomic potentials, Physical Chemistry Chemical Physics, accepted.
@@ -55,7 +55,14 @@ draft: false
 24. R. Gauthier, N. Attik, C. Chevalier, V. Salles, B. Grosgogeat, K. Gritsch, A.-M. Trunfio-Sfarghiu, 3D Electrospun Polycaprolactone Scaffolds to Assess Human Periodontal Ligament Cells Mechanobiological Behaviour, Biomimetics 8, 108 (2023).
 25. X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nat. Comm. 14, 2044 (2023).
 26. R. Anufriev, D. Ohori, Y. Wu, R. Yanagisawa, L. Jalabert, S. Samukawa, M. Nomura, Impact of nanopillars on phonon dispersion and thermal conductivity of silicon membranes, Nanoscale 15, 2248 (2023).
-27. N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023)
+27. N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023).
+28. T. Messelmani, I. Zarpellon Nascimento, E. Leclerc, C. Legallais, A. Meziane, W. Cesar, R. Jellali, A. Le Goff, Flow rate variations in microfluidic circuits with free surfaces, Microfluidics and Nanofluidics,  27, 79, (2023)
+29. Morisseau L, Tokito F, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E, Generation of b-like cell subtypes from differentiated human induced pluripotent stem cells in 3D spheroids, Molecular omics, 19, 810-822, (2023).
+30. N. Lobato-Dauzier, R. Deteix, G Gines, A Baccouche, BN Hapsianto, Silicon chambers for enhanced incubation and imaging of microfluidic droplets, Lab on a Chip 23 (12), 2854-2865, (2023).
+31. G. Gines, A. J. Genot., Y. Rondelez. Parallel Computations with DNA-Encoded Chemical Reaction Networks. In Visions of DNA Nanotechnology at 40 for the Next 40: A Tribute to Nadrian C. Seeman (pp. 349-369). Singapore: Springer Nature Singapore. (2023).
+32. D. Lavenier, M. Antonini, Y. Rondelez, A. Genote.  Stocker les données: la piste prometteuse de l’ADN. Interstices. (2023).
+33. C Kieffer, AJ Genot, Y Rondelez, G Gines, Molecular computation for molecular classification, Advanced Biology 7 (3), 2200203, (2023).
+
 
 ### 2022
 
@@ -102,6 +109,8 @@ draft: false
 - A. Soltani, B. Benbakhti, J.-C. Gerbedoen, A. Khediri, H. Maher, J.-P. Salvestrini, A. Ougazzaden, N. E. Bourzgui, H.A. Barkad, A cost-effective technology to improve the power performance of nanoribbons GaN HEMTs, Appl. Phys. Lett. 120, 042102 (2022).
 - F. A. Shaik, C. Lewuillon, A. Guillemette, B. Ahmadian, C. Brinster, B. Quesnel, D. Collard, Y. Touil, L. Lemonnier, and M. C. Tarhan, Pairing cells of different sizes in a microfluidic device for immunological synapse monitoring. Lab. Chip 22, 908 (2022).
 - M. Danoy, S. Poulain, B. Scheidecker, R. Jellali, Y. Tauran, M. Leduc, J. Bruce, F. Gilard, B. Gakiere, H. Arakawa, Y. Kato, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Influence of CPM-dependent sorting on the multi-omics profile of hepatocyte-like cells matured in microscale biochips, Biochem. Eng. J. 181, 108408 (2022).
+- A Fauste-Gay, N Lobato-Dauzier, A Baccouche, Y Rondelez, SH Kim, et al., Toggling Between Two Limit Cycles in a Molecular Ecosystem, New Generation Computing 40 (2), 703-721, (2022).
+
 
 ### 2021
 
@@ -143,7 +152,9 @@ draft: false
 - M. Kumemura, D. Pekin, V.A. Menon, I. Van Seuningen, D. Collard, M.C. Tarhan, Fabricating silicon resonators for analysing biological samples, Micromachines 12, 1546 (2021). Download
 - Z. Yang, H. Benhabiles, K. Hammoudi, F. Windal, R. He, D. Collard, A generalized deep learning-based framework for assistance to the human malaria diagnosis from microscopic images, Neural. Comput. Appl. 34, 14223 (2021). Download
 - K. Hammoudi, H. Benhabiles, M. Melkemi, F. Dornaika, I. Argancas-Carreras, D. Collard, A. Scherpereel, Deep learning on chest X-ray images to detect and evaluate pneumonia cases at the era of COVID-19, J. Med. Syst. 45,  7 (2021). Download
-- R. He, H. Benhabiles, F. Windal, G. Evcen, C. Audebert, A. Decherf, D. Collard, A. Taleb-Ahmed, A CNN-based methodology for cow heat analysis from endoscopic images, Appl. Intell. 52, 8372 (2021). Download
+- R. He, H. Benhabiles, F. Windal, G. Evcen, C. Audebert, A. Decherf, D. Collard, A. Taleb-Ahmed, A CNN-based methodology for cow heat analysis from endoscopic images, Appl. Intell. 52, 8372 (2021).
+- S Okumura, BN Hapsianto, N Lobato-Dauzier, Y Ohno, S Benner, Y Torii, et al. Morphological Manipulation of DNA Gel Microbeads with Biomolecular Stimuli, Nanomaterials 11 (2), 293, (2021).
+- K Asano, P Didier, K Ohshiro, N Lobato-Dauzier, AJ Genot, T Minamiki, et al. Real-time detection of glyphosate by a water-gated organic field-effect transistor with a microfluidic chamber, Langmuir 37 (24), 7305-7311, (2021).
 
 ### 2020
 

@@ -10,20 +10,20 @@ draft: false
 
 ### 2024
 
-1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat. Comm. 15, 2945 (2024).
+1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nature Communications 15, 2945 (2024).
 2. Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
 3. Messelmani T, Le Goff A, Soncin F, Souguir Z, Merlier F, Maubon N, Legallais C, Leclerc E, Jellali R, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75 (2024).
 4. Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, 16 025037 (2024).
 5. Zhiyong Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024).
 6. R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024).
-7. B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano 2024, 18, 15, 10557–10565.
+7. B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano 18, 15, 10557 (2024).
 8. S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters 124 (12) (2024).
 9. J. Ordonez-Miranda, R. Anufriev, M. Nomura, and S. Volz, Harnessing Thermal Waves for Heat Pumping, Phys Rev. Appl. 21, 054037 (2024).
-10. S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. 132, 186904 (2024).
+10. S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Physical Review Letters 132, 186904 (2024).
 11. L. Morisseau, F. Tokito, M. Lucas, S. Poulain, SH. Kim, V. Plaisance, V. Pawlowski, C. Legallais, R. Jellali, Y. Sakai, A. Abderrahmani, E. Leclerc. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024).
 12. J Cacheux, T Nakajima, D Alcaide, T Sano, K Doi, A Bancaud, Y T Matsunaga, Protocol for fabricating and characterizing microvessel-on-a-chip for human umbilical vein endothelial cells, STAR protocols 5 (2), 102950 (2024). 
 13. Guéric Etesse, Chloé Salhani, Xiangyu Zhu, Nicolas Cavassilas, Kazuhiko Hirakawa, and Marc Bescond, Selective energy filtering in a multiple-quantum-well nanodevice: The quantum cascade cooler, Phys. Rev. Applied 21, 054010, (2024).
-14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nat. Commun. 15, 5142 (2024).
+14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nature Communicationsn. 15, 5142 (2024).
 15. M. Diego, B. Kim, M. Pirro, S. Volz, and M. Nomura, Piezoelectrically driven diamond phononic nanocavity by phonon-matching scheme for quantum applications, Phys. Rev. Applied 21, 064064 (2024).
 
 
@@ -39,7 +39,7 @@ draft: false
 8. K. Chennit, Y. Coffinier, S. Li, N. Clement, A. Anne, A. Chovin and C. Demaille, High-density single-antibody electrochemical nanoarrays, Nano Research, 16, 5412 (2023).
 9. M. Awadein, M. Sparey, S. Grall, F. Kienberger, N. Clement and G. Gramse, Nanoscale Electrochemical Charge Transfer Kinetics investigated by Electrochemical Scanning Microwave Microscopy, Nanoscale Adv. 5, 659 (2023).
 10. J. Cacheux, J. Ordonez-Miranda, A. Bancaud, L. Jalabert, D. Alcaide, M. Nomura, Y. T. Matsunaga, Asymmetry of tensile vs. compressive elasticity and permeability contributes to the regulation of exchanges in collagen gels, Sci. Adv. 9, eadf9775 (2023).
-11. S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Phys. Rev. Lett. 130, 218001 (2023).
+11. S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Physical Review Letters 130, 218001 (2023).
 12. L. Bourdon, N. Attik, L. Belkessam, C. Chevalier, C. Bousige, A. Brioude, V. Salles, Direct-Writing Electrospun Functionalized Scaffolds for Periodontal Regeneration: In Vitro Studies, J. Funct. Biomater. 14, 263 (2023).
 13. J. Ordonez-Miranda, L. Jalabert, Y. Wu, S. Volz, and M. Nomura, Analytical integration of the heater and sensor 3ω signals of anisotropic bulk materials and thin films, J. Appl. Phys. 133, 205104 (2023).
 14. M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 53, 661, (2023).
@@ -53,7 +53,7 @@ draft: false
 22. J. Ordonez-Miranda, Y. A. Kosevich, B. J. Lee, M. Nomura, S. Volz, Plasmon Thermal Conductance and Thermal Conductivity of Metallic Nanofilms, Phys. Rev. Appl. 19, 044046 (2023).
 23. J. Ordonez-Miranda, M. Coral, M. Nomura,  S. Volz, Resonant thermal transport driven by surface phonon-polaritons in a cylindrical cavity, Int. J. Thermophys. 44, 73 (2023).
 24. R. Gauthier, N. Attik, C. Chevalier, V. Salles, B. Grosgogeat, K. Gritsch, A.-M. Trunfio-Sfarghiu, 3D Electrospun Polycaprolactone Scaffolds to Assess Human Periodontal Ligament Cells Mechanobiological Behaviour, Biomimetics 8, 108 (2023).
-25. X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nat. Comm. 14, 2044 (2023).
+25. X. Huang, Y. Guo, Y. Wu, S. Masubuchi, K. Watanabe, T. Taniguchi, Z. Zhang, S. Volz, T. Machida, M. Nomura, Observation of phonon Poiseuille flow in isotopically-purified graphite ribbons, Nature Communications 14, 2044 (2023).
 26. R. Anufriev, D. Ohori, Y. Wu, R. Yanagisawa, L. Jalabert, S. Samukawa, M. Nomura, Impact of nanopillars on phonon dispersion and thermal conductivity of silicon membranes, Nanoscale 15, 2248 (2023).
 27. N. Garnier, F. Sane, L. Massara, F. Soncin, P. Gosset, D. Hober, S. Szunerits, I. Engelmann. Genes Involved in miRNA Biogenesis Are Not Downregulated in SARS-CoV-2 Infection. Viruses. 15(5), 1177 (2023).
 28. T. Messelmani, I. Zarpellon Nascimento, E. Leclerc, C. Legallais, A. Meziane, W. Cesar, R. Jellali, A. Le Goff, Flow rate variations in microfluidic circuits with free surfaces, Microfluidics and Nanofluidics,  27, 79, (2023)
@@ -104,7 +104,7 @@ draft: false
 - S. Jin, Z. Zhang, Y. Guo, J. Chen, M. Nomura, S. Volz, Optimization of interfacial thermal transport in Si/Ge heterostructure driven by machine learning, Int. J. Heat Mass Transf. 182, 122014, (2022).
 - Y. Zhou, Y. Xu, Y. Gao, S. Volz, Origin of the weakly temperature-dependent thermal conductivity in ZIF-4 and ZIF-62, Phys. Rev. Mat. 6, 015403 (2022).
 - M. Nomura, R. Anufriev, Z. Zhang, J. Maire, Y. Guo, R. Yanagisawa, S. Volz, Review of thermal transport in phononic crystals, Materials Today Physics 22, 100613 (2022).
-- Z. Zhang, Y. Guo, M. Bescond, J. Chen, M. Nomura, S. Volz, Heat conduction theory including phonon coherence, Phys. Rev. Lett. 128 (1), 015901, (2022).
+- Z. Zhang, Y. Guo, M. Bescond, J. Chen, M. Nomura, S. Volz, Heat conduction theory including phonon coherence, Physical Review Letters 128 (1), 015901, (2022).
 - K. Li, Y. Cheng, M. Dou, W. Zeng, S. Volz, S. Xiong, Tuning the anisotropic thermal transport in 110-silicon membranes with surface resonances, Nanomaterials 12, 123, (2022).
 - A. Soltani, B. Benbakhti, J.-C. Gerbedoen, A. Khediri, H. Maher, J.-P. Salvestrini, A. Ougazzaden, N. E. Bourzgui, H.A. Barkad, A cost-effective technology to improve the power performance of nanoribbons GaN HEMTs, Appl. Phys. Lett. 120, 042102 (2022).
 - F. A. Shaik, C. Lewuillon, A. Guillemette, B. Ahmadian, C. Brinster, B. Quesnel, D. Collard, Y. Touil, L. Lemonnier, and M. C. Tarhan, Pairing cells of different sizes in a microfluidic device for immunological synapse monitoring. Lab. Chip 22, 908 (2022).
@@ -238,7 +238,7 @@ draft: false
 - Y. Tauran, M.C. Tarhan, L. Mollet, J.B. Gerves, M. Kumemura, L. Jalabert, N. Lafitte, I. Byun, B.J. Kim, H. Fujita, D. Collard, F. Perret, M. Desbrosses, D. Leonard, C. Goutaudier, A. W. Coleman, Elucidating the mechanism of the considerable mechanical stiffening of DNA induced by the couple Zn2+/Calix[4]arene-1,3-O-diphosphorous acid, Sci. Rep. 8, 1226 (2018).
 - S. Nishikawa, S. H. Kim, Z. Luo, T. Kirihara, Y. Ikeuchi, T. Fujii, T. Levi, Biomimetic microfluidic neurons for bio-hybrid experiments, Artif. Life Robot. 23, 402 (2018).
 - A. Shkurenko, A. N. Lazar, D. Collard, B. Navaza, B. Kim, Y. Tauran, F. Perret, C. Journet-Gautier, A.W. Coleman and K. Suwinska, The solid-state structures of organic salts formed by calix[4]arene dihydroxyphosphonic acid with nucleic bases cations: adeninium, cytosinium, guaninium and uracilium, Supramolecular Chemistry  30,  545 (2018).
-- Y. Zhou, S. Xiong, X. Zhang, S. Volz, M. Hu, Thermal transport crossover from crystalline to partial-crystalline partial-liquid state, Nat. Commun. 9, 4712 (2018).
+- Y. Zhou, S. Xiong, X. Zhang, S. Volz, M. Hu, Thermal transport crossover from crystalline to partial-crystalline partial-liquid state, Nature Communicationsn. 9, 4712 (2018).
 - B. Davier et al., Heat transfer in rough nanofilms and nanowires using full-band ab initio Monte Carlo simulation, J. Condens. Matter Phys. 30, 495902 (2018).
 - R. Anufriev, S. Gluchko, S. Volz, M. Nomura, Quasi-Ballistic Heat Conduction due to Lévy phonon flights in silicon nanowires, ACS Nano 12, 11928 (2018).
 - R. Jellali, F. Gilard, M-J. Fleury, P. Paullier, P. Pandolfi, C. Legallais, E. Leclerc, Metabolomics-on-a-chip approach to study the effects of permethrin (PMT), DDT and their mixture on rat hepatocytes,  J. App. Toxicol. 38, 1121 (2018).
@@ -295,12 +295,12 @@ draft: false
 - C. Callens, N. C. Coelho, A. W. Miller, M. R. D. Sananes, M.-J. Dunham, M. Denoual, D. Coudreuse, A multiplex culture system for the long-term growth of fission yeast cells, Yeast 34, 343 (2017).
 - Y. Mita, E. Lebrasseur, Y. Okamoto, F. Marty, R. Setoguchi, K. Yamada, I. Mori, S. Morishita, Y. Imai, K. Hosaka, A. Hirakawa, S. Inoue, M. Kubota, and M. Denoual, Opportunities of CMOS-MEMS integration through LSI foundry and open facility, Jpn. J. Appl. Phys 56, 06GA03 (2017).
 - J. Maire, R. Anufriev, R. Yanagisawa, S. Volz, M. Nomura, Heat conduction tuning using the wave nature of phonons, Sci. Adv. 3, e1700027 (2017).
-- B. Graczykowski, A. El Sachat, J. S. Reparaz, M. Sledzinska, M-R. Wagner, E. Chavez-Angel, S. Volz,  Y. Wu, F. Alzina, and C-M. Sotomayor Torres, Thermal conductivity and air convection losses in holey phononic crystals at high temperatures, Nat. Commun. 8, 415 (2017).
+- B. Graczykowski, A. El Sachat, J. S. Reparaz, M. Sledzinska, M-R. Wagner, E. Chavez-Angel, S. Volz,  Y. Wu, F. Alzina, and C-M. Sotomayor Torres, Thermal conductivity and air convection losses in holey phononic crystals at high temperatures, Nature Communicationsn. 8, 415 (2017).
 - S. Gluchko, B. Palpant,  S. Volz,  R. Braive, T. Antoni, Thermal Excitation of Broadband and Long-range Surface Waves on SiO2 Submicron Film, App. Phys. Lett. 110, 263108 (2017).
 - V.-T. Tran, J. Saint-Martin, P. Dollfus, S. Volz, Optimizing the thermoelectric performance of graphene nano- ribbons without degrading the electronic properties, Sci. Rep. 7 2313 (2017).
 - A. Ramiere, S. Volz, J. Amrit, Heat flux induced blue-shift of dominant phonon wavelengths and its impact on thermal conductivity, AIP Adv. 7, 015017 (2017).  
 - J. Maire, R. Anufriev, M. Nomura, Ballistic thermal transport in silicon nanowires, Sci. Rep. 7, 41794 (2017).
-- R. Anufriev, A. Ramiere, J. Maire, and M. Nomura, Heat guiding and focusing using ballistic phonon transport in phononic nanostructures, Nat. Commun. 8, 15505 (2017).
+- R. Anufriev, A. Ramiere, J. Maire, and M. Nomura, Heat guiding and focusing using ballistic phonon transport in phononic nanostructures, Nature Communicationsn. 8, 15505 (2017).
 - E. Leclerc, J.-L. Duval, C. Egles, S. Ihida, H. Toshiyoshi, and A. Tixier-Mita, In vitro cyto-biocompatibility study of thin-film transistors substrates using an organotypic culture method, J. Mater. Sci: Mater. Med. 28, 464 (2017).
 - R. Yanagisawa, J. Maire, A. Ramiere, R. Anufriev, M. Nomura, Impact of limiting dimension on thermal conductivity of one-dimensional silicon phononic crystals. Appl. Phys. Lett. 110, 133108 (2017).
 - M. Verdier, R. Anufriev, A. Ramiere, K. Termentzidis, D. Lacroix, Thermal conductivity of phononic membranes with aligned and staggered lattices of holes at room and low temperatures. Phys. Rev. B 95, 205438 (2017).
@@ -316,7 +316,7 @@ draft: false
 - Y. Rondelez, Le minilaboratoire qui fait mille reactions par minutes, Le Monde (2016).
 - Y. Kage, H. Hagino, R. Yanagisawa, J. Maire, K. Miyazaki, M. Nomura, Thermal phonon transport in Si thin film with dog-leg shaped asymmetric nanostructures, Jpn. J. Appl. Phys. 55, 085201 (2016).
 - Y. Pang, Y. Horimoto, S. Sutoko, K. Montagne, M. Shinohara, D. Mathiue, K. Komori, M. Anzai, T. Niino, Y.Sakai, Novel integrative methodology for engineering large liver tissue equivalents based on three-dimensional scaffold fabrication and cellular aggregate assembly, Biofabrication, 8, 035016 (2016).
-- K. Montagne, G. Gines, T. Fuji, Y. Rondelez, Creative destruction: Boosting functionality of synthetic DNA circuits with tailored deactivation, Nat. Commun. 7, 13474 (2016).
+- K. Montagne, G. Gines, T. Fuji, Y. Rondelez, Creative destruction: Boosting functionality of synthetic DNA circuits with tailored deactivation, Nature Communications 7, 13474 (2016).
 - F. Larramendy, S. Yoshida, L. Jalabert, S. Takeuchi, O. Paul, Surface modification for patterned cell growth on substrates with pronounced topographies using sacrificial photoresist and parylene-C peel-off, J. Micromech. Microeng. 26, 095017 (2016).
 - P. Zeller, A. Legendre, S. Jacques, M. J. Fleury, F. Gilard, G. Tcherkez, E. Leclerc, Hepatocyte-Sertoli cells coculture in bioreactor improves the Sertoli barrier permeability, J. Appl. Toxicol. 37, 287 (2016).
 - R. Jellali, J. L. Duval, E. Leclerc, Analysis of the biocompatibility of perfluoropolyether dimethacrylate network using an organotypic method, Mater. Sci. Eng. C 65, 295 (2016).
@@ -341,7 +341,7 @@ draft: false
 - S. H. Kim, M. Antfolk, M. Kobayashi, S. Kaneda, T. Laurell, T. Fujii, Highly efficient single-cell arraying by integrating acoustophoretic cell pre-concentration and dielectrophoretic cell trapping, Lab on a Chip 15, 4356 (2015).
 - S. L. Karsten, M. C. Tarhan, L. C. Kudo, D. Collard, H. Fujita, Point-of-care devices (POCDs) by means of advanced MEMS, Talanta 145,  55 (2015). 
 - F. Larramendy, M.-C. Blatche, L. Mazenq, A. Laborde, P. Temple-Boyer, O. Paul, Microchannel-connected SU-8 honeycombs by single-step projection photolithography for positioning cells on silicon oxide nanopillar arrays, J. Micromech. Microeng. 25, 045010 (2015).
-- A. S. Zadorin, Y. Rondelez, J.-C. Galas, A. Estevez-Torres, Synthesis of programmable reaction-diffusion fronts using DNA catalyzers, Phys. Rev. Lett. 114, 068301 (2015). 
+- A. S. Zadorin, Y. Rondelez, J.-C. Galas, A. Estevez-Torres, Synthesis of programmable reaction-diffusion fronts using DNA catalyzers, Physical Review Letters 114, 068301 (2015). 
 - H. Tozawa, T. Maekawa, H. Kimura, T. Fujii, A novel effect of parylene-based surface coating on HepG2 cell function., Mater. Sci. Eng. C Mater. Biol. Appl. 46, 190 (2015).
 - C. Provin, A. Nicolas, S. Grégoire, T. Fujii, A microfluidic diffusion cell for fast and easy percutaneous absorption assays, Pharm. Res. 32, 2704 (2015). 
 - Y. Tauran, B. J. Kim, A. W. Coleman, Bio-applications of calix[n]arene capped silver nanoparticles, J. Nanosci. Nanotechnol. 15, 6308 (2015).
@@ -363,7 +363,7 @@ draft: false
 
 - F. Larramendy, M-C. Blatche, L. Mazenq, A. Laborde, P. Temple-Boyer and O. Paul. "Microchannel-connected SU-8 honeycombs by single-step projection photolithography for positioning cells on silicon oxide nanopillar arrays" , J. Micromech. Microeng. Vol. 25 p.045010, 2015.
 
-- S. Zadorin, Y. Rondelez, J.-C. Galas, “A. Estevez-Torres Synthesis of Programmable Reaction-Diffusion Fronts Using DNA Catalyzers”, Phys. Rev. Lett, Vol.114,p. 068301, 2015.
+- S. Zadorin, Y. Rondelez, J.-C. Galas, “A. Estevez-Torres Synthesis of Programmable Reaction-Diffusion Fronts Using DNA Catalyzers”, Physical Review Letters Vol.114,p. 068301, 2015.
 
 - Tozawa, T. Maekawa, H. Kimura, T. Fujii, "A novel effect of parylene-based surface coating on HepG2 cell function", Mater Sci Eng C , Vol. 46, pp. 190-194, 2015.
 
@@ -475,9 +475,9 @@ draft: false
 
 - L. Desbois, A. Padirac, S. Kaneda, Y. Rondelez, D. Hober, D. Collard & T. Fujii, “A microfluidic device for on-chip agarose microbeads generation with ultralow reagent consumption”, Biomicrofluidics, Vol. 6, p. 044101, 2012.
 
-- Genot, T. Fujii, Y. Rondelez, “Competition and computation in biomolecular networks”, Phys. Rev. Lett., Vol. 109, p. 208102, 2012.
+- A. Genot, T. Fujii, Y. Rondelez, “Competition and computation in biomolecular networks”, Physical Review Letters, Vol. 109, p. 208102, 2012.
 
-- Padirac, T. Fujii, Y. Rondelez, “Quencher-free multiplexed monitoring of DNA reaction circuits”, Nucleic Acid Research, Vol. 40, pp. e118, 2012.
+- A. Padirac. T. Fujii. Y. Rondelez, “Quencher-free multiplexed monitoring of DNA reaction circuits”, Nucleic Acid Research, Vol. 40, pp. e118, 2012.
 
 - Y. Rondelez, “Competition for catalytic resources alters biological network dynamics”, Phys. Rev., Vol. 108, p. 018102, 2012.
 

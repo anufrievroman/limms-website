@@ -17,14 +17,14 @@ draft: false
 5. Z. Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024).
 6. R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024).
 7. B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano 18, 15, 10557 (2024).
-8. S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters 124 (12) (2024).
+8. S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters 124, 123902 (2024).
 9. J. Ordonez-Miranda, R. Anufriev, M. Nomura, and S. Volz, Harnessing Thermal Waves for Heat Pumping, Phys Rev. Appl. 21, 054037 (2024).
 10. S.Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Physical Review Letters 132, 186904 (2024).
 11. L. Morisseau, F. Tokito, M. Lucas, S. Poulain, SH. Kim, V. Plaisance, V. Pawlowski, C. Legallais, R. Jellali, Y. Sakai, A. Abderrahmani, E. Leclerc. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024).
 12. J Cacheux, T Nakajima, D Alcaide, T Sano, K Doi, A Bancaud, Y T Matsunaga, Protocol for fabricating and characterizing microvessel-on-a-chip for human umbilical vein endothelial cells, STAR protocols 5 (2), 102950 (2024). 
 13. G. Etesse, C. Salhani, X. Zhu, N. Cavassilas, K. Hirakawa, and M. Bescond, Selective energy filtering in a multiple-quantum-well nanodevice: The quantum cascade cooler, Phys. Rev. Applied 21, 054010, (2024).
 14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nature Communications. 15, 5142 (2024).
-15. M. Diego, B. Kim, M. Pirro, S. Volz, and M. Nomura, Piezoelectrically driven diamond phononic nanocavity by phonon-matching scheme for quantum applications, Phys. Rev. Applied 21, 064064 (2024).
+15. M. Diego, B. Kim, M. Pirro, S. Volz, and M. Nomura, Piezoelectrically driven diamond phononic nanocavity by phonon-matching scheme for quantum applications, Physical Review Applied 21, 064064 (2024).
 
 
 ### 2023

@@ -10,17 +10,17 @@ draft: false
 
 ### 2024
 
-1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat. Comm. 15, 2945 (2024). 
-2. Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12:1259138. (2024).
-3. Messelmani T, Le Goff A, Soncin F, Souguir Z, Merlier F, Maubon N, Legallais C, Leclerc E, Jellali R, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75, 2024
-4. Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, 2024 in press
-5. Zhiyong Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 2024, 146, 9, 6094–6103
+1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nat. Comm. 15, 2945 (2024).
+2. Y. Ikegami, T. Duenki, I. Arakaki, R. Sakai, T. Osaki, S. Ashihara, T. Furushima, Y. Ikeuchi, A simple and inexpensive laser dissection of fasciculated axons from motor nerve organoids, Front. Bioeng. Biotechnol. 12, 1259138. (2024).
+3. Messelmani T, Le Goff A, Soncin F, Souguir Z, Merlier F, Maubon N, Legallais C, Leclerc E, Jellali R, Coculture model of a liver sinusoidal endothelial cell barrier and HepG2/C3a spheroids-on-chip in an advanced fluidic platform, Journal of Bioscience and Bioengineering, 137, 64-75 (2024).
+4. Scheidecker B, Poulain S, Sugimoto M, Kido T, Kawanishi T, Miyajima A, Kim SH, Arakawa H, Kato Y, Nishikawa M, Danoy M, Sakai Y, Leclerc E, Dynamic, IPSC-derived hepatic tissue tri-culture system for the evaluation of liver physiology in vitro, Biofabrication, 16 025037 (2024).
+5. Zhiyong Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, and C. Demaille, Activationless Electron Transfer of Redox-DNA in Electrochemical Nanogaps, J. Am. Chem. Soc. 146, 9, 6094–6103 (2024).
 6. R. Anufriev, Y. Wu, S. Volz, M. Nomura, Quasi-ballistic thermal transport in silicon carbide nanowires, Applied Physics Letters 124, 022202 (2024).
 7. B. Kim, F. Barbier-Chebbah, Y. Ogawara, L. Jalabert, R. Yanagisawa, R. Anufriev, and M. Nomura, Anisotropy Reversal of Thermal Conductivity in Silicon Nanowire Networks Driven by Quasi-Ballistic Phonon Transport, ACS Nano 2024, 18, 15, 10557–10565.
 8. S Koike, R Yanagisawa, L Jalabert, R Anufriev, M Kurosawa, T Mori and M. Nomura, Planar-type SiGe thermoelectric generator with double cavity structure, Applied Physics Letters 124 (12) (2024).
-9. J. Ordonez-Miranda, R. Anufriev, M. Nomura, and S. Volz, Harnessing Thermal Waves for Heat Pumping, Phys Rev. Appl., accepted.
+9. J. Ordonez-Miranda, R. Anufriev, M. Nomura, and S. Volz, Harnessing Thermal Waves for Heat Pumping, Phys Rev. Appl. 21, 054037 (2024).
 10. S. Tachikawa, J. Ordonez-Miranda, L. Jalabert, Y. Wu, R. Anufriev, Y. Guo, B. Kim, H. Fujita, S. Volz, and M. Nomura, Enhanced far-field thermal radiation through a polaritonic waveguide, Phys. Rev. Lett. 132, 186904 (2024).
-11. Morisseau L, Tokito F, Lucas M, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene. 2024 Apr 10;917:148441. doi: 10.1016/j.gene.2024.148441.
+11. L. Morisseau, F. Tokito, M. Lucas, S. Poulain, SH. Kim, V. Plaisance, V. Pawlowski, C. Legallais, R. Jellali, Y. Sakai, A. Abderrahmani, E. Leclerc. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024).
 12. J Cacheux, T Nakajima, D Alcaide, T Sano, K Doi, A Bancaud, Y T Matsunaga, Protocol for fabricating and characterizing microvessel-on-a-chip for human umbilical vein endothelial cells, STAR protocols 5 (2), 102950 (2024). 
 13. Guéric Etesse, Chloé Salhani, Xiangyu Zhu, Nicolas Cavassilas, Kazuhiko Hirakawa, and Marc Bescond, Selective energy filtering in a multiple-quantum-well nanodevice: The quantum cascade cooler, Phys. Rev. Applied 21, 054010, (2024).
 14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nat. Commun. 15, 5142 (2024).

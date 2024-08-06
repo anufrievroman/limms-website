@@ -17,4 +17,6 @@ draft: false
 - Y. Rondelez, G. Gines, T. Fujii. molecular computing component and method of molecular computing, filled 16.02.2016; pct/ fr2016/050356, ib2016/000419 by the university of tokyo and CNRS.
 - D. Collard, H. Fujita, S. Karsten: ref: 09179-01: comprehensive platform for integrated single cell analysis and sorting, filed: 2016.
 - D. Collard, C. Brinster, L. Lemonnier, B. Quesnel, M.C. Tarhan, Y. Touil, F.A. Shaïk, Cell pairing tunable device and associated signaling biological protocol, DI CNRS.
+- S.Li, S.H.Kim, T. Fujii, N. Clement, DI 15099 U.Tokyo/CNRS, Electrochemical Biosensor
 - J. Cacheux, A. Bancaud, Y. Matsunaga, L. Jalabert,  “Dispositif et procédé de mesure de perméabilité” brevet n°2201116 du 08/02/2022.
+- N. Clement, I. Madrid, S. Grall, C. Demaille, Qbiol, un logiciel de bioelectrochimie quantique: DL 26620

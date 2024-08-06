@@ -25,7 +25,13 @@ draft: false
 13. G. Etesse, C. Salhani, X. Zhu, N. Cavassilas, K. Hirakawa, and M. Bescond, Selective energy filtering in a multiple-quantum-well nanodevice: The quantum cascade cooler, Phys. Rev. Applied 21, 054010, (2024).
 14. R. Beaubois, J. Cheslet, T. Duenki, G. De Venuto, M. Carè, F. Khoyratee, et al., Nature Communications. 15, 5142 (2024).
 15. M. Diego, B. Kim, M. Pirro, S. Volz, and M. Nomura, Piezoelectrically driven diamond phononic nanocavity by phonon-matching scheme for quantum applications, Physical Review Applied 21, 064064 (2024).
-
+16. Y. Guo, J. Ordonez-Miranda, Y. Wu, S. Volz, Quantifying phonon and polariton heat conduction along polar dielectric nanofilms, J. Appl. Phys. 136, 044303 (2024).
+17. E. Mamani Flores, V. J. Ramirez Rivera, F. Mamani Gonzalo, J. Ordonez-Miranda, J. R. Sambrano, M. L. Moreira, M. J. Piotrowski, Novel Janus gamma-Pb_2XY monolayers with high thermoelectric performance X=S, Se and Y=Se, Te X≠Y, Sci. Rep. 14, 16648 (2024).
+18. K. Markushev, N. Brankovic, S. M. Aleksic, D. S. Pantic, S. P. Galovic, D. D. Markushev, J. Ordonez‑Miranda, The influence of excess free carriers as heat carriers on the n‑type silicon thermoelastic photoacoustic responses explained by electro‑acoustic analogies, Int. J. Thermophys. 45, 107 (2024).
+19. M. Denoual, N. Lobato-Dauzier, L. Saluden, L. Jalabert, T. Sato and H. Fujita, Parallel-beams magnetic actuator for in-situ transmission electron microscope observation of mechanical testing, Meas. Sci and Techol, (2024)
+20. G. Bonfante, F. Awai, T. Kubo, H. Segawa, SH Kim, A. Genot, S. Chambon, Milli-fluidic setup for continuous flow synthesis of organic semiconductor nanoparticles, Materials Today Sustainability, 27,100920 (2024)
+21. X. Wan, D. Pan, Z. Zong, Y. Qin, JT. Lü, S. Volz, L. Zhang, N. Yang, Modulating Thermal Conductivity via Targeted Phonon Excitation, Nano Letters, 24 (23), 6889-6896, (2024).
+22. G.F. Nataf, S. Volz, J. Ordonez-Miranda et al. Using oxides to compute with heat. Nat Rev Mater 9, pages 530–531 (2024). 
 
 ### 2023
 

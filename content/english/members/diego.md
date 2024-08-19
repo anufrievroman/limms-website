@@ -1,8 +1,7 @@
 ---
 title: Michele DIEGO
 email: 
-image: "/images/ava/diego.jpg"
+image: 
 description:  
 ---
-
-(CNRS, Tokyo)
+(UTokyo PostDoc)

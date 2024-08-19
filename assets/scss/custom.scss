@@ -27,6 +27,18 @@ p a{
     padding-bottom: 40px;
 }
 
+.centered-title ul {
+    list-style-type: disc; /* Ensure bullet points appear */
+    padding-left: 20px; /* Add space for bullet points */
+    margin: 0; /* Optional: Remove default margin */
+    overflow: hidden; /* Ensure contents fit within the specified width */
+}
+
+.centered-title li {
+    text-align: left; /* Align list items to the left */
+    margin-bottom: 5px; /* Optional: Add space between items */
+}
+
 .website-info {
     text-align: center;
     font-size: 0.6em;

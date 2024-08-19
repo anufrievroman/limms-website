@@ -20,33 +20,33 @@
   
   "icons": [
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_48x48_resize_lanczos_3.png",
+      "src": "/images/favicon_hu8830968577428244461.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_72x72_resize_lanczos_3.png",
+      "src": "/images/favicon_hu1950709962393012861.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_96x96_resize_lanczos_3.png",
+      "src": "/images/favicon_hu12875489411615380914.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_144x144_resize_lanczos_3.png",
+      "src": "/images/favicon_hu381474261889021812.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_192x192_resize_lanczos_3.png",
+      "src": "/images/favicon_hu11293539696967180254.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/images/favicon_huc20a4902025b1073e1b9638fe4bd9937_3248_512x512_resize_lanczos_3.png",
+      "src": "/images/favicon_hu4530882378441496548.png",
       "sizes": "512x512",
       "type": "image/png"
     }

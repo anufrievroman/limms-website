@@ -1,8 +1,8 @@
 ---
 title: Maëlie CORAL
 email: 
-image: "/images/ava/coral.jpg"
+image: 
 description:  
 ---
 
-(IIS, Univ. Tokyo)
+(PhD student)

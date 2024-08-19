@@ -1,4 +1,5 @@
 {{ define "main" }}
+
 {{ partial "page-header" . }}
 
 
@@ -12,7 +13,7 @@
         </div>
       {{ end }}
       <div class="centered-title">
-        <h2>Directors</h2>
+        <h3>Directors</h3>
       </div>
       <div class="row">
         {{ with .Site.GetPage "/members/volz" }}
@@ -28,7 +29,7 @@
       </div>
 
       <div class="centered-title">
-        <h2>Administration</h2>
+        <h3>Administration</h3>
       </div>
       <div class="row">
         {{ with .Site.GetPage "/members/hirano" }}
@@ -54,16 +55,11 @@
       </div>
 
       <div class="centered-title">
-        <h2>Researchers</h2>
+        <h3>Researchers</h3>
       </div>
 
       <div class="row">
         {{ with .Site.GetPage "/members/genot" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/clement" }}
           <div class="md:col-6 lg:col-3 mb-14">
             {{ partial "components/author-card" . }}
           </div>
@@ -78,17 +74,7 @@
             {{ partial "components/author-card" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/ordonez" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
         {{ with .Site.GetPage "/members/leclerc" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/salles" }}
           <div class="md:col-6 lg:col-3 mb-14">
             {{ partial "components/author-card" . }}
           </div>
@@ -98,44 +84,7 @@
             {{ partial "components/author-card" . }}
           </div>
         {{ end }}
-      </div>
-
-      <div class="centered-title">
-        <h2>Postdoctoral researchers</h2>
-      </div>
-
-      <div class="row">
-        {{ with .Site.GetPage "/members/bonfante" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/cacheux" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/grall" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/li" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/roy" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/papa" }}
-          <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
-          </div>
-        {{ end }}
-        {{ with .Site.GetPage "/members/diego" }}
+        {{ with .Site.GetPage "/members/chevalier" }}
           <div class="md:col-6 lg:col-3 mb-14">
             {{ partial "components/author-card" . }}
           </div>
@@ -143,72 +92,121 @@
       </div>
 
       <div class="centered-title">
-        <h2>PhD students</h2>
+        <h3>Postdoctoral researchers</h3>
       </div>
-
       <div class="row">
-        {{ with .Site.GetPage "/members/beaubois" }}
+        {{ with .Site.GetPage "/members/alric" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/faure" }}
+        {{ with .Site.GetPage "/members/mulatier" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/ajiyel" }}
+        {{ with .Site.GetPage "/members/bruand" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/cheslet" }}
+        {{ with .Site.GetPage "/members/cochard" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
       </div>
 
       <div class="centered-title">
-        <h2>Visiting Research Interns</h2>
+        <h3>Students and Interns</h3>
       </div>
 
       <div class="row">
-        {{ with .Site.GetPage "/members/deteix" }}
+        {{ with .Site.GetPage "/members/henri" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/quenan" }}
+        {{ with .Site.GetPage "/members/boudjella" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/pinede" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/djadda" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
       </div>
-
 
       <div class="centered-title">
-        <h2>Collaborators</h2>
+        <h3>Collaborators</h3>
       </div>
 
       <div class="row">
-        {{ with .Site.GetPage "/members/duenki" }}
+        {{ with .Site.GetPage "/members/eiler" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
         {{ with .Site.GetPage "/members/coral" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
-        {{ with .Site.GetPage "/members/eiler" }}
+        {{ with .Site.GetPage "/members/duenki" }}
           <div class="md:col-6 lg:col-3 mb-14">
-            {{ partial "components/author-card" . }}
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/diego" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/martin" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/hanyuan" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+
+        {{ with .Site.GetPage "/members/faure" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/cheslet" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/tchekioun" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/beaubois" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
+          </div>
+        {{ end }}
+        {{ with .Site.GetPage "/members/lefebvre" }}
+          <div class="md:col-6 lg:col-3 mb-14">
+            {{ partial "components/author-card-mini" . }}
           </div>
         {{ end }}
       </div>
 
-    </div>
   </section>
+
 {{ end }}

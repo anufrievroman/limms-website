@@ -4,7 +4,7 @@
     <title>Members on LIMMS</title>
     <link>//localhost:1313/members/</link>
     <description>Recent content in Members on LIMMS</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="//localhost:1313/members/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>//localhost:1313/members/eiler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/eiler/</guid>
-      <description>(France)</description>
+      <description>(UTokyo PhD student)</description>
     </item>
     <item>
       <title>Anthony GENOT</title>
@@ -20,6 +20,34 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/genot/</guid>
       <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
+      <title>Anthony LEFEBVRE</title>
+      <link>//localhost:1313/members/lefebvre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/lefebvre/</guid>
+      <description>(UTokyo PostDoc)</description>
+    </item>
+    <item>
+      <title>Audrey COCHARD</title>
+      <link>//localhost:1313/members/cochard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/cochard/</guid>
+      <description>(CNRS PostDoc)</description>
+    </item>
+    <item>
+      <title>Baptiste ALRIC</title>
+      <link>//localhost:1313/members/alric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/alric/</guid>
+      <description>(PostDoc)</description>
+    </item>
+    <item>
+      <title>Daniel ALCAIDE MARTIN</title>
+      <link>//localhost:1313/members/martin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/martin/</guid>
+      <description>(UTokyo PhD student)</description>
     </item>
     <item>
       <title>Dorina PAPANASTASIOU</title>
@@ -33,10 +61,17 @@
       <link>//localhost:1313/members/kaneko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/kaneko/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
-      <title>Eric LECRERC</title>
+      <title>Elias BOUDJELLA</title>
+      <link>//localhost:1313/members/boudjella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/boudjella/</guid>
+      <description>(CNRS IR)</description>
+    </item>
+    <item>
+      <title>Eric LECLERC</title>
       <link>//localhost:1313/members/leclerc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/leclerc/</guid>
@@ -64,6 +99,13 @@
       <description>(IIS, Univ. Tokyo)</description>
     </item>
     <item>
+      <title>Henri VO VAN QUI</title>
+      <link>//localhost:1313/members/henri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/henri/</guid>
+      <description>(PhD Student)</description>
+    </item>
+    <item>
       <title>Jean CACHEUX</title>
       <link>//localhost:1313/members/cacheux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,7 +117,7 @@
       <link>//localhost:1313/members/cheslet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/cheslet/</guid>
-      <description>(IIS, Univ. Tokyo)</description>
+      <description>(PhD student at Univ. Bordeaux)</description>
     </item>
     <item>
       <title>Jose ORDONEZ</title>
@@ -85,18 +127,11 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
-      <title>Julien LAMBERT</title>
-      <link>//localhost:1313/members/lambert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/members/lambert/</guid>
-      <description>(France)</description>
-    </item>
-    <item>
       <title>Kanae TOBE</title>
       <link>//localhost:1313/members/tobe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/tobe/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
       <title>Laurent JALABERT</title>
@@ -106,11 +141,18 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>Lucas PINEDE</title>
+      <link>//localhost:1313/members/pinede/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/pinede/</guid>
+      <description>(Intern)</description>
+    </item>
+    <item>
       <title>Maëlie CORAL</title>
       <link>//localhost:1313/members/coral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/coral/</guid>
-      <description>(IIS, Univ. Tokyo)</description>
+      <description>(PhD student)</description>
     </item>
     <item>
       <title>Masahiro NOMURA</title>
@@ -131,7 +173,7 @@
       <link>//localhost:1313/members/diego/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/diego/</guid>
-      <description>(CNRS, Tokyo)</description>
+      <description>(UTokyo PostDoc)</description>
     </item>
     <item>
       <title>Nicolas CLÉMENT</title>
@@ -141,11 +183,25 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>Paul BRUAND</title>
+      <link>//localhost:1313/members/bruand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/bruand/</guid>
+      <description>(CNRS PostDoc)</description>
+    </item>
+    <item>
       <title>Pierre-Marie FAURE</title>
       <link>//localhost:1313/members/faure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/faure/</guid>
-      <description>(Univ. Bordeaux)</description>
+      <description>(PhD student at Univ. Bordeaux)</description>
+    </item>
+    <item>
+      <title>Radja TCHEKIOUN</title>
+      <link>//localhost:1313/members/tchekioun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/tchekioun/</guid>
+      <description>(Internship)</description>
     </item>
     <item>
       <title>Robin DETEIX</title>
@@ -159,7 +215,7 @@
       <link>//localhost:1313/members/beaubois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/beaubois/</guid>
-      <description>(Univ. Bordeaux)</description>
+      <description>(JSPS PD)</description>
     </item>
     <item>
       <title>Roman ANUFRIEV</title>
@@ -173,7 +229,7 @@
       <link>//localhost:1313/members/hiranos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/hiranos/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
       <title>Sebastian VOLZ</title>
@@ -181,6 +237,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/volz/</guid>
       <description>Director (CNRS)</description>
+    </item>
+    <item>
+      <title>Séverine DE MULATIER</title>
+      <link>//localhost:1313/members/mulatier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/mulatier/</guid>
+      <description>(JSPS PostDoc)</description>
     </item>
     <item>
       <title>Shuo LI</title>
@@ -204,6 +267,13 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>Stéphane CHEVALIER</title>
+      <link>//localhost:1313/members/chevalier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/chevalier/</guid>
+      <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
       <title>Thomas QUENAN</title>
       <link>//localhost:1313/members/quenan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -215,7 +285,7 @@
       <link>//localhost:1313/members/duenki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/duenki/</guid>
-      <description>(IIS, Univ. Tokyo)</description>
+      <description>(UTokyo PhD student)</description>
     </item>
     <item>
       <title>Vincent SALLES</title>
@@ -223,6 +293,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/salles/</guid>
       <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
+      <title>Wang Hanyuan</title>
+      <link>//localhost:1313/members/hanyuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/hanyuan/</guid>
+      <description>(UTokyo PhD student)</description>
+    </item>
+    <item>
+      <title>Warda DJADDA</title>
+      <link>//localhost:1313/members/djadda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/djadda/</guid>
+      <description>(Intern)</description>
     </item>
     <item>
       <title>Yumi HIRANO</title>

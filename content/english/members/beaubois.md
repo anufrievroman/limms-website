@@ -1,8 +1,8 @@
 ---
 title: Romain BEAUBOIS
 email: 
-image: "/images/ava/beaubois.jpg"
+image: 
 description:  
 ---
 
-(Univ. Bordeaux)
+(JSPS PD)

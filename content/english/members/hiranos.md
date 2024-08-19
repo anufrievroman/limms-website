@@ -5,4 +5,5 @@ image: "/images/avatar.png"
 description: 
 ---
 
-Assistant (IIS, Tokyo)
+Secretary (IIS, Tokyo)
+

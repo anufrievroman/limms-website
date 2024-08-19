@@ -74,6 +74,8 @@
   </url><url>
     <loc>//localhost:1313/members/leclerc/</loc>
   </url><url>
+    <loc>//localhost:1313/eura-limms/</loc>
+  </url><url>
     <loc>//localhost:1313/members/hwang/</loc>
   </url><url>
     <loc>//localhost:1313/members/bonfante/</loc>
@@ -92,11 +94,11 @@
   </url><url>
     <loc>//localhost:1313/publications/</loc>
   </url><url>
-    <loc>//localhost:1313/members/lambert/</loc>
-  </url><url>
     <loc>//localhost:1313/members/tobe/</loc>
   </url><url>
     <loc>//localhost:1313/members/jalabert/</loc>
+  </url><url>
+    <loc>//localhost:1313/kiko/</loc>
   </url><url>
     <loc>//localhost:1313/members/coral/</loc>
   </url><url>

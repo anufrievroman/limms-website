@@ -1,8 +1,8 @@
 ---
 title: Jérémy CHESLET
 email: 
-image: "/images/ava/cheslet.jpg"
+image: 
 description:  
 ---
 
-(IIS, Univ. Tokyo)
+(PhD student at Univ. Bordeaux)

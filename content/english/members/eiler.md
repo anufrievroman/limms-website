@@ -1,8 +1,8 @@
 ---
 title: Anne-Claire EILER
 email: 
-image: "/images/avatar.png"
+image: 
 description:  
 ---
 
-(France)
+(UTokyo PhD student)

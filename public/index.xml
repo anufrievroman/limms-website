@@ -4,7 +4,7 @@
     <title>LIMMS</title>
     <link>//localhost:1313/</link>
     <description>Recent content on LIMMS</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -41,7 +41,7 @@
       <link>//localhost:1313/members/eiler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/eiler/</guid>
-      <description>(France)</description>
+      <description>(UTokyo PhD student)</description>
     </item>
     <item>
       <title>Anthony GENOT</title>
@@ -51,11 +51,25 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>Audrey COCHARD</title>
+      <link>//localhost:1313/members/cochard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/cochard/</guid>
+      <description>(CNRS PostDoc)</description>
+    </item>
+    <item>
+      <title>Baptiste ALRIC</title>
+      <link>//localhost:1313/members/alric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/alric/</guid>
+      <description>(PostDoc)</description>
+    </item>
+    <item>
       <title>Conferences</title>
       <link>//localhost:1313/conferences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/conferences/</guid>
-      <description>2023 D. Decanini, A. Harouri, A. Mizushima, B. J. Kim, Y.</description>
+      <description>2024 S. Volz, Guided Polaritons Thermal Radiation, MRS Spring Meeting 2024, Seattle, April 2024.</description>
     </item>
     <item>
       <title>Contacts</title>
@@ -76,7 +90,7 @@
       <link>//localhost:1313/members/kaneko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/kaneko/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
       <title>Elements</title>
@@ -86,11 +100,25 @@
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
     </item>
     <item>
-      <title>Eric LECRERC</title>
+      <title>Elias BOUDJELLA</title>
+      <link>//localhost:1313/members/boudjella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/boudjella/</guid>
+      <description>(CNRS IR)</description>
+    </item>
+    <item>
+      <title>Eric LECLERC</title>
       <link>//localhost:1313/members/leclerc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/leclerc/</guid>
       <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
+      <title>EURope Asia – LIMMS</title>
+      <link>//localhost:1313/eura-limms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/eura-limms/</guid>
+      <description>Network on energy, bioengineering and quantum &amp;amp; molecular technologies The EURA-LIMMS project aims to create a Europe-Asia network for the development of innovative technologies in energy, bioengineering, and molecular sciences.</description>
     </item>
     <item>
       <title>Gilgueng HWANG</title>
@@ -114,6 +142,13 @@
       <description>(IIS, Univ. Tokyo)</description>
     </item>
     <item>
+      <title>Henri VO VAN QUI</title>
+      <link>//localhost:1313/members/henri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/henri/</guid>
+      <description>(PhD Student)</description>
+    </item>
+    <item>
       <title>Hosting laboratories</title>
       <link>//localhost:1313/host-professors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,11 +156,11 @@
       <description>LIMMS combines the expertise of French and Japanese scientists in order to explore new scientific domains related to micro- and nanotechnologies.</description>
     </item>
     <item>
-      <title>International collaborative projects</title>
+      <title>International Project Teams</title>
       <link>//localhost:1313/collaborations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/collaborations/</guid>
-      <description>IOMEG Bordeaux IIS BiOMorphic Group The objective of the BIOMEG team is to test different technological approaches across various domains (Electronics, Mechanics, Thermics, Chemistry, etc.</description>
+      <description>The &amp;ldquo;International Project Team&amp;rdquo; initiative from the CNRS represents a strategic collaboration framework that fosters the sharing of human and facility resources to support research on specific topics.</description>
     </item>
     <item>
       <title>Introduction of the laboratory</title>
@@ -160,21 +195,14 @@
       <link>//localhost:1313/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/publications/</guid>
-      <description>2024 T. Osaki*, T. Duenki*, SYA. Chow*, Y. Ikegami, R. Beaubois, T.</description>
-    </item>
-    <item>
-      <title>Julien LAMBERT</title>
-      <link>//localhost:1313/members/lambert/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/members/lambert/</guid>
-      <description>(France)</description>
+      <description>2024 T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T.</description>
     </item>
     <item>
       <title>Kanae TOBE</title>
       <link>//localhost:1313/members/tobe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/tobe/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
       <title>Laurent JALABERT</title>
@@ -184,11 +212,25 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>LIMMS KIKO</title>
+      <link>//localhost:1313/kiko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/kiko/</guid>
+      <description>The University of Tokyo Integrated Research Network The LIMMS KIKO engage in the cross disciplinary research on the improvement of the Quality of Life: the mental, physical and cultural effects, addressing the problems in the society with aging and declining population which our country will face earlier than other developed countries by applying the results of international collaborative research in the Micro-nano interdisciplinary fields such as Nanobiology, μTAS, Silicon Neurons, IoT, and Energy Harvester, etc.</description>
+    </item>
+    <item>
+      <title>Lucas PINEDE</title>
+      <link>//localhost:1313/members/pinede/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/pinede/</guid>
+      <description>(Intern)</description>
+    </item>
+    <item>
       <title>Maëlie CORAL</title>
       <link>//localhost:1313/members/coral/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/coral/</guid>
-      <description>(IIS, Univ. Tokyo)</description>
+      <description>(PhD student)</description>
     </item>
     <item>
       <title>Masahiro NOMURA</title>
@@ -231,6 +273,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/patents/</guid>
       <description>A. Baccouche,T. Fujii, A. J. Genot, Conditional Guides for CRISPR-Cas9, (PCT filed on December 2019).</description>
+    </item>
+    <item>
+      <title>Paul BRUAND</title>
+      <link>//localhost:1313/members/bruand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/bruand/</guid>
+      <description>(CNRS PostDoc)</description>
     </item>
     <item>
       <title>Pierre-Marie FAURE</title>
@@ -279,7 +328,7 @@
       <link>//localhost:1313/members/hiranos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/hiranos/</guid>
-      <description>Assistant (IIS, Tokyo)</description>
+      <description>Secretary (IIS, Tokyo)</description>
     </item>
     <item>
       <title>Sebastian VOLZ</title>
@@ -287,6 +336,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/volz/</guid>
       <description>Director (CNRS)</description>
+    </item>
+    <item>
+      <title>Séverine DE MULATIER</title>
+      <link>//localhost:1313/members/mulatier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/mulatier/</guid>
+      <description>(JSPS PostDoc)</description>
     </item>
     <item>
       <title>Shuo LI</title>
@@ -317,6 +373,13 @@
       <description>(CNRS, Tokyo)</description>
     </item>
     <item>
+      <title>Stéphane CHEVALIER</title>
+      <link>//localhost:1313/members/chevalier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/chevalier/</guid>
+      <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
       <title>Thomas QUENAN</title>
       <link>//localhost:1313/members/quenan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -336,6 +399,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/members/salles/</guid>
       <description>(CNRS, Tokyo)</description>
+    </item>
+    <item>
+      <title>Warda DJADDA</title>
+      <link>//localhost:1313/members/djadda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/members/djadda/</guid>
+      <description>(Intern)</description>
     </item>
     <item>
       <title>Yumi HIRANO</title>

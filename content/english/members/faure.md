@@ -1,8 +1,8 @@
 ---
 title: Pierre-Marie FAURE
 email: 
-image: "/images/ava/faure.jpg"
+image:
 description:  
 ---
 
-(Univ. Bordeaux)
+(PhD student at Univ. Bordeaux)

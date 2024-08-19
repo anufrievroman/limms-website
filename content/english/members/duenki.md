@@ -1,8 +1,7 @@
 ---
 title: Tomoya DUENKI
 email: 
-image: "/images/ava/duenki.jpg"
+image: 
 description:  
 ---
-
-(IIS, Univ. Tokyo)
+(UTokyo PhD student)

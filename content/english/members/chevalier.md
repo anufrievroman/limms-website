@@ -1,7 +1,7 @@
 ---
 title: Stéphane CHEVALIER 
 email: 
-image: 
+image: "/images/ava/chevalier.jpg"
 description:
 ---
 

@@ -60,17 +60,27 @@
   </url><url>
     <loc>//localhost:1313/members/genot/</loc>
   </url><url>
+    <loc>//localhost:1313/members/lefebvre/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/cochard/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/alric/</loc>
+  </url><url>
     <loc>//localhost:1313/conferences/</loc>
   </url><url>
     <loc>//localhost:1313/contact/</loc>
   </url><url>
     <loc>//localhost:1313/contacts/</loc>
   </url><url>
+    <loc>//localhost:1313/members/martin/</loc>
+  </url><url>
     <loc>//localhost:1313/members/papa/</loc>
   </url><url>
     <loc>//localhost:1313/members/kaneko/</loc>
   </url><url>
     <loc>//localhost:1313/elements/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/boudjella/</loc>
   </url><url>
     <loc>//localhost:1313/members/leclerc/</loc>
   </url><url>
@@ -81,6 +91,8 @@
     <loc>//localhost:1313/members/bonfante/</loc>
   </url><url>
     <loc>//localhost:1313/members/ajiyel/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/henri/</loc>
   </url><url>
     <loc>//localhost:1313/host-professors/</loc>
   </url><url>
@@ -100,6 +112,8 @@
   </url><url>
     <loc>//localhost:1313/kiko/</loc>
   </url><url>
+    <loc>//localhost:1313/members/pinede/</loc>
+  </url><url>
     <loc>//localhost:1313/members/coral/</loc>
   </url><url>
     <loc>//localhost:1313/members/nomura/</loc>
@@ -118,9 +132,13 @@
   </url><url>
     <loc>//localhost:1313/patents/</loc>
   </url><url>
+    <loc>//localhost:1313/members/bruand/</loc>
+  </url><url>
     <loc>//localhost:1313/members/faure/</loc>
   </url><url>
     <loc>//localhost:1313/privacy-policy/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/tchekioun/</loc>
   </url><url>
     <loc>//localhost:1313/members/deteix/</loc>
   </url><url>
@@ -134,6 +152,8 @@
   </url><url>
     <loc>//localhost:1313/sections/</loc>
   </url><url>
+    <loc>//localhost:1313/members/mulatier/</loc>
+  </url><url>
     <loc>//localhost:1313/members/li/</loc>
   </url><url>
     <loc>//localhost:1313/members/grall/</loc>
@@ -142,11 +162,17 @@
   </url><url>
     <loc>//localhost:1313/members/roy/</loc>
   </url><url>
+    <loc>//localhost:1313/members/chevalier/</loc>
+  </url><url>
     <loc>//localhost:1313/members/quenan/</loc>
   </url><url>
     <loc>//localhost:1313/members/duenki/</loc>
   </url><url>
     <loc>//localhost:1313/members/salles/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/hanyuan/</loc>
+  </url><url>
+    <loc>//localhost:1313/members/djadda/</loc>
   </url><url>
     <loc>//localhost:1313/members/hirano/</loc>
   </url>

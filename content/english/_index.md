@@ -11,6 +11,7 @@ LIMMS operates on two sites: on the Komaba Research Campus of the University of 
 Since its founding in 1995, our laboratory has hosted more than 175 scientists from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
 
 Thanks to its close integration into the French, European and Japanese research landscapes, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE and EUJO-LIMMS
+
 '
 
   image: "/images/map-limms.webp"
@@ -25,6 +26,9 @@ info:
   title: "Research topics"
   content: '
 Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing three specific research axes: Energy, Bio, Quantum and Molecular Technologies. For more information about research at LIMMS, [download LIMMS booklet 2024](/files/Booklet2024.pdf)
+
+<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+
 </br>
 </br>
     {{< accordion "Energy" >}}
@@ -53,7 +57,6 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 
-
 #   bulletpoints:
 #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
 #     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
@@ -75,4 +78,5 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 #      enable: false
 #      label: ""
 #      link: ""
+
 ---

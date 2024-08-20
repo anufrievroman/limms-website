@@ -31,7 +31,8 @@ draft: false
 19. M. Denoual, N. Lobato-Dauzier, L. Saluden, L. Jalabert, T. Sato and H. Fujita, Parallel-beams magnetic actuator for in-situ transmission electron microscope observation of mechanical testing, Meas. Sci and Techol, (2024)
 20. G. Bonfante, F. Awai, T. Kubo, H. Segawa, SH Kim, A. Genot, S. Chambon, Milli-fluidic setup for continuous flow synthesis of organic semiconductor nanoparticles, Materials Today Sustainability, 27,100920 (2024)
 21. X. Wan, D. Pan, Z. Zong, Y. Qin, JT. Lü, S. Volz, L. Zhang, N. Yang, Modulating Thermal Conductivity via Targeted Phonon Excitation, Nano Letters, 24 (23), 6889-6896, (2024).
-22. G.F. Nataf, S. Volz, J. Ordonez-Miranda et al. Using oxides to compute with heat. Nat Rev Mater 9, pages 530–531 (2024). 
+22. G.F. Nataf, S. Volz, J. Ordonez-Miranda et al. Using oxides to compute with heat. Nat Rev Mater 9, 530 (2024). 
+23. N. Lobato-Dauzier., A. Baccouche, G. Gines, T. Levi, Y. Rondelez, T. Fujii, SH. Kim, N. Aubert-Kato, A. Genot, Neural coding of temperature with a DNA-based spiking chemical neuron. Nat Chem Eng 1, 510 (2024)
 
 ### 2023
 

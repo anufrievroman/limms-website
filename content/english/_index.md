@@ -11,7 +11,6 @@ LIMMS operates on two sites: on the Komaba Research Campus of the University of 
 Since its founding in 1995, our laboratory has hosted more than 175 scientists from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
 
 Thanks to its close integration into the French, European and Japanese research landscapes, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE and EUJO-LIMMS
-
 '
 
   image: "/images/map-limms.webp"

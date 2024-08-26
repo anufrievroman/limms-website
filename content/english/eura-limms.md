@@ -24,6 +24,12 @@ Industry partners can take advantage of this Europe/Asia network with leading re
 
 {{< image src="images/eura-structure.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="EURA LIMMS Structure"  webp="false" >}}
 
+#### Workshop
+
+This workshop is the kick-off of the EURALIMMS International Research Network between CNRS (France), Tokyo University (Japan), NTU (Taïwan), Helmoltz (Germany), NTU & NUS (Singapore), EPFL (Switzerland), SNU (South Korea), Twente (The Netherlands):
+
+https://limms-tokyo.org/workshop-euralimms
+
 #### Summer school
 
 Summer school will be held in Porquerolles, France. The dates will be announced later.

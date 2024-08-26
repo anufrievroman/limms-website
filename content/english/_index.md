@@ -52,7 +52,7 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
     '
   image: "/images/limms-axes.jpg"
   button:
-    enable: false
+    enable: true
     label: "Get Started For Free"
     link: "https://github.com/zeon-studio/hugoplate"
 

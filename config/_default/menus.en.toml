@@ -63,6 +63,12 @@ url = "collaborations/"
 [[main]]
 weight = 9
 parent = "Collaborations"
+name = "EURA-LIMMS"
+url = "eura-limms/"
+
+[[main]]
+weight = 9
+parent = "Collaborations"
 name = "KIKO"
 url = "kiko/"
 

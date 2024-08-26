@@ -27,5 +27,3 @@ Industry partners can take advantage of this Europe/Asia network with leading re
 #### Summer school
 
 Summer school will be held in Porquerolles, France. The dates will be announced later.
-
-More information: Official website (under construction)

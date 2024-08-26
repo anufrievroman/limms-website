@@ -5,12 +5,9 @@ banner:
   content: '
 
   LIMMS is a CNRS International Research Laboratory (IRL 2820) on MEMS and NEMS (Micro- and Nano-Electro-Mechanical Systems), jointly operated by France (CNRS, [Institute for Sciences of Engineering and Systems](https://www.insis.cnrs.fr)), and Japan (University of Tokyo, [Institute of Industrial Science](https://www.iis.u-tokyo.ac.jp/en/)).
-
-LIMMS operates on two sites: on the Komaba Research Campus of the University of Tokyo in Japan, and at the university hospital of Centre Oscar Lambret, in Lille, France.
-
-Since its founding in 1995, our laboratory has hosted more than 175 scientists from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
-
-Thanks to its close integration into the French, European and Japanese research landscapes, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE and EUJO-LIMMS
+LIMMS operates on two sites: the Komaba Research Campus of the University of Tokyo, Japan and the university hospital of Centre Oscar Lambret in Lille, France.
+Since its founding in 1995, LIMMS has hosted more than 175 researchers from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
+Due to its close integration into the French, European and Japanese research communities, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE, and [EUJO-LIMMS](https://cordis.europa.eu/docs/results/295/295089/final1-final-publishable-summary.pdf).
 '
 
   image: "/images/map-limms.webp"
@@ -24,15 +21,13 @@ Thanks to its close integration into the French, European and Japanese research 
 info:
   title: "Research topics"
   content: '
-Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing three specific research axes: Energy, Bio, Quantum and Molecular Technologies. For more information about research at LIMMS, [download LIMMS booklet 2024](/files/Booklet2024.pdf)
-
-<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing the research axes of Energy, Bio, Quantum and Molecular Technologies:
 
 </br>
 </br>
     {{< accordion "Energy" >}}
 
-    In Energy, LIMMS researchers have obtained world-class results in developing phononic crystals for heat focusing. LIMMS technologies are at the cutting edge regarding thermoelectric micro-devices and have confirmed new concepts in thermionic cooling. Interface research programs are also set to find solutions to power the Internet of Things (IoT) based on energy harvesters integrated with Smart MEMS devices."
+    In the Energy research axis, LIMMS researchers have obtained world-class results in developing phononic crystals for heat guiding and focusing. Technologies developed at LIMMS are at the cutting edge of thermoelectric micro-devices and have confirmed new concepts in thermionic cooling. Interface research programs are also set to find solutions to power the internet of things based on energy harvesters integrated with Smart MEMS devices.
     {{< /accordion >}}
 
     {{< accordion "Quantum and Molecular Technologies" >}}
@@ -43,18 +38,21 @@ Since 2023, the LIMMS direction has highlighted three general fields of applicat
 
     {{< accordion "Bio" >}}
 
-The new Bio axis gathers three themes. Disease treatment via prevention and detection is investigated by developing new devices for diagnosis and vaccine delivery. With a complementary approach, implantable tissues and devices are also key activities. This branch is related to complex tissues opening to organ modelling where the cellular and even the molecular scale are investigated. Researchers seek to better understand blood vessel formation, neuronal communication behavior, and the interaction of metabolic organs such as the liver and pancreas. By studying different organs, LIMMS aims at understanding the role of tissues and especially cell interactions in diseased and healthy tissues.
+The Bio axis gathers three themes. Disease treatment via prevention and detection is investigated by developing new devices for diagnosis and vaccine delivery. With a complementary approach, implantable tissues and devices are also key activities. This branch is related to complex tissues opening to organ modelling where the cellular and even the molecular scale are investigated. Researchers seek to better understand blood vessel formation, neuronal communication behavior, and the interaction of metabolic organs such as the liver and pancreas. By studying different organs, LIMMS aims at understanding the role of tissues and especially cell interactions in diseased and healthy tissues.
 
 BioMEMS such as platforms with multi-modal sensors and actuators are developed in LIMMS to help investigate organ behavior and create biohybrid systems. Biocompatible materials and/or cells are also used to create Bio-robotic systems. A particularity of the Bio axis is the complementary contribution of an international team, SMMIL-E. Its activities are focused on research against cancer, at the interface between BioMEMS and Organ modeling.
 
     {{< /accordion >}}
 
+<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+</br>
+
     '
   image: "/images/limms-axes.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Download LIMMS Booklet 2024"
+    link: "files/Booklet2024.pdf"
 
 #   bulletpoints:
 #     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."

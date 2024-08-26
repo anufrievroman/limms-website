@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Files on LIMMS</title>
+    <link>//localhost:1313/files/</link>
+    <description>Recent content in Files on LIMMS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/files/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>//localhost:1313/files/euralimms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/files/euralimms/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xD;IRN EURALIMMS Kick-off&#xD;Europe/Asia Workshop on Energy, Bioengineering and Quantum &amp; Molecular technologies (EURALIMMS 2024)&#xD;October 10-11, 2024 - Tokyo, Japan&#xD;Organized at the Institute of Industrial Science, Komaba campus, the University of Tokyo &amp;minus; LIMMS, Convention Hall AN 2nd floor.</description>
+    </item>
+  </channel>
+</rss>

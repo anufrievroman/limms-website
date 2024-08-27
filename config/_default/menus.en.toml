@@ -40,16 +40,6 @@ name = "Patents"
 url = "patents/"
 
 [[main]]
-weight = 7
-name = "Positions"
-url = "open-positions/"
-
-[[main]]
-name = "SMMIL-E"
-url = "smmil-e/"
-weight = 8
-
-[[main]]
 weight = 9
 name = "Collaborations"
 hasChildren = true
@@ -73,22 +63,12 @@ name = "KIKO"
 url = "kiko/"
 
 [[main]]
+name = "SMMIL-E"
+url = "smmil-e/"
+weight = 8
+
+[[main]]
 name = "Contacts"
 url = "contacts/"
 weight = 10
 
-# footer menu
-[[footer]]
-name = "Access"
-url = "access/"
-weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3

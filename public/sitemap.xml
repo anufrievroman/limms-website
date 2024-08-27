@@ -58,6 +58,8 @@
   </url><url>
     <loc>//localhost:1313/files/euralimms/</loc>
   </url><url>
+    <loc>//localhost:1313/files/workshop-euralimms/</loc>
+  </url><url>
     <loc>//localhost:1313/workshop-euralimms/</loc>
   </url><url>
     <loc>//localhost:1313/members/eiler/</loc>

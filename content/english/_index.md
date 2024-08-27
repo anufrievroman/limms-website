@@ -8,19 +8,13 @@ banner:
 LIMMS operates on two sites: the Komaba Research Campus of the University of Tokyo, Japan and the university hospital of Centre Oscar Lambret in Lille, France.
 Since its founding in 1995, LIMMS has hosted more than 175 researchers from France and Europe (mainly CNRS researchers and JSPS postdoctoral fellows).
 Due to its close integration into the French, European and Japanese research communities, LIMMS has been a focal point and a coordinating institution for major interdisciplinary and international projects such as [SMMIL-E](/smmil-e), iLITE, and [EUJO-LIMMS](https://cordis.europa.eu/docs/results/295/295089/final1-final-publishable-summary.pdf).
-'
 
-  image: "/images/map-limms.webp"
-  button:
-    enable: false
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+</br>
+</br>
+{{< image src="images/map-limms.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+</br>
+</br>
 
-
-# Info
-info:
-  title: "Research topics"
-  content: '
 Since 2023, the LIMMS direction has highlighted three general fields of applications in micro and nanotechnologies by proposing the research axes of Energy, Bio, Quantum and Molecular Technologies:
 
 </br>
@@ -44,36 +38,38 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 
     {{< /accordion >}}
 
-<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+{{< image src="images/limms-axes.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+</br>
 </br>
 
-    '
-  image: "/images/limms-axes.jpg"
+### LIMMS Booklet 2024
+
+</br>
+Annual booklet of the lab activity, projects, and collaborations is available for [download](file/Booklet2024.pdf):
+
+</br>
+<div style="position:relative;padding-top:0;width:100%;height:600px;">
+<iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+</div>
+
+</br>
+</br>
+
+
+### Open positions
+
+</br>
+· Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+
+</br>
+</br>
+</br>
+'
+
+  image: "images/cnrs.png"
   button:
-    enable: true
-    label: "Download LIMMS Booklet 2024"
-    link: "files/Booklet2024.pdf"
-
-#   bulletpoints:
-#     - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-#     - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-#     - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-#   button:
-#     enable: true
-#     label: "Get Started Now"
-#     link: "https://github.com/zeon-studio/hugoplate"
-
-# - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-#    image: "/images/service-3.png"
-#    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-#    bulletpoints:
-#      - "Instantly load static sites for better user experience and SEO."
-#      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-#      - "Use any front-end library or framework, or build custom components, for any project size."
-#      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
-#    button:
-#      enable: false
-#      label: ""
-#      link: ""
+    enable: false
+    label: "Get Started For Free"
+    link: "https://github.com/zeon-studio/hugoplate"
 
 ---

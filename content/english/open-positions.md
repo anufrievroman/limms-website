@@ -8,6 +8,10 @@ description: "Open positions at LIMMS"
 draft: false
 ---
 
+### JSPS PostDoc position
+
+- Post-doctoral fellowship of the JSPS on the project: Heat transfer physics and thermal management in advanced semiconductor devices
+
 ### Campaign of the JSPS PD long term program through CNRS selection
 
 Application deadline via ABG links below is **18th March 2024**

@@ -10,7 +10,7 @@ draft: false
 
 ### JSPS PostDoc position
 
-- Post-doctoral fellowship of the JSPS on the project: Heat transfer physics and thermal management in advanced semiconductor devices
+- Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525)
 
 ### Campaign of the JSPS PD long term program through CNRS selection
 

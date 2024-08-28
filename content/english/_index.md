@@ -59,7 +59,7 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 ### Open positions
 
 </br>
-· Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+· Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525). Deadline: 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
 
 </br>
 </br>

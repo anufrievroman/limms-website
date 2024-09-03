@@ -60,8 +60,16 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 
 </br>
 · Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525). Deadline: 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+</br>
+
+### Workshop EURA-LIMMS
+
+This workshop is the kick-off meeting of the EURALIMMS International Research Network between CNRS and will take place on October 10-11, in Tokyo:
+
+https://limms-tokyo.org/workshop-euralimms
 
 </br>
+
 </br>
 </br>
 '

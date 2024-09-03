@@ -67,7 +67,7 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 ### Workshop EURA-LIMMS
 
 </br>
-This workshop is the kick-off meeting of the EURALIMMS International Research Network between CNRS and will take place on October 10-11, in Tokyo. For more information, visit:
+This workshop is the kick-off meeting of the [EURA-LIMMS International Research Network](/eura-limms) and will take place on October 10-11, in Tokyo. For more information, visit:
 </br>
 https://limms-tokyo.org/workshop-euralimms
 

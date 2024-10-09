@@ -74,10 +74,13 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 </br>
 · [Sakai Lab. project](files/projects/Sakailab.pdf)
 </br>
-Deadline for application is 30th Oct. 2024.
+Deadline for application is 30 Oct. 2024.
 
 </br>
-- Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525). Deadline: 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+</br>
+·  Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+</br>
+Deadline is 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
 </br>
 </br>
 </br>

@@ -78,7 +78,9 @@ Deadline for application is 30 Oct. 2024.
 
 </br>
 </br>
-·  Post-doctoral fellowship of the JSPS on the project: [Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
+<strong>Post-doctoral fellowship of the JSPS on the project</strong>
+</br>
+[Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
 </br>
 Deadline is 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
 </br>

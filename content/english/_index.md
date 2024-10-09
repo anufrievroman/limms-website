@@ -61,18 +61,19 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 </br>
 <strong>LIMMS Internship Campaign FY 2025</strong>
 
+</br>
 · [SH Kim Lab. project](files/projects/SHKimlab.pdf)
-
+</br>
 · [Matsuhisa Lab. project](files/projects/Matsuhisalab.pdf)
-
+</br>
 · [Matsunaga Lab. project](files/projects/Matsunagalab.pdf)
-
+</br>
 · [Minami Lab. project](files/projects/Minamilab.pdf)
-
+</br>
 · [Nomura Lab. project](files/projects/Nomuralab.pdf)
-
+</br>
 · [Sakai Lab. project](files/projects/Sakailab.pdf)
-
+</br>
 Deadline for application is 30th Oct. 2024.
 
 </br>

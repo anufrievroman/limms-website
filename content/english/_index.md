@@ -49,7 +49,7 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 
 </br>
 <div style="position:relative;padding-top:0;width:100%;height:600px;">
-<iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/aixm/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
+<iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/ngcz/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
 </div>
 
 </br>

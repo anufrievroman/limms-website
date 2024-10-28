@@ -32,7 +32,9 @@ draft: false
 20. G. Bonfante, F. Awai, T. Kubo, H. Segawa, SH Kim, A. Genot, S. Chambon, Milli-fluidic setup for continuous flow synthesis of organic semiconductor nanoparticles, Materials Today Sustainability, 27,100920 (2024)
 21. X. Wan, D. Pan, Z. Zong, Y. Qin, JT. Lü, S. Volz, L. Zhang, N. Yang, Modulating Thermal Conductivity via Targeted Phonon Excitation, Nano Letters, 24 (23), 6889-6896, (2024).
 22. G.F. Nataf, S. Volz, J. Ordonez-Miranda et al. Using oxides to compute with heat. Nat Rev Mater 9, 530 (2024). 
-23. N. Lobato-Dauzier., A. Baccouche, G. Gines, T. Levi, Y. Rondelez, T. Fujii, SH. Kim, N. Aubert-Kato, A. Genot, Neural coding of temperature with a DNA-based spiking chemical neuron. Nat Chem Eng 1, 510 (2024)
+23. N. Lobato-Dauzier., A. Baccouche, G. Gines, T. Levi, Y. Rondelez, T. Fujii, SH. Kim, N. Aubert-Kato, A. Genot, Neural coding of temperature with a DNA-based spiking chemical neuron. Nat Chem Eng 1, 510 (2024).
+24. Morisseau L, Tokito F, Lucas M, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024)
+25. Xin H., Anufriev R., Jalabert L., Watanabe K., Taniguchi T., Guo Y., Ni Y., Volz S., Nomura. A graphite thermal Tesla valve driven by hydrodynamic phonon transport Nature (2024).
 
 ### 2023
 
@@ -49,8 +51,8 @@ draft: false
 11. S. Grall, S. Li, L. Jalabert, SH. Kim, A. Chovin, C. Demaille, N. Clément, Electrochemical Shot Noise of a Redox Monolayer, Physical Review Letters 130, 218001 (2023).
 12. L. Bourdon, N. Attik, L. Belkessam, C. Chevalier, C. Bousige, A. Brioude, V. Salles, Direct-Writing Electrospun Functionalized Scaffolds for Periodontal Regeneration: In Vitro Studies, J. Funct. Biomater. 14, 263 (2023).
 13. J. Ordonez-Miranda, L. Jalabert, Y. Wu, S. Volz, and M. Nomura, Analytical integration of the heater and sensor 3ω signals of anisotropic bulk materials and thin films, J. Appl. Phys. 133, 205104 (2023).
-14. M. Danoy, S. Poulain, B. Scheidecker, S. H. Kim, T. Kido, A. Miyajima, Y. Sakai, E. Leclerc, Transcriptomic study of carboxypeptidase M-positive human pluripotent stem cells-derived liver progenitor cells cultured in a microfluidic biochip shows zonation-like patterns, Hepatology research, 53, 661, (2023).
-15. D. Alcaide, J. Cacheux, A. Bancaud, R. Muramatsu, Y. T. Matsunaga, Solute transport in the brain tissue: what are the key biophysical parameters tying in vivo and in vitro studies together?, Biomaterials Science, accepted.
+14. D. Danoy M, Poulain S, Jellali R, Scheidecker B, Tauran Y, Leduc M, Bruce J, Kim SH, Kido T, Miyajima A, Sakai Y, Leclerc E, Transcriptomic and proteomic studies suggest the establishment of advanced zonation like profiles in human induced pluripotent stem cells derived liver sinusoidal endothelial cells and carboxypeptidase M positive liver progenitor cells cocultured in a fluidic microenvironment, Hepatology research, 53, 661, 2023
+15. Alcaide, J. Cacheux, A. Bancaud, R. Muramatsu, Y. T. Matsunaga, Solute transport in the brain tissue: what are the key biophysical parameters tying in vivo and in vitro studies together?, Biomaterials Science, accepted.
 16. I. Persson, H. Laval, S. Chambon, G. Bonfante, K. Hirakawa, G. Wantz, B. Watts, M. A. Marcus, X. Xu, L. Ying, G. Lakhwani, M. R. Andersson, J. M. Cairney, N. P. Holmes, Sub-4 nm mapping of donor–acceptor organic semiconductor nanoparticle composition, Nanoscale  15, 6126 (2023).
 17. K. Ghorbani, P. Mirchi, S. Arabha, A. Rajabpour, S Volz, Lattice thermal conductivity and elastic modulus of XN4 (X= Be, Mg and Pt) 2D materials using machine learning interatomic potentials, Physical Chemistry Chemical Physics, accepted.
 18. X. Xiang, S. Patinet, S. Volz, Y. Zhou, Quasilocalized vibrational modes as efficient heat carriers in glasses, Int. J. Heat and Mass Transf. 210, 124150, (2023).

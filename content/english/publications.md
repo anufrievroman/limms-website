@@ -33,8 +33,8 @@ draft: false
 21. X. Wan, D. Pan, Z. Zong, Y. Qin, JT. Lü, S. Volz, L. Zhang, N. Yang, Modulating Thermal Conductivity via Targeted Phonon Excitation, Nano Letters, 24 (23), 6889-6896, (2024).
 22. G.F. Nataf, S. Volz, J. Ordonez-Miranda et al. Using oxides to compute with heat. Nat Rev Mater 9, 530 (2024). 
 23. N. Lobato-Dauzier., A. Baccouche, G. Gines, T. Levi, Y. Rondelez, T. Fujii, SH. Kim, N. Aubert-Kato, A. Genot, Neural coding of temperature with a DNA-based spiking chemical neuron. Nat Chem Eng 1, 510 (2024).
-24. Morisseau L, Tokito F, Lucas M, Poulain S, Kim SH, Plaisance V, Pawlowski V, Legallais C, Jellali R, Sakai Y, Abderrahmani A, Leclerc E. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024)
-25. Xin H., Anufriev R., Jalabert L., Watanabe K., Taniguchi T., Guo Y., Ni Y., Volz S., Nomura. A graphite thermal Tesla valve driven by hydrodynamic phonon transport Nature (2024).
+24. L. Morisseau, F. Tokito, M. Lucas, S. Poulain, SH. Kim, V. Plaisance, V. Pawlowski, C. Legallais, R. Jellali, Y. Sakai, A. Abderrahmani, E. Leclerc. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024)
+25. H. Xin, R. Anufriev, L. Jalabert, K. Watanabe, T. Taniguchi, Y. Guo, Y. Ni, S. Volz, M. Nomura. A graphite thermal Tesla valve driven by hydrodynamic phonon transport, Nature (2024).
 
 ### 2023
 

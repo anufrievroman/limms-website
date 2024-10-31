@@ -56,11 +56,9 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 </br>
 
 
-### Open positions
-
+<!--
 </br>
 <strong>LIMMS Internship Campaign FY 2025</strong>
-
 </br>
 · [SH Kim Lab. project](files/projects/SHKimlab.pdf)
 </br>
@@ -75,7 +73,6 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 · [Sakai Lab. project](files/projects/Sakailab.pdf)
 </br>
 Deadline for application is 30 Oct. 2024.
-
 </br>
 </br>
 <strong>Post-doctoral fellowship of the JSPS on the project</strong>
@@ -86,7 +83,7 @@ Deadline is 15 September. Applications via [ABG](https://www.abg.asso.fr/en/cand
 </br>
 </br>
 </br>
-
+-->
 '
 
   image: "images/cnrs.png"

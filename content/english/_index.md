@@ -56,7 +56,6 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 </br>
 
 
-<!--
 </br>
 <strong>LIMMS Internship Campaign FY 2025</strong>
 </br>
@@ -72,18 +71,16 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 </br>
 · [Sakai Lab. project](files/projects/Sakailab.pdf)
 </br>
-Deadline for application is 30 Oct. 2024.
+Deadline for application is 30 October 2024.
+
+Additional project:
+</br>
+· [Mita Lab. project](files/projects/Mitalab.pdf)
+</br>
+Deadline for application is 30 November 2024.
 </br>
 </br>
-<strong>Post-doctoral fellowship of the JSPS on the project</strong>
 </br>
-[Heat transfer physics and thermal management in advanced semiconductor devices](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
-</br>
-Deadline is 15 September. Applications via [ABG](https://www.abg.asso.fr/en/candidatOffres/show/id_offre/125525).
-</br>
-</br>
-</br>
--->
 '
 
   image: "images/cnrs.png"

@@ -35,6 +35,9 @@ draft: false
 23. N. Lobato-Dauzier., A. Baccouche, G. Gines, T. Levi, Y. Rondelez, T. Fujii, SH. Kim, N. Aubert-Kato, A. Genot, Neural coding of temperature with a DNA-based spiking chemical neuron. Nat Chem Eng 1, 510 (2024).
 24. L. Morisseau, F. Tokito, M. Lucas, S. Poulain, SH. Kim, V. Plaisance, V. Pawlowski, C. Legallais, R. Jellali, Y. Sakai, A. Abderrahmani, E. Leclerc. Transcriptomic profiling analysis of the effect of palmitic acid on 3D spheroids of β-like cells derived from induced pluripotent stem cells. Gene 917, 148441 (2024)
 25. H. Xin, R. Anufriev, L. Jalabert, K. Watanabe, T. Taniguchi, Y. Guo, Y. Ni, S. Volz, M. Nomura. A graphite thermal Tesla valve driven by hydrodynamic phonon transport, Nature (2024).
+26. R. Beaubois, J. Cheslet, Y. Ikeuchi, P. Branchereau, T. Levi. Real-time multicompartment Hodgkin-Huxley neuron emulation on SoC FPGA. Frontiers in Neuroscience 18 (2024).
+27. M. Diego, R. Anufriev, R. Yanagisawa, M. Nomura, Phonon dispersion of nanoscale honeycomb phononic crystal: gigahertz and terahertz spectroscopy comparison. Eur. Phys. J. Plus 139, 1032 (2024).
+
 
 ### 2023
 

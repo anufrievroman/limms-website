@@ -54,7 +54,7 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 
 </br>
 </br>
-
+<!--
 ### Open positions
 
 </br>
@@ -65,6 +65,8 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 Deadline for application is 30 November 2024.
 </br>
 </br>
+-->
+
 </br>
 '
 

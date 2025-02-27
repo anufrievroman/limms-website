@@ -8,6 +8,10 @@ description: "Journal publications"
 draft: false
 ---
 
+### 2025
+
+1. T. Duenki, Y. Ikeuchi. Insulative Compression of Neuronal Tissues on Microelectrode Arrays by Perfluorodecalin Enhances Electrophysiological Measurements, Adv. Healthcare Mater., 2403771, (2025)
+
 ### 2024
 
 1. T. Osaki, T. Duenki, SYA. Chow, Y. Ikegami, R. Beaubois, T. Levi, N. Nakagawa-Tamagawa, Y. Hirano & Y. Ikeuchi. Complex activity and short-term plasticity of human cerebral organoids reciprocally connected with axons.  Nature Communications 15, 2945 (2024).
@@ -37,6 +41,16 @@ draft: false
 25. H. Xin, R. Anufriev, L. Jalabert, K. Watanabe, T. Taniguchi, Y. Guo, Y. Ni, S. Volz, M. Nomura. A graphite thermal Tesla valve driven by hydrodynamic phonon transport, Nature (2024).
 26. R. Beaubois, J. Cheslet, Y. Ikeuchi, P. Branchereau, T. Levi. Real-time multicompartment Hodgkin-Huxley neuron emulation on SoC FPGA. Frontiers in Neuroscience 18 (2024).
 27. M. Diego, R. Anufriev, R. Yanagisawa, M. Nomura, Phonon dispersion of nanoscale honeycomb phononic crystal: gigahertz and terahertz spectroscopy comparison. Eur. Phys. J. Plus 139, 1032 (2024).
+28. Y. Cheng, H. Zhang, S. Xiong, S. Volz, T. Zhang, Tuning the thermal resistance of SiGe phononic interfaces across ballistic and diffusive regimes, International Journal of Heat and Mass Transfer 235, 126144 (2024).
+29. S. Mukherjee, Z. Zhang, M. Wajs, M.C. Spadaro, M. Gonzalez-Catala, ..., Thermal Conductivity in Biphasic, Silicon Nanowires, Nano Letters, (2024).
+30. J. Ordonez-Miranda, Y. Wu, M. Nomura, S. Volz, Far-field thermal radiation driven by the temperature oscillations of macroscopic bodies, Physical Review Applied 22 (5), 054053, (2024).
+31. Z. Zhang, C. Yu, S. Lu, S. Volz, J. Chen, Low thermal conductivity and promising thermoelectric performance induced by resonant bonding in a two-dimensional lead-tin-selenide ordered alloy, Physical Review Applied 22 (5), 054013, (2024).
+32. V.T. Tran, R. D’Agosta, S. Volz, Tuning the parity selective transport effect in zigzag graphene ribbons, Physical Review B 110 (16), L161410, (2024).
+33. V.T. Tran, R. D’Agosta, M. Bescond, S. Volz, Ab Initio Phonon Transport Based on Nonequilibrium Green's Function Formalism: A Practical Approach, physica status solidi (b), 2400353, (2024).
+34. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, Dimensional crossover in thermal radiation: From three- to two-dimensional heat transfer between metallic membranes, Phys. Rev. App. 22, L031006 (2024).
+35. X Wu, Y Wu, X Huang, Z Fan, S Volz, Q Han, M Nomura, Isotope interface engineering for thermal transport suppression in cryogenic graphene, Materials Today Physics 46, 101500, (2024).
+36. S Shan, Z Zhang, S Volz, J Chen, Phonon mode at interface and its impact on interfacial thermal transport, Journal of Physics: Condensed Matter 36 (42), 423001, (2024).
+37. J. Cheslet, R. Beaubois, T. Duenki, F. Khoyratee, T. Kohno, Y. Ikeuchi, T. Levi, Biomimetic snake locomotion using central pattern generators network and bio-hybrid robot perspective, Artif Life Robotics, 29, 479-485 (2024).
 
 
 ### 2023

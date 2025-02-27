@@ -7,6 +7,7 @@ description: "Conferences"
 # save as draft
 draft: false
 ---
+
 ### 2024
 
 1. S. Volz, Guided Polaritons Thermal Radiation, MRS Spring Meeting 2024, Seattle, April 2024.
@@ -19,6 +20,8 @@ draft: false
 8. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, Quantum of Far-Field Thermal Radiation between Subwavelength Films, Nanorad, Sapporo, July 2024.
 9. Jose Ordonez-Miranda, Roman Anufriev,  Masahiro Nomura, and Sebastian Volz, Harnessing Thermal Waves for Heat Pumping, ICPPP, Coimbra, July 2024.
 10. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, 2D Far-Field Thermal Radiation Driven by Surface Polaritons, IRMC, Cancun, August 2024.
+11. J. Cheslet, R. Beaubois, F. Khoyratee, T. Kohno, Y. Ikeuchi, T. Levi, Biomimetic snake locomotion using central pattern generators network and bio-hybrid robot perspective, ISAROB, Beppu, Japan, January 2024.
+12. J. Cheslet, M. bernert, R. Beaubois, B. Yvert, T. Levi, Real-Time spike sorting using an optimized STDP Spiking Neural Network on FPGA, IEEE IJCNN, Yokohama, Japan, July 2024.
 
 ### 2023
 

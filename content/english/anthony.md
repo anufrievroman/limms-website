@@ -10,9 +10,13 @@ draft: false
 
 {{< image src="images/ava/genot.jpg" caption="" alt="" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title=""  webp="false" >}}
 
+<div class="memorial_book">
+<div class="memorial_book_title">
 ## Anthony Genot
 
-1982 - 2025
+<p>1982 - 2025</p>
+
+</div>
 
 A former student of École Polytechnique and a doctorate holder from the University of Oxford, Anthony joined the LIMMS laboratory (CNRS/University of Tokyo) in 2011 as a postdoctoral researcher in the team of Yannick Rondelez and Professor Fujii. After a period at LAAS in 2013, he was recruited as a CNRS research scientist, returning to LIMMS, this time as scientific lead.
 
@@ -27,3 +31,5 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 ### Memorial Book
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</div>

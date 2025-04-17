@@ -17,7 +17,7 @@
   <p class="mb-2">
     {{ .Summary }}
     {{ range .Params.social }}
-        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">{{ .title }}</a>
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">{{ .name }}</a>
     {{ end }}
   </p>
 </div>

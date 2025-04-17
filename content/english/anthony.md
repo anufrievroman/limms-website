@@ -12,9 +12,9 @@ draft: false
 
 <div class="memorial_book">
 <div class="memorial_book_title">
-## Anthony Genot
+<h2> Anthony Genot</h2>
 
-<p>1982 - 2025</p>
+<p>1982 — 2025</p>
 
 </div>
 
@@ -28,7 +28,9 @@ In France as in Japan, many researchers who had the privilege of working with hi
 
 Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a brilliant and free intellect, a mind in perpetual motion, driven by insatiable curiosity and a deep sense of humanity — qualities that are the strength and uniqueness of our institution.
 
+<div class="memorial_book_title">
 ### Memorial Book
+</div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

@@ -1,5 +1,5 @@
 ---
-title: Anthony GENOT
+title: [Anthony GENOT](/anthony)
 email: 
 image: "/images/ava/genot.jpg"
 description:  

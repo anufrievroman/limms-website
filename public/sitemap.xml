@@ -38,10 +38,10 @@
     <loc>//localhost:1313/tags/silicon/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/software/</loc>
+    <loc>//localhost:1313/categories/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/software/</loc>
+    <loc>//localhost:1313/tags/software/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -50,17 +50,105 @@
     <loc>//localhost:1313/tags/tailwind/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/categories/technology/</loc>
+    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/tags/technology/</loc>
     <lastmod>2022-04-04T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/technology/</loc>
-    <lastmod>2022-04-04T05:00:00+00:00</lastmod>
+    <loc>//localhost:1313/abstracts/af/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ag/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ai1/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ai2/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/al/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ao1/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ao2/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/bf/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/cwc1/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/cwc2/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/db/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/dg/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/el/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ggpr/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/gl/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/gp/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ha/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/jcb/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/jhk/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/kw/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/mn/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/mr/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/mvc/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/mwc/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/pk/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sc/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/shknc/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sj/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sjk/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sjk2/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sjkyc/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sl/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/slg1/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/slg2/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/slys/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/sv/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/svmn/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/tm/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/wvdw/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ww/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/xx/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ym/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/ym2/</loc>
   </url><url>
     <loc>//localhost:1313/files/euralimms/</loc>
   </url><url>
     <loc>//localhost:1313/files/workshop-euralimms/</loc>
   </url><url>
     <loc>//localhost:1313/workshop-euralimms/</loc>
+  </url><url>
+    <loc>//localhost:1313/abstracts/</loc>
   </url><url>
     <loc>//localhost:1313/members/eiler/</loc>
   </url><url>
@@ -118,6 +206,8 @@
   </url><url>
     <loc>//localhost:1313/members/jalabert/</loc>
   </url><url>
+    <loc>//localhost:1313/anthony/</loc>
+  </url><url>
     <loc>//localhost:1313/kiko/</loc>
   </url><url>
     <loc>//localhost:1313/members/pinede/</loc>
@@ -133,8 +223,6 @@
     <loc>//localhost:1313/members/diego/</loc>
   </url><url>
     <loc>//localhost:1313/members/clement/</loc>
-  </url><url>
-    <loc>//localhost:1313/open-positions/</loc>
   </url><url>
     <loc>//localhost:1313/pages/</loc>
   </url><url>

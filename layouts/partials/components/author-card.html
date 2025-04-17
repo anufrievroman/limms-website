@@ -20,10 +20,7 @@
   <ul class="social-icons">
     {{ range .Params.social }}
       <li>
-        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
-          <span class="sr-only">{{ .title }}</span>
-          <i class="{{ .icon }}"></i>
-        </a>
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">{{ .title }}</a>
       </li>
     {{ end }}
   </ul>

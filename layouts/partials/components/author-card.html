@@ -16,12 +16,8 @@
   </h4>
   <p class="mb-2">
     {{ .Summary }}
-  </p>
-  <ul class="social-icons">
     {{ range .Params.social }}
-      <li>
         <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">{{ .title }}</a>
-      </li>
     {{ end }}
-  </ul>
+  </p>
 </div>

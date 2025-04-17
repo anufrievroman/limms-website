@@ -6,5 +6,5 @@ description:
 ---
 
 (CNRS, Tokyo)
-
-<a href="/anthony">Memorial Page</a>
+<br>
+[Memorial Page](/anthony)

@@ -4,7 +4,7 @@ email:
 image: "/images/ava/anufriev.jpg"
 description:
 social:
-  - name: website
+  - name: Website
     icon: fa-brands fa-github
     link: https://anufrievroman.com
 ---

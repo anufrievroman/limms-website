@@ -6,5 +6,3 @@ description:
 ---
 
 (CNRS, Tokyo)
-<br>
-[Memorial Page](/anthony)

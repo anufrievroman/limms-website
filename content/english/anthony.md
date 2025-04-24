@@ -32,10 +32,12 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 <h3> Memorial Book </h3>
 </div>
 
-<i>Anthony was not only a brilliant researcher, but also a very kind colleague, always eager to explore new ideas. Our time at LIMMS remains lively in my mind — filled with discussions, laughter, and a shared curiosity for a broad range of subjects. I will never forget assembling our workstations, piece by piece, in the LIMMS meeting room — with his crucial help. His presence will be truly missed. My heartfelt condolences to his wife Mikako and his daughters.</i><br>
-<i> — Marc Bescond</i><br><br>
+<i>Anthony was not only a brilliant researcher, but also a very kind colleague, always eager to explore new ideas. Our time at LIMMS remains lively in my mind — filled with discussions, laughter, and a shared curiosity for a broad range of subjects. I will never forget assembling our workstations, piece by piece, in the LIMMS meeting room — with his crucial help. His presence will be truly missed. My heartfelt condolences to his wife Mikako and his daughters.
+<br>— Marc Bescond</i><br><br>
 
 <i>J’ai croisé brièvement Anthony au LAAS en 2013 lors de son postdoctorat mais cela a été suffisant pour sentir la proximité avec un esprit brillant, un des ceux que l’on croise rarement durant une carrière entière. Quelle peine, quel gâchis, quel drame!!! </i><br><br>
+
+<i>I will remember Anthony as a passioned researcher, always in pursuit of challenging and original ideas, a kind colleague, and a man inspired by nature itself.<br>— Roman Anufriev </i><br><br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

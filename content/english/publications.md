@@ -11,6 +11,16 @@ draft: false
 ### 2025
 
 1. T. Duenki, Y. Ikeuchi. Insulative Compression of Neuronal Tissues on Microelectrode Arrays by Perfluorodecalin Enhances Electrophysiological Measurements, Adv. Healthcare Mater., 2403771, (2025)
+2. Y Miura, V. Cosmin, Y. Sakai, M. Nishikawa, E. Leclerc, A computational model of the crosstalk between hepatocyte fatty acid metabolism, oxidative stress, and lipid peroxide highlighted the key enzymes, species and detoxification routes in the context of steatosis, Toxicology and Applied Pharmacology, 495, 117185, (2025)
+3. H. Wang, M. Danoy, Y. Gong, T. Utami, H. Arakawa, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc , Palmitic acid induced a dedifferentiation profile at the transcriptome level, a collagen synthesis but no triglyceride accumulation in hepatocyte-like cells derived from Human-induced pluripotent stem cells cultivated inside organ on a chip, Journal of Applied Toxicology, 45, 460-471, (2025)
+4. J. Ordonez-Miranda, M Nomura, S Volz, Focusing surface phonon-polaritons for tunable thermal radiation, Discover Nano 20, 15, (2025)
+6. L. Cazenille, M. Toquebiau, N. Lobato-Dauzier, A. Loi, L. Macabre, N. Aubert-Kato, A.J. Genot, and N. Bredeche, Signalling and social learning in swarms of robots, Philos. Trans. A 383, 20240148 (2025)
+7. H. Shi, S. Grall, R. Yanagisawa, L. Jalabert, S. Paul, S.H. Kim, J.L. Viovy, H. Daiguji, and M. Nomura, Chip cooling with manifold-capillary structures enables 105 COP in two-phase systems, Cell Rep. Phys. Sci., 102520 (2025)
+8. A. Bancaud, T. Nakajima, J.I. Suehiro, B. Alric, F. Morfoisse, J. Cacheux, Y. Matsunaga, Intraluminal pressure triggers a rapid and persistent reinforcement of endothelial barriers Lab on a Chip, 25, 2061 (2025). 
+9. D. T.  Papanastasiou, S. Harimurti , C. Okuda, M. Mimuro, W. Yukita, T. Yokota and T. Someya, A novel thickness-gradient electrospun nanomesh for interface-free e-skin Applications, Mater. Horiz., (2025)
+10. Z. Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, C. Demaille, The energetics of electron transfer in redox-DNA layers mimics that of redox proteins, Chem. Eur. J.  e202500838 (2025)
+11. A. Bancaud, T. Nakajima, J-I. Suehero, B. Alric, F. Morfoisse, J. Cacheux, and Y.T. Matsunaga. Intraluminal pressure triggers a rapid and persistent reinforcement of endothelial barriers. bioRxiv 2025-01 (2025)
+12. Y. Liu,  S. De Mulatier,  N. Matsuhisa,  Unperceivable Designs of Wearable Electronics. Advanced Materials 2502727 (2025)
 
 ### 2024
 

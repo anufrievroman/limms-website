@@ -41,6 +41,8 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 
 <i>I had the chance to work with him on several topics and specifically on the MoleculArXiv project. He was a passionate, brilliant researcher and a very kind human. <br>— Gwenael Bonfante</i><br><br>
 
+<i>Je suis la mère d'Anthony ; je vous remercie de vos témoignages émouvants qui me mettent un peu de baume au coeur</i><br><br>
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </div>

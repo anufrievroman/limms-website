@@ -43,6 +43,8 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 
 <i>Je suis la mère d'Anthony ; je vous remercie de vos témoignages émouvants qui me mettent un peu de baume au coeur</i><br><br>
 
+<i>I spent a few months with Anthony in Fukuoka, right around the time he met his wife Mikako. It was a long time ago, but I still perfectly remember all the good time we had in the same friend circle. He was a great heart with a very sharp mind, clearly above the herd. This comes as a real shock. My deepest condolences to his family. <br>— Antoine Trouvé</i><br><br>
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </div>

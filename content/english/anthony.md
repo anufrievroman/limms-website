@@ -50,11 +50,8 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 <br>
 We studied Japanese together for nearly ten years. You were always full of questions, with a bright and childlike curiosity. While preparing for our lessons, I also learned a lot about science—a subject I’ve never been good at—thanks to you.
 <br>
-We had a great time reading The Complete Guide to Science Topics (『理系の話 大全』), which I picked up at a bookstore for you because your Japanese skills had far surpassed all the textbooks for Japanese learners. It was like a “Science Power Lesson for Adults,” filled with content that sparked curiosity in anyone who read it. You worked incredibly hard and eventually became so skilled at explaining difficult scientific concepts in Japanese.
-<br>
-It is heartbreaking to think of you leaving behind your beloved wife and children. Please accept my deepest condolences.<br>
-
- <br>— Noriko Mizuta<br>
+We had a great time reading The Complete Guide to Science Topics (『理系の話 大全』), which I picked up at a bookstore for you because your Japanese skills had far surpassed all the textbooks for Japanese learners. It was like a “Science Power Lesson for Adults,” filled with content that sparked curiosity in anyone who read it. You worked incredibly hard and eventually became so skilled at explaining difficult scientific concepts in Japanese.<br>
+It is heartbreaking to think of you leaving behind your beloved wife and children. Please accept my deepest condolences.<br>— Noriko Mizuta<br>
 Director, Progress Japanese Academy</i><br><br>
 
 

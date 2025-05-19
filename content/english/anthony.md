@@ -45,6 +45,19 @@ Anthony Genot exemplified with rare clarity the ideal of a CNRS researcher: a br
 
 <i>I spent a few months with Anthony in Fukuoka, right around the time he met his wife Mikako. It was a long time ago, but I still perfectly remember all the good time we had in the same friend circle. He was a great heart with a very sharp mind, clearly above the herd. This comes as a real shock. My deepest condolences to his family. <br>— Antoine Trouvé</i><br><br>
 
+
+<i>I am heartbroken and deeply shocked by the news. 
+<br>
+We studied Japanese together for nearly ten years. You were always full of questions, with a bright and childlike curiosity. While preparing for our lessons, I also learned a lot about science—a subject I’ve never been good at—thanks to you.
+<br>
+We had a great time reading The Complete Guide to Science Topics (『理系の話 大全』), which I picked up at a bookstore for you because your Japanese skills had far surpassed all the textbooks for Japanese learners. It was like a “Science Power Lesson for Adults,” filled with content that sparked curiosity in anyone who read it. You worked incredibly hard and eventually became so skilled at explaining difficult scientific concepts in Japanese.
+<br>
+It is heartbreaking to think of you leaving behind your beloved wife and children. Please accept my deepest condolences.<br>
+
+ <br>— Noriko Mizuta<br>
+Director, Progress Japanese Academy</i><br><br>
+
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 </div>

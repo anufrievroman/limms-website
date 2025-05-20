@@ -42,15 +42,13 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 </br>
 </br>
 
-### LIMMS Booklet 2024
+### LIMMS Booklet 2025
 
 </br>
-Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2024.pdf):
+Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2025.pdf):
 
 </br>
-<div style="position:relative;padding-top:0;width:100%;height:600px;">
-<iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/ngcz/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe>
-</div>
+<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/kmka/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
 </br>
 </br>

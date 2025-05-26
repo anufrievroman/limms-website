@@ -56,7 +56,9 @@ Director, Progress Japanese Academy</i><br><br>
 
 <i>I have known Anthony while working at the University of Tokyo. Anthony was a good person and talented researcher. I feel it's a big and unfair loss. Anthony could have produced so much more great scientific works. My heartfelt condolences to Anthony's family, members of Fujii/Kim Lab at IIS and LIMMS/CNRS.<br>—  Stéphane Poulain</i><br><br>
 
-<i>I was in Merton College with Anthony (we matriculated in the same year 2006) and he was in the group of my close Oxford friends for years afterwards. I remember a very funny moment (captured on video) where I say something to my parents and friends in Russian, while Anthony translated it to French according to his idea of what I was saying. We also spent some good evenings talking French and playing card games. I remember he already learned Japanese and had a Japanese girlfriend soon to become his wife. It is very sad to hear of his passing from his friend Julien.</i><br><br>
+<i>I was in Merton College with Anthony (we matriculated in the same year 2006) and he was in the group of my close Oxford friends for years afterwards. I remember a very funny moment (captured on video) where I say something to my parents and friends in Russian, while Anthony translated it to French according to his idea of what I was saying. We also spent some good evenings talking French and playing card games. I remember he already learned Japanese and had a Japanese girlfriend soon to become his wife. It is very sad to hear of his passing from his friend Julien.<br>
+— Yulia Savikovskaya</i><br><br>
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

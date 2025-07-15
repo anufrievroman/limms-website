@@ -10,22 +10,21 @@ draft: false
 
 ### Arriving and leaving Japan
 
-When you arrive in Japan or change your address, you need to go to your new city hall (with the paper from previous city hall if you change address) and declare that you moved in. This should be done in 14 days.
+When you have just arrived to Japan or changing your address, you need to go to your new city hall (with the paper from previous city hall if you change address) and declare that you are moving in. This should be done in 14 days. When you are leaving Japan, you need to go to your city hall again and declare that you are leaving. Otherwise, they may ask you to pay taxes etc.
 
-To update your residence card, you need to go to [Tokyo Immigration Office](https://maps.app.goo.gl/iegZykYYm3Bt9AbN8) with documents provided by LIMMS office.
-
-When you are leaving Japan, you need to go to your city hall again and declare that you are leaving. Otherwise, they may ask you to pay taxes etc.
+To update your residence card, you need to go to [Tokyo Immigration Office](https://maps.app.goo.gl/iegZykYYm3Bt9AbN8) with documents provided by LIMMS office. Inform LIMMS office at least 2 months before the expiration date.
 
 
 ### Healthcare in Japan
 
-When you relisted in your city hall, you'll also sign up for Japanese health insurance (which is mandatory to have in Japan), and eventually receive the insurance card. With this card you can go to any clinic and you'll pay only a small portion of a full price. Usually, you need to a general doctor first, and then the doctor will send you to a specialist.
+When you register in your city hall, you'll also sign up for Japanese health insurance (which is mandatory to have in Japan), and eventually receive the insurance card. With this card you can go to any clinic and you'll pay only a small portion of a full price. Usually, you need to visit a general doctor first, and then the doctor will send you to a specialist.
 
-In the University of Tokyo, you have access to [campus medical center at Komaba 1](https://www.hc.u-tokyo.ac.jp/en/), which is [located here](https://www.hc.u-tokyo.ac.jp/en/qa-others/contact/#komaba). There, you can always consult a general (English speaking) doctor who can write prescriptions or direct you to a specialized doctor. There are a few specialized doctors too.
+In the University of Tokyo, you have access to [campus medical center at Komaba 1](https://www.hc.u-tokyo.ac.jp/en/), which is [located here](https://www.hc.u-tokyo.ac.jp/en/qa-others/contact/#komaba). There, you can always consult a general (English speaking) doctor who can write prescriptions or direct you to a specialized doctor. There are a few specialized doctors too. However, here are few more useful options:
 
-- [An English-speaking clinic for general issues](https://tmsc.jp)
-- [An English-speaking clinic for sport trauma](http://www.yamateclinic.jp)
-- [A service](https://japanhealthinfo.com) that finds a doctor for your case. They'll charge a few thousand yen, but it's convenient.
+- [English-speaking clinic for general issues](https://tmsc.jp)
+- [English-speaking clinic for sport trauma](http://www.yamateclinic.jp)
+- [English-speaking dentist](https://www.miharadentalclinic.com)
+- [A service](https://japanhealthinfo.com) that finds a doctor for your special case and book an appointment. They'll charge a few thousand yen, but it's convenient.
 
 
 ### Bank, money transfer, mobile, internet
@@ -59,3 +58,11 @@ It might be challenging to rent an apartment via traditional Japanese agencies i
 
 - [Portal to adjust taxes (by March 15)](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl)
 - [Room reservation in IIS](https://www-int.iis.u-tokyo.ac.jp/iisonly/komabareserve/index.cgi)
+
+
+### Research
+
+- [Research basics](https://nomlab.gitbook.io/wiki/research-basics)
+- [Authorship rules](https://www.science.org/content/page/science-journals-editorial-policies#authorship)
+- [Various UTokyo rules](https://www.u-tokyo.ac.jp/en/about/rules_main.html)
+- [Harasment rules](https://har.u-tokyo.ac.jp/en/reference_data/)

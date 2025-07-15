@@ -31,10 +31,10 @@ In the University of Tokyo, you have access to [campus medical center at Komaba 
 ### Bank, money transfer, mobile, internet
 
 - If you don't speak Japanese, here is an English-speaking bank: https://www.smbctb.co.jp (not to be confused with regular SMBC bank).
-
 - If you don't have a Japanese credit card, and you don't speak Japanese, you can get a sim card and wifi here: https://www.sakuramobile.jp, although the price is not the cheapest. If you don't mind using eSIM, here are better options: https://tokyocheapo.com/business/internet/esim-japan-travel
-
 - To transfer money from abroad to Japanese bank, the cheapest way seems to be through [Wise](https://wise.com). You first transfer money into your European Wise account, convert into yen, and send to Japanese bank.
+- [General information about UTokyo WiFi](https://utelecon.adm.u-tokyo.ac.jp/en/utokyo_wifi)
+- [Apply for UTokyo Wifi](https://acm.wifi.adm.u-tokyo.ac.jp/user/user_applies/main_index/1)
 
 
 ### Learning Japanese
@@ -43,7 +43,7 @@ In the University of Tokyo, you have access to [campus medical center at Komaba 
 - [Japanese language center in Hongo](http://www.nkc.u-tokyo.ac.jp/course_info/index_e.html)
 
 
-## Housing in Tokyo
+### Housing in Tokyo
 
 It might be challenging to rent an apartment via traditional Japanese agencies if you don't speak Japanese, so here are some helpful links:
 
@@ -55,3 +55,7 @@ It might be challenging to rent an apartment via traditional Japanese agencies i
 - [Buying and selling stuff](https://www.facebook.com/groups/149592432651016)
 - [Getting rid of large garbage](https://japan-dev.com/blog/sodai-gomi-japan)
 
+### For IIS employees
+
+- [Portal to adjust taxes (by March 15)](https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl)
+- [Room reservation in IIS](https://www-int.iis.u-tokyo.ac.jp/iisonly/komabareserve/index.cgi)

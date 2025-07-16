@@ -35,6 +35,12 @@ In the University of Tokyo, you have access to [campus medical center at Komaba 
 - [General information about UTokyo WiFi](https://utelecon.adm.u-tokyo.ac.jp/en/utokyo_wifi)
 - [Apply for UTokyo Wifi](https://acm.wifi.adm.u-tokyo.ac.jp/user/user_applies/main_index/1)
 
+### Transportation
+
+- It's best to get a transport card on your phone. Here's instructions for [android](https://www.pasmo.co.jp/mp/and/) and [iphone](https://www.pasmo.co.jp/mp/app/).
+- [Railroad passes for tourism](https://www.jreast.co.jp/multi/en/pass/tokyowidepass.html)
+- [Cheap busses](https://willerexpress.com/en/)
+- [Cheap tours](https://tokyogaijins.com/)
 
 ### Learning Japanese
 

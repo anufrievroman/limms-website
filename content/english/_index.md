@@ -42,21 +42,11 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 </br>
 </br>
 
-### LIMMS Booklet 2025
-
-</br>
-Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2025.pdf):
-
-</br>
-<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/kmka/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
-
-</br>
-</br>
-
 ### Open positions
 
 </br>
 <strong>Research Internship FY 2026 at LIMMS/CNRS-IIS (IRL 2820)</strong>
+</br>
 
 LIMMS provides hands-on research internship opportunities with 10 projects, mainly focused on Biology, Energy, and Quantum & Molecular Tech. in the field of MEMS and NEMS. Please select a project that suits you, read the application guidelines carefully, and submit your application by the deadline of 30 November.
 
@@ -83,6 +73,16 @@ Deadline for application is 30 November 2024.
 </br>
 </br>
 
+### LIMMS Booklet 2025
+
+</br>
+Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2025.pdf):
+
+</br>
+<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/kmka/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+
+</br>
+</br>
 </br>
 '
 

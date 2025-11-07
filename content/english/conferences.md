@@ -28,6 +28,12 @@ draft: false
 10. Jose Ordonez-Miranda, Roman Anufriev, Masahiro Nomura, and Sebastian Volz, 2D Far-Field Thermal Radiation Driven by Surface Polaritons, IRMC, Cancun, August 2024.
 11. J. Cheslet, R. Beaubois, F. Khoyratee, T. Kohno, Y. Ikeuchi, T. Levi, Biomimetic snake locomotion using central pattern generators network and bio-hybrid robot perspective, ISAROB, Beppu, Japan, January 2024.
 12. J. Cheslet, M. bernert, R. Beaubois, B. Yvert, T. Levi, Real-Time spike sorting using an optimized STDP Spiking Neural Network on FPGA, IEEE IJCNN, Yokohama, Japan, July 2024.
+13. Y Miura, M Nishikawa, Y Sakai, E Leclerc, Mathematical Model investigating the relationship between Oxidative Stress and Acetaminophen-induced Hepatotoxicity in the context of MASLD, The 37th Annual Meeting of the Japanese Society for Alternatives to Animal Experiments, Utsunomiya, Japan, 2024
+14. Y Miura, H Choi, T Katsuda, M Nishikawa, Y Sakai, E Leclerc, Development of of a mathematical model to investigate the links between oxidative stress and lipid accumulation, 89th Chemical Engineering Conference, Osaka, Japan, 2024
+15. A Brassens, A Martins, T Messelmani, Z Souguir, N Maubon, U Pereira, J-M Prot, A Le Goff, E Leclerc, C Legallais, R Jellali, Organoids-on-chip models to mimic liver physiology, Congres de la societe francaise de biomecanique, France, 2024
+16. H. Vo Van Qui, I. Madrid, S. Grall, A. Fujiwara, L. Jalabert, T. Jonckheree, J. Rech, T. Martin, S.H. Kim, N. Clément, International School and Symposium on Nanodevices and quanTum Technologies, Japan, 2024
+17. D. Decanini, A. Harouri, A. Mizushima, J. Park, B. J. Kim, Y. Mita, G. Hwang, Novel Fabrication of 4D Printed Optical Probe Array with Nanometer Aperture and Optical Spot Size Tunning, IEEE MEMS 2024, Austin, Texas, USA, January 2024
+18. Fujimoto, A., Nobukawa, S., Sakemi, Y., Ikeuchi, Y., Aihara, K. (2024). Revealing Functions of Extra-Large Excitatory Postsynaptic Potentials: Insights from Dynamical Characteristics of Reservoir Computing with Spiking Neural Networks. In: Wand, M., Malinovská, K., Schmidhuber, J., Tetko, I.V. (eds) Artificial Neural Networks and Machine Learning – ICANN 2024. ICANN 2024. Lecture Notes in Computer Science, vol 15019. Springer, Cham. https://doi.org/10.1007/978-3-031-72341-4_11
 
 ### 2023
 

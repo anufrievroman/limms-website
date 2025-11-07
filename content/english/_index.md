@@ -52,18 +52,28 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
 
 </br>
 </br>
-<!--
+
 ### Open positions
 
 </br>
-<strong>LIMMS Internship Campaign FY 2025</strong>
+<strong>Research Internship FY 2026 at LIMMS/CNRS-IIS (IRL 2820)</strong>
+
+LIMMS provides hands-on research internship opportunities with 10 projects, mainly focused on Biology, Energy, and Quantum & Molecular Tech. in the field of MEMS and NEMS. Please select a project that suits you, read the application guidelines carefully, and submit your application by the deadline of 30 November.
+
 </br>
-· [Agnes Taxier-Mita Lab. project](files/projects/Mitalab.pdf)
+· [Agnes Taxier-Mita Lab. project](files/internships2026/ATMlab_internship_FY2026.pdf)
+· [Kuroyama Lab. project](files/internships2026/Kuroyama_lab_internship_FY2026.pdf)
+· [Mita Lab. project](files/internships2026/MITA_lab_internship_FY2026.pdf)
+· [Matsuhisa Lab. project](files/internships2026/Matsuhisa_lab_internship_FY2026.pdf)
+· [Nomura Lab. project A](files/internships2026/Nomura_lab-1_internship_FY2026.pdf)
+· [Nomura Lab. project B](files/internships2026/Nomura_lab-2_internship_FY2026.pdf)
+· [Nomura Lab. project](files/internships2026/Nomura_lab-2_internship_FY2026.pdf)
+· [Sakai Lab. project A](files/internships2026/Sakai_lab-1_AI__internship_FY2026.pdf)
+· [Sakai Lab. project B](files/internships2026/Sakai_lab-2_CRISPR_internship_FY2026.pdf)
 </br>
 Deadline for application is 30 November 2024.
 </br>
 </br>
--->
 
 </br>
 '

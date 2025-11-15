@@ -63,7 +63,7 @@ LIMMS provides hands-on research internship opportunities with 10 projects, main
 </br>
 · [Nomura Lab. project B](files/internships2026/Nomura_lab-2_internship_FY2026.pdf)
 </br>
-· [Nomura Lab. project](files/internships2026/Nomura_lab-2_internship_FY2026.pdf)
+· [Kim Lab. project](files/internships2026/SHKim_lab_internship_FY2026.pdf)
 </br>
 · [Sakai Lab. project A](files/internships2026/Sakai_lab-1_AI__internship_FY2026.pdf)
 </br>

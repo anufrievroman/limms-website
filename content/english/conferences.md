@@ -12,7 +12,8 @@ draft: false
 
 1. S. Chevalier, M. Ryu, S. Kamegaki, J. Letessier, J. Maire, Jean-Christophe Batsale, J. Morikawa, Experimental and theoretical development of photothermal heterodyne transmission imaging, JSAP 72th Spring Meeting, Tokyo, 2025
 2. R. Anufriev, M. Diego, S. Volz, M. Nomura Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phononics, Seoul, Korea, 2025
-3. S. Chevalier, M. Ryu, J.C. Batsale, & J. Morikawa, (2025). Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer. In Int. Symp. HTJS 2025, Okinawa, Japan.
+3. S. Chevalier, M. Ryu, J.C. Batsale, & J. Morikawa, Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer. In Int. Symp. HTJS 2025, Okinawa, Japan.
+4. R. Anufriev, M. Diego, S. Volz and M. Nomura, Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phonons 2025, Buenos Aires, Argentina.
 
 ### 2024
 

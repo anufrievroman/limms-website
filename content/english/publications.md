@@ -29,7 +29,7 @@ draft: false
 18. W Zhang, S Xiong, Y Guo, HL Yi, M Nomura, S Volz, Promoting Anderson Localization for Low-Frequency Phonons in SiGe Alloyed Nanowires with Long-Range Correlated Disorder, ACS nano, online, (2025).
 19. M Nomura, S Volz, BY Cao, Z Tian, Advances in thermal phonon engineering and thermal management, Applied Physics Letters 127 (6), (2025).
 20. J Ordonez-Miranda, R Anufriev, M Coral, M Nomura, S Volz, Far-field heat transfer maximization through controlled polariton coupling between deep-subwavelength polar membranes, Physical Review B 111 (19), 195435, (2025).
-21. M Diego, J Hardouin, G Mazevet-Schargrod, M Pirro, B Kim, R Anufriev, Hypersonic acoustic wave control via stealthy hyperuniform phononic nanostructures, Science Advances 11 (32), eadw7205, (2025).
+21. M Diego, J Hardouin, G Mazevet-Schargrod, M Pirro, B Kim, R Anufriev, M Nomura, Hypersonic acoustic wave control via stealthy hyperuniform phononic nanostructures, Science Advances 11 (32), eadw7205, (2025).
 22. R. Anufriev, D. Michele, S. Volz, M. Nomura, When phononic crystals fail: Spatial and spectral limits of phonon interference, Physical Review Applied 24, L061001 (2025).
 
 ### 2024

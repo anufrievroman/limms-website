@@ -1,8 +1,8 @@
 ---
 title: Nicolas CLÉMENT
 email: 
-image: "/images/ava/clement.jpg"
-description:  
+image: "/images/ava/nicolas.jpg"
+description:  Director (CNRS)
 ---
 
-(CNRS, Tokyo)
+Director (CNRS)

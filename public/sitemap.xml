@@ -142,6 +142,8 @@
   </url><url>
     <loc>//localhost:1313/abstracts/ym2/</loc>
   </url><url>
+    <loc>//localhost:1313/anthony/</loc>
+  </url><url>
     <loc>//localhost:1313/files/euralimms/</loc>
   </url><url>
     <loc>//localhost:1313/files/workshop-euralimms/</loc>
@@ -205,8 +207,6 @@
     <loc>//localhost:1313/members/tobe/</loc>
   </url><url>
     <loc>//localhost:1313/members/jalabert/</loc>
-  </url><url>
-    <loc>//localhost:1313/anthony/</loc>
   </url><url>
     <loc>//localhost:1313/kiko/</loc>
   </url><url>

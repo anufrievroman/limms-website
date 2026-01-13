@@ -2189,6 +2189,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .pb-0 {
   padding-bottom: 0px;
 }
+.pb-1 {
+  padding-bottom: 0.25rem;
+}
 .pb-14 {
   padding-bottom: 3.5rem;
 }
@@ -3232,6 +3235,22 @@ p a {
   text-align: center;
   padding-bottom: 40px; }
 
+.centered-title ul {
+  list-style-type: disc;
+  /* Ensure bullet points appear */
+  padding-left: 20px;
+  /* Add space for bullet points */
+  margin: 0;
+  /* Optional: Remove default margin */
+  overflow: hidden;
+  /* Ensure contents fit within the specified width */ }
+
+.centered-title li {
+  text-align: left;
+  /* Align list items to the left */
+  margin-bottom: 5px;
+  /* Optional: Add space between items */ }
+
 .website-info {
   text-align: center;
   font-size: 0.6em;
@@ -3256,6 +3275,17 @@ p a {
 
 .theme-switcher label {
   margin-right: 8px; }
+
+.mb-8 p {
+  text-align: justify; }
+
+.memorial_book {
+  margin: 0 auto;
+  text-align: justify; }
+
+.memorial_book_title {
+  margin: 0 auto;
+  text-align: center; }
 
 @media (min-width: 540px) {
 

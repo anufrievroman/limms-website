@@ -5,4 +5,4 @@ image: "/images/ava/ajiyel.jpg"
 description:  
 ---
 
-(IIS, Univ. Tokyo)
+(JSPS Postdoc)

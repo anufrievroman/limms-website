@@ -1077,3 +1077,11 @@ p a {
 
 .mb-8 p {
   text-align: justify; }
+
+.memorial_book {
+  margin: 0 auto;
+  text-align: justify; }
+
+.memorial_book_title {
+  margin: 0 auto;
+  text-align: center; }

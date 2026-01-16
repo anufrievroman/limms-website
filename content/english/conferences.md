@@ -14,6 +14,10 @@ draft: false
 2. R. Anufriev, M. Diego, S. Volz, M. Nomura Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phononics, Seoul, Korea, 2025
 3. S. Chevalier, M. Ryu, J.C. Batsale, & J. Morikawa, Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer. In Int. Symp. HTJS 2025, Okinawa, Japan.
 4. R. Anufriev, M. Diego, S. Volz and M. Nomura, Spectral and spatial limits of phonon coherence in two-dimensional phononic crystals, Phonons 2025, Buenos Aires, Argentina.
+5. L.Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura, and S. Volz, MNC 2025, Tokyo, Japan
+6. G. Hamaoui, E. Akiki, A. Herve, Y. An, F. Marty, J. Zou, T. Bourouina, P. Basset, A. Delmas, E. Nefzaoui, Micro-structured Silicon Spectral Emissivity at Intermediate Temperatures from 100°C to 350°C, PhotonIcs and Electromagnetics Research Symposium (Autumn PIERS 2025), Chiba, Japan, November 2025
+7. G. Hamaoui, E. Akiki, A. Herve, Y. An, F. Marty, J. Zou, T. Bourouina, P. Basset, A. Delmas, E. Nefzaoui, Temperature Dependent Spectral Emissivity of Microstructured Silicon, 8th Meeting of the French - Singaporean Research Network on Renewable Energy, Singapore, Singapore, September 2025
+8. M. Coral, J. Ordonez-Miranda, J. Laurent, G. Hamaoui, Y. De Wilde, M. Nomura, S. Volz, Enhancement of thermal radiation via the hybridization of surface phonon-polaritons and guided modes, Thermal Polaritonics Workshop, Deajeon, South Korea, April 2025 
 
 ### 2024
 

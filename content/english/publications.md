@@ -8,6 +8,13 @@ description: "Journal publications"
 draft: false
 ---
 
+
+### 2026
+
+1. Z. Zhang, R. Ma, S. Lu, S. Volz, J. Chen, Decoding thermal transport mechanisms induced by short-range order in amorphous system, Physical Review Research 8, 01300, (2026)
+2. Y. Miura, Y. Sakai, M. Nishikawa, E. Leclerc, Computational Model of Inflammation Reveals Crosstalk among Energy Metabolism, Oxidative Stress, Insulin, and Cytokines in Hepatocytes during Early MASLD Progression, Toxicological Science,kfaf176 (2026)
+3. H. Wang, S. Poulain, W. Cao, H. Arakawa, SH. Kim, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc, Palmitic acid induced the onset of lipotoxicity in a HepaSH-on-chip model with raised of H2O2 and IL-6, and altered p38/MAPK and JAK/STAT pathways, Toxicology, 520, 154345, (2026)
+
 ### 2025
 
 1. T. Duenki, Y. Ikeuchi. Insulative Compression of Neuronal Tissues on Microelectrode Arrays by Perfluorodecalin Enhances Electrophysiological Measurements, Adv. Healthcare Mater., 2403771, (2025)
@@ -31,6 +38,12 @@ draft: false
 20. J Ordonez-Miranda, R Anufriev, M Coral, M Nomura, S Volz, Far-field heat transfer maximization through controlled polariton coupling between deep-subwavelength polar membranes, Physical Review B 111 (19), 195435, (2025).
 21. M Diego, J Hardouin, G Mazevet-Schargrod, M Pirro, B Kim, R Anufriev, M Nomura, Hypersonic acoustic wave control via stealthy hyperuniform phononic nanostructures, Science Advances 11 (32), eadw7205, (2025).
 22. R. Anufriev, D. Michele, S. Volz, M. Nomura, When phononic crystals fail: Spatial and spectral limits of phonon interference, Physical Review Applied 24, L061001 (2025).
+
+23. W. Zhang, S. Xiong, Y. Guo, H. Yi, M. Nomura, S. Volz, Anomalous thermal transport in silicon-like nanowires with one-dimensional correlated disorder, Chinese Physics Letters 42 (12), 120804, (2025).
+24. K Miyazaki, S Volz, Thermal transport in nanomaterials and soft matters, International Journal of Heat and Mass Transfer 252, 12748, (2025).
+25. W. Zhang, S. Xiong, Y. Guo, H.L. Yi, M. Nomura, S. Volz,, Thermal conductivity enhancement by phonon inelastic scattering in alloyed nanowires, Physical Review B 112 (19), 195423, (2025).
+26. L. Bourdon, A. Cochard, Y. Tauran, Y. Sugitani, Y. Sato, M. Takinoue, H. Fujita, T. Fujii, S.H. Kim, A. J. Genot, Antibody-Functionalized DNA Hydrogels Recognize and Isolate Living Tumor Cells, Advances Materials Interfaces, e00619 (2025).
+27. H. Hamma, R. Anufriev, K. Fushinobu, M. Nomura, B. Kim, Scalable Thermal Engineering via Femtosecond Laser-Direct-Written Phononic Nanostructures, Applied Functional Materials, e25269 (2025).
 
 ### 2024
 

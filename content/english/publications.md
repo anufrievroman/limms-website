@@ -12,7 +12,7 @@ draft: false
 ### 2026
 
 1. Z. Zhang, R. Ma, S. Lu, S. Volz, J. Chen, Decoding thermal transport mechanisms induced by short-range order in amorphous system, Physical Review Research 8, 01300, (2026)
-2. Y. Miura, Y. Sakai, M. Nishikawa, E. Leclerc, Computational Model of Inflammation Reveals Crosstalk among Energy Metabolism, Oxidative Stress, Insulin, and Cytokines in Hepatocytes during Early MASLD Progression, Toxicological Science,kfaf176 (2026)
+2. Y. Miura, Y. Sakai, M. Nishikawa, E. Leclerc, Computational Model of Inflammation Reveals Crosstalk among Energy Metabolism, Oxidative Stress, Insulin, and Cytokines in Hepatocytes during Early MASLD Progression, Toxicological Science, kfaf176 (2026)
 3. H. Wang, S. Poulain, W. Cao, H. Arakawa, SH. Kim, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc, Palmitic acid induced the onset of lipotoxicity in a HepaSH-on-chip model with raised of H2O2 and IL-6, and altered p38/MAPK and JAK/STAT pathways, Toxicology, 520, 154345, (2026)
 
 ### 2025

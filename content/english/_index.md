@@ -45,10 +45,8 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 ### JSPS PostDoc positions
 
 </br>
-</br>
 Standard JSPS PostDoc Program for 12-24 months through CNRS selection (2026-2). Please be sure to apply via the ABG website. The application deadline is 15 March 2026.
 
-</br>
 </br>
 • [Development of a Next-Generation Microphysiological System (MPS) integrating AI, Multi-omics, and Organ-On-Chip Platforms for Tumor Microenvironment Analysis and Therapeu](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/135985)
 </br>
@@ -57,6 +55,8 @@ Standard JSPS PostDoc Program for 12-24 months through CNRS selection (2026-2). 
 • [Smart Neuro-Interface for Home Autonomy: NEUROHOME](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/135984)
 </br>
 • [Stretchable Electronics for Intuitive Human–Robot Collaboration and Physical AI](https://www.abg.asso.fr/fr/candidatOffres/show/id_offre/135852)
+</br>
+</br>
 </br>
 
 ### LIMMS Booklet 2025

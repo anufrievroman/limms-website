@@ -12,8 +12,13 @@ draft: false
 ### 2026
 
 1. Z. Zhang, R. Ma, S. Lu, S. Volz, J. Chen, Decoding thermal transport mechanisms induced by short-range order in amorphous system, Physical Review Research 8, 01300, (2026)
-2. Y. Miura, Y. Sakai, M. Nishikawa, E. Leclerc, Computational Model of Inflammation Reveals Crosstalk among Energy Metabolism, Oxidative Stress, Insulin, and Cytokines in Hepatocytes during Early MASLD Progression, Toxicological Science, kfaf176 (2026)
-3. H. Wang, S. Poulain, W. Cao, H. Arakawa, SH. Kim, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc, Palmitic acid induced the onset of lipotoxicity in a HepaSH-on-chip model with raised of H2O2 and IL-6, and altered p38/MAPK and JAK/STAT pathways, Toxicology, 520, 154345, (2026)
+2. H. Wang, S. Poulain, W. Cao, H. Arakawa, SH. Kim, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc, Palmitic acid induced the onset of lipotoxicity in a HepaSH-on-chip model with raised of H2O2 and IL-6, and altered p38/MAPK and JAK/STAT pathways, Toxicology, 520, 154345, (2026)
+3. Y. Miura, Y. Sakai, M. Nishikawa, E. Leclerc, Computational Model of Inflammation Reveals Crosstalk among Energy Metabolism, Oxidative Stress, Insulin, and Cytokines in Hepatocytes during Early MASLD Progression, Toxicological Science, kfaf176 (2026)
+4. W. Wang, X. Wu, Y. Wu, S. Volz, T. Takagi, M. Nomura, Interfacial Thermal Transport Analysis using Machine Learning Potential at AlN/Cu van der Waals Interface, Materials Today Physics, 102057, (2026)
+5. J. Ordonez-Miranda, R. Anufriev, R.N. Liñán-Abanto, M. Coral, M. Nomura, S. Volz, Near-field thermal radiation between deep subwavelength membranes driven by corner and edge modes, Journal of Applied Physics 139 (8), (2026)
+6. I. Pradhan, H. Li, A. Rupp, Y. Sato, H. Vo Van Qui, M. Tanaka, T. Ideue, E. Bocquillon & M. Hashisaka, Multilayer cryogenic powder filters with low parasitic capacitance, Rev. Sci. Instrum. 97, 024703 (2026)
+7. A. Cochard, L. Pinède, Y. Tauran, A. Brioude, B. Kim, A. Baccouche, V. Salles, A. J. Genot, S. H. Kim, Controllable reconfiguration of DNA nanostar hydrogels networks via sticky-end ligation, Applied Materials Today, 49, 103169 (2026)
+8. F. Lavanchy, Y. Sasaki, T. Minami and S. Chevalier, Operando Measurements of Pressure-Based PDMS Deformations in Electrochemical Microfluidic Devices, J. Electrochem. Soc. 173 053503 (2026)
 
 ### 2025
 

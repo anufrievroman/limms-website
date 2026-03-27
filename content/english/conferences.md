@@ -8,6 +8,11 @@ description: "Conferences"
 draft: false
 ---
 
+### 2026
+
+1. C. Beccari, G. Hwang, S. Amaya, F. Arai, Y. Mita, R. Raiteri, A. Tixier-Mita, Hybrid Thin Film Transistor-Micro Electrode/Micro Pillar Array Platform for Multimodal Electrophysiological and Contractility Analysis of Cardiomyocytes, 2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS), Salzburg, Austria, 2026, pp. 530-533, doi: 10.1109/MEMS64181.2026.11419551.
+2. T. Duenki, Y. Ikeuchi. Emergent Dynamics in Modular Brain Organoid Networks Connected by Axon Bundles. The 12th Takeda Science Foundation Symposium on PharmaSciences, ORGANOID 4D: Development, Disease, Diversity and Discovery. Osaka, Japan, January 2026.
+
 ### 2025
 
 1. S. Chevalier, M. Ryu, S. Kamegaki, J. Letessier, J. Maire, Jean-Christophe Batsale, J. Morikawa, Experimental and theoretical development of photothermal heterodyne transmission imaging, JSAP 72th Spring Meeting, Tokyo, 2025
@@ -18,6 +23,10 @@ draft: false
 6. G. Hamaoui, E. Akiki, A. Herve, Y. An, F. Marty, J. Zou, T. Bourouina, P. Basset, A. Delmas, E. Nefzaoui, Micro-structured Silicon Spectral Emissivity at Intermediate Temperatures from 100°C to 350°C, PhotonIcs and Electromagnetics Research Symposium (Autumn PIERS 2025), Chiba, Japan, November 2025
 7. G. Hamaoui, E. Akiki, A. Herve, Y. An, F. Marty, J. Zou, T. Bourouina, P. Basset, A. Delmas, E. Nefzaoui, Temperature Dependent Spectral Emissivity of Microstructured Silicon, 8th Meeting of the French - Singaporean Research Network on Renewable Energy, Singapore, Singapore, September 2025
 8. M. Coral, J. Ordonez-Miranda, J. Laurent, G. Hamaoui, Y. De Wilde, M. Nomura, S. Volz, Enhancement of thermal radiation via the hybridization of surface phonon-polaritons and guided modes, Thermal Polaritonics Workshop, Deajeon, South Korea, April 2025 
+
+9. F. Soncin Blood vessel-on-chip models of the vascular barrier. Peritoneal carcinomatosis ISSPP : 8th workshop on Basic science, Paris,France, May 2025
+10. P. Bruand, DNA data storage, Global Young Scientists Summit (GYSS), Singapore, January 2025 
+11. T. Duenki, SYA. Chow, Y. Ikeuchi. Construction and Characterization of Neural Organoid Circuits. MEA 2025 : 13th Meeting on Neural and Electrogenic Cell Interfacing. Vienna, Austria, July 2025.
 
 ### 2024
 

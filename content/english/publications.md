@@ -19,6 +19,7 @@ draft: false
 6. I. Pradhan, H. Li, A. Rupp, Y. Sato, H. Vo Van Qui, M. Tanaka, T. Ideue, E. Bocquillon & M. Hashisaka, Multilayer cryogenic powder filters with low parasitic capacitance, Rev. Sci. Instrum. 97, 024703 (2026)
 7. A. Cochard, L. Pinède, Y. Tauran, A. Brioude, B. Kim, A. Baccouche, V. Salles, A. J. Genot, S. H. Kim, Controllable reconfiguration of DNA nanostar hydrogels networks via sticky-end ligation, Applied Materials Today, 49, 103169 (2026)
 8. F. Lavanchy, Y. Sasaki, T. Minami and S. Chevalier, Operando Measurements of Pressure-Based PDMS Deformations in Electrochemical Microfluidic Devices, J. Electrochem. Soc. 173 053503 (2026)
+9. J. Ordonez-Miranda, R. Anufriev, R. N Liñán-Abanto, M. Coral, M. Nomura, S. Volz, Journal of Applied Physics 139, 085108 (2026)
 
 ### 2025
 

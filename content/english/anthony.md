@@ -59,6 +59,8 @@ Director, Progress Japanese Academy</i><br><br>
 <i>I was in Merton College with Anthony (we matriculated in the same year 2006) and he was in the group of my close Oxford friends for years afterwards. I remember a very funny moment (captured on video) where I say something to my parents and friends in Russian, while Anthony translated it to French according to his idea of what I was saying. We also spent some good evenings talking French and playing card games. I remember he already learned Japanese and had a Japanese girlfriend soon to become his wife. It is very sad to hear of his passing from his friend Julien.<br>
 — Yulia Savikovskaya</i><br><br>
 
+<i>Anthony Genot was an unforgettable colleague of mine at the University of Tokyo. He was a thoughtful and deeply dedicated scientist, always serious about advancing biomolecular computing. Taken from us far too soon. He often spoke warmly about his family. My heartfelt condolences go to him and his loved ones.
+— Nozomu Yachie</i><br><br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAtzcINBF9qys1hNu4sB6OhmowHLm7z_DasgSI7sa6IpuPag/viewform?embedded=true" width="100%" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 

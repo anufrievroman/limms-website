@@ -26,29 +26,28 @@ draft: false
 2. Y Miura, V. Cosmin, Y. Sakai, M. Nishikawa, E. Leclerc, A computational model of the crosstalk between hepatocyte fatty acid metabolism, oxidative stress, and lipid peroxide highlighted the key enzymes, species and detoxification routes in the context of steatosis, Toxicology and Applied Pharmacology, 495, 117185, (2025)
 3. H. Wang, M. Danoy, Y. Gong, T. Utami, H. Arakawa, Y. Kato, M. Nishikawa, Y. Sakai, E. Leclerc , Palmitic acid induced a dedifferentiation profile at the transcriptome level, a collagen synthesis but no triglyceride accumulation in hepatocyte-like cells derived from Human-induced pluripotent stem cells cultivated inside organ on a chip, Journal of Applied Toxicology, 45, 460-471, (2025)
 4. J. Ordonez-Miranda, M Nomura, S Volz, Focusing surface phonon-polaritons for tunable thermal radiation, Discover Nano 20, 15, (2025)
-6. L. Cazenille, M. Toquebiau, N. Lobato-Dauzier, A. Loi, L. Macabre, N. Aubert-Kato, A.J. Genot, and N. Bredeche, Signalling and social learning in swarms of robots, Philos. Trans. A 383, 20240148 (2025)
-7. H. Shi, S. Grall, R. Yanagisawa, L. Jalabert, S. Paul, S.H. Kim, J.L. Viovy, H. Daiguji, and M. Nomura, Chip cooling with manifold-capillary structures enables 105 COP in two-phase systems, Cell Rep. Phys. Sci., 102520 (2025)
-8. A. Bancaud, T. Nakajima, J.I. Suehiro, B. Alric, F. Morfoisse, J. Cacheux, Y. Matsunaga, Intraluminal pressure triggers a rapid and persistent reinforcement of endothelial barriers Lab on a Chip, 25, 2061 (2025). 
-9. D. T.  Papanastasiou, S. Harimurti , C. Okuda, M. Mimuro, W. Yukita, T. Yokota and T. Someya, A novel thickness-gradient electrospun nanomesh for interface-free e-skin Applications, Mater. Horiz., (2025)
-10. Z. Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, C. Demaille, The energetics of electron transfer in redox-DNA layers mimics that of redox proteins, Chem. Eur. J.  e202500838 (2025)
-11. Y. Liu,  S. De Mulatier,  N. Matsuhisa,  Unperceivable Designs of Wearable Electronics. Advanced Materials 2502727 (2025)
-12. X. Huang, S. Volz, M. Nomura, Y. Ni, Machine learning-guided broadband phonon blockade via Anderson localization in engineered Si/Ge nanowires, Physical Review B 111 (17), 174203, (2025).
-13. S. Chevalier, Y. Sasaki, T. Minami, Image-Based Measurements of Tafel Slopes in Aqueous MV/4-HO-TEMPO Flow Batteries, Journal of Power Sources, vol. 655, 2025, p. 237928
-14. L.Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura, and S. Volz, Ultra-High-Temperature Vacuum Prober for Electrical and Thermal Measurements, accepted in Review of Scientific Instruments, 96,8, (2025-08-31), DOI: 10.1063/5.0272551
-15. K Miyazaki, S Volz, Thermal transport in nanomaterials and soft matters, International Journal of Heat and Mass Transfer, 252, 127483, (2025).
-16. Y Qiu, M Nomura, Z Zhang, S Lu, S Volz, J Chen, J Zhang, H Zhang, Roadmap on thermodynamics and thermal metamaterials, Frontiers of Physics 20 (6), 065500 (2025).
-17. S Shan, Z Zhang, S Lu, S Volz, J Chen, Generation of interfacial phonon modes and their contribution to thermal transport across the GaN/ZnO interface, Physical Review B 112 (15), 155302, (2025).
-18. W Zhang, S Xiong, Y Guo, HL Yi, M Nomura, S Volz, Promoting Anderson Localization for Low-Frequency Phonons in SiGe Alloyed Nanowires with Long-Range Correlated Disorder, ACS nano, online, (2025).
-19. M Nomura, S Volz, BY Cao, Z Tian, Advances in thermal phonon engineering and thermal management, Applied Physics Letters 127 (6), (2025).
-20. J Ordonez-Miranda, R Anufriev, M Coral, M Nomura, S Volz, Far-field heat transfer maximization through controlled polariton coupling between deep-subwavelength polar membranes, Physical Review B 111 (19), 195435, (2025).
-21. M Diego, J Hardouin, G Mazevet-Schargrod, M Pirro, B Kim, R Anufriev, M Nomura, Hypersonic acoustic wave control via stealthy hyperuniform phononic nanostructures, Science Advances 11 (32), eadw7205, (2025).
-22. R. Anufriev, D. Michele, S. Volz, M. Nomura, When phononic crystals fail: Spatial and spectral limits of phonon interference, Physical Review Applied 24, L061001 (2025).
+5. L. Cazenille, M. Toquebiau, N. Lobato-Dauzier, A. Loi, L. Macabre, N. Aubert-Kato, A.J. Genot, and N. Bredeche, Signalling and social learning in swarms of robots, Philos. Trans. A 383, 20240148 (2025)
+6. H. Shi, S. Grall, R. Yanagisawa, L. Jalabert, S. Paul, S.H. Kim, J.L. Viovy, H. Daiguji, and M. Nomura, Chip cooling with manifold-capillary structures enables 105 COP in two-phase systems, Cell Rep. Phys. Sci., 102520 (2025)
+7. A. Bancaud, T. Nakajima, J.I. Suehiro, B. Alric, F. Morfoisse, J. Cacheux, Y. Matsunaga, Intraluminal pressure triggers a rapid and persistent reinforcement of endothelial barriers Lab on a Chip, 25, 2061 (2025). 
+8. D. T.  Papanastasiou, S. Harimurti , C. Okuda, M. Mimuro, W. Yukita, T. Yokota and T. Someya, A novel thickness-gradient electrospun nanomesh for interface-free e-skin Applications, Mater. Horiz., (2025)
+9. Z. Zheng, S. Grall, SH. Kim, A. Chovin, N. Clement, C. Demaille, The energetics of electron transfer in redox-DNA layers mimics that of redox proteins, Chem. Eur. J.  e202500838 (2025)
+10. Y. Liu,  S. De Mulatier,  N. Matsuhisa,  Unperceivable Designs of Wearable Electronics. Advanced Materials 2502727 (2025)
+11. X. Huang, S. Volz, M. Nomura, Y. Ni, Machine learning-guided broadband phonon blockade via Anderson localization in engineered Si/Ge nanowires, Physical Review B 111 (17), 174203, (2025).
+12. S. Chevalier, Y. Sasaki, T. Minami, Image-Based Measurements of Tafel Slopes in Aqueous MV/4-HO-TEMPO Flow Batteries, Journal of Power Sources, vol. 655, 2025, p. 237928
+13. L.Jalabert, J. Ordonez-Miranda, Y. Wu, B. Kim, R. Anufriev, M. Nomura, and S. Volz, Ultra-High-Temperature Vacuum Prober for Electrical and Thermal Measurements, accepted in Review of Scientific Instruments, 96,8, (2025-08-31), DOI: 10.1063/5.0272551
+14. K Miyazaki, S Volz, Thermal transport in nanomaterials and soft matters, International Journal of Heat and Mass Transfer, 252, 127483, (2025).
+15. Y Qiu, M Nomura, Z Zhang, S Lu, S Volz, J Chen, J Zhang, H Zhang, Roadmap on thermodynamics and thermal metamaterials, Frontiers of Physics 20 (6), 065500 (2025).
+16. S Shan, Z Zhang, S Lu, S Volz, J Chen, Generation of interfacial phonon modes and their contribution to thermal transport across the GaN/ZnO interface, Physical Review B 112 (15), 155302, (2025).
+17. W Zhang, S Xiong, Y Guo, HL Yi, M Nomura, S Volz, Promoting Anderson Localization for Low-Frequency Phonons in SiGe Alloyed Nanowires with Long-Range Correlated Disorder, ACS nano, online, (2025).
+18. M Nomura, S Volz, BY Cao, Z Tian, Advances in thermal phonon engineering and thermal management, Applied Physics Letters 127 (6), (2025).
+19. J Ordonez-Miranda, R Anufriev, M Coral, M Nomura, S Volz, Far-field heat transfer maximization through controlled polariton coupling between deep-subwavelength polar membranes, Physical Review B 111 (19), 195435, (2025).
+20. M Diego, J Hardouin, G Mazevet-Schargrod, M Pirro, B Kim, R Anufriev, M Nomura, Hypersonic acoustic wave control via stealthy hyperuniform phononic nanostructures, Science Advances 11 (32), eadw7205, (2025).
+21. R. Anufriev, D. Michele, S. Volz, M. Nomura, When phononic crystals fail: Spatial and spectral limits of phonon interference, Physical Review Applied 24, L061001 (2025).
 
-23. W. Zhang, S. Xiong, Y. Guo, H. Yi, M. Nomura, S. Volz, Anomalous thermal transport in silicon-like nanowires with one-dimensional correlated disorder, Chinese Physics Letters 42 (12), 120804, (2025).
-24. K Miyazaki, S Volz, Thermal transport in nanomaterials and soft matters, International Journal of Heat and Mass Transfer 252, 12748, (2025).
-25. W. Zhang, S. Xiong, Y. Guo, H.L. Yi, M. Nomura, S. Volz,, Thermal conductivity enhancement by phonon inelastic scattering in alloyed nanowires, Physical Review B 112 (19), 195423, (2025).
-26. L. Bourdon, A. Cochard, Y. Tauran, Y. Sugitani, Y. Sato, M. Takinoue, H. Fujita, T. Fujii, S.H. Kim, A. J. Genot, Antibody-Functionalized DNA Hydrogels Recognize and Isolate Living Tumor Cells, Advances Materials Interfaces, e00619 (2025).
-27. H. Hamma, R. Anufriev, K. Fushinobu, M. Nomura, B. Kim, Scalable Thermal Engineering via Femtosecond Laser-Direct-Written Phononic Nanostructures, Applied Functional Materials, e25269 (2025).
+22. W. Zhang, S. Xiong, Y. Guo, H. Yi, M. Nomura, S. Volz, Anomalous thermal transport in silicon-like nanowires with one-dimensional correlated disorder, Chinese Physics Letters 42 (12), 120804, (2025).
+23. W. Zhang, S. Xiong, Y. Guo, H.L. Yi, M. Nomura, S. Volz,, Thermal conductivity enhancement by phonon inelastic scattering in alloyed nanowires, Physical Review B 112 (19), 195423, (2025).
+24. L. Bourdon, A. Cochard, Y. Tauran, Y. Sugitani, Y. Sato, M. Takinoue, H. Fujita, T. Fujii, S.H. Kim, A. J. Genot, Antibody-Functionalized DNA Hydrogels Recognize and Isolate Living Tumor Cells, Advances Materials Interfaces, e00619 (2025).
+25. H. Hamma, R. Anufriev, K. Fushinobu, M. Nomura, B. Kim, Scalable Thermal Engineering via Femtosecond Laser-Direct-Written Phononic Nanostructures, Applied Functional Materials, e25269 (2025).
 
 ### 2024
 

@@ -1,7 +1,7 @@
 ---
 title: Alexandre BACCOUCHE
 email: 
-image: "/images/ava/baccouche.png"
+image: "/images/ava/alex.jpg"
 description:
 ---
 

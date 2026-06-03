@@ -2027,6 +2027,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mt-10 {
   margin-top: 2.5rem;
 }
+.mt-16 {
+  margin-top: 4rem;
+}
 .mt-20 {
   margin-top: 5rem;
 }
@@ -2216,6 +2219,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-\[8rem\] {
   font-size: 8rem;
 }
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
@@ -2233,6 +2240,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-dark {
   --tw-text-opacity: 1;
   color: rgb(4 4 4 / var(--tw-text-opacity));
+}
+.text-gray-400 {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
 }
 .text-light {
   --tw-text-opacity: 1;
@@ -3377,6 +3388,10 @@ p a {
 .hover\:text-white:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.hover\:underline:hover {
+  text-decoration-line: underline;
 }
 
 :is(.dark .dark\:border-darkmode-border) {

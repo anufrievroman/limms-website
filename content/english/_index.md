@@ -59,13 +59,13 @@ Standard JSPS PostDoc Program for 12-24 months through CNRS selection (2026-2). 
 </br>
 </br>
 
-### LIMMS Booklet 2025
+### LIMMS Booklet 2026
 
 </br>
-Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2025.pdf):
+Annual booklet of the lab activity, projects, and collaborations is available for [download](files/Booklet2026.pdf):
 
 </br>
-<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/kmka/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
+<div style="position:relative;padding-top:0;width:100%;height:600px;"><iframe style="position:absolute;border:none;width:100%;height:100%;left:0;top:0;" src="https://online.fliphtml5.com/qonco/Booklet2026/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" ></iframe></div>
 
 </br>
 </br>

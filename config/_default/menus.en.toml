@@ -62,10 +62,10 @@ parent = "Collaborations"
 name = "KIKO"
 url = "kiko/"
 
-[[main]]
-name = "SMMIL-E"
-url = "smmil-e/"
-weight = 8
+#[[main]]
+#name = "SMMIL-E"
+#url = "smmil-e/"
+#weight = 8
 
 [[main]]
 name = "Contacts"

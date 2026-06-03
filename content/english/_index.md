@@ -42,6 +42,7 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 </br>
 </br>
 
+<!--
 ### JSPS PostDoc positions
 
 </br>
@@ -58,6 +59,7 @@ Standard JSPS PostDoc Program for 12-24 months through CNRS selection (2026-2). 
 </br>
 </br>
 </br>
+-->
 
 ### LIMMS Booklet 2026
 

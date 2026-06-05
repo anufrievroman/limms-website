@@ -11,7 +11,7 @@ Due to its close integration into the French, European and Japanese research com
 
 </br>
 </br>
-{{< image src="images/map_limms.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/map_limms.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 </br>
 </br>
 
@@ -77,7 +77,7 @@ Annual booklet of the lab activity, projects, and collaborations is available fo
   image: "images/cnrs.png"
   button:
     enable: false
-    label: "Get Started For Free"
+    label: ""
     link: "https://github.com/zeon-studio/hugoplate"
 
 ---

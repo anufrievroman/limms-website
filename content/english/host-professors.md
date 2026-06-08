@@ -10,14 +10,12 @@ draft: false
 
 LIMMS combines the expertise of French and Japanese scientists in order to explore new scientific domains related to micro- and nanotechnologies. Researchers who are recruited by LIMMS are hosted in the following Japanese research groups affiliated to LIMMS:
 
-{{< accordion "Hirakawa Lab - Quantum semiconductor Electronics" >}}
+{{< accordion "Kuroyama Lab - Terahertz nanostructures" >}}
 
-http://thz.iis.u-tokyo.ac.jp
+https://www.qnel.iis.u-tokyo.ac.jp
 
-- MEMS/NEMS-based terahertz detectors
-- Heterostructure-based thermoionic cooling device
-- Single molecule / quantum-dot transistors
-- Terahertz spectroscopy of quantum nanostructures.
+• Terahertz dynamics of quantum nanostructures for quantum information processing
+• Terahertz ultrastrong light matter coupling  
 
 {{< /accordion >}}
 

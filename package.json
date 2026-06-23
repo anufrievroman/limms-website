@@ -18,12 +18,19 @@
     "update-theme": "node ./scripts/themeUpdate.js",
     "format": "prettier -w ."
   },
+  "overrides": {
+    "sucrase": {
+      "glob": ">=10.5.0",
+      "minimatch": ">=9.0.7"
+    },
+    "picomatch": ">=2.3.2"
+  },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.16",
-    "postcss": "^8.4.33",
+    "postcss": "^8.5.10",
     "postcss-cli": "^11.0.0",
     "prettier": "^3.1.1",
     "prettier-plugin-go-template": "0.0.15",

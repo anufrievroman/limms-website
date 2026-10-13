@@ -42,8 +42,10 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 </br>
 </br>
 
-### LIMMS Internship Campaign FY2027
+### Open positions
 
+</br>
+<strong>LIMMS Internship Campaign FY2027 Guidelines</strong>
 </br>
 
 <strong>Research topic:</strong>

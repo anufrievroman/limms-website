@@ -12,6 +12,9 @@ draft: false
 
 1. C. Beccari, G. Hwang, S. Amaya, F. Arai, Y. Mita, R. Raiteri, A. Tixier-Mita, Hybrid Thin Film Transistor-Micro Electrode/Micro Pillar Array Platform for Multimodal Electrophysiological and Contractility Analysis of Cardiomyocytes, 2026 IEEE 39th International Conference on Micro Electro Mechanical Systems (MEMS), Salzburg, Austria, 2026, pp. 530-533, doi: 10.1109/MEMS64181.2026.11419551.
 2. T. Duenki, Y. Ikeuchi. Emergent Dynamics in Modular Brain Organoid Networks Connected by Axon Bundles. The 12th Takeda Science Foundation Symposium on PharmaSciences, ORGANOID 4D: Development, Disease, Diversity and Discovery. Osaka, Japan, January 2026.
+3. R. Anufriev, S. Brunot-Mueller, M. Diego, S. Volz and M. Nomura, “Breakdown of phonon confinement in nanostructures”, EURALIMMS26 2026, Taipei (2026).
+4. R. Anufriev, M. Diego, S. Brunot-Mueller, S. Volz, M. Nomura, “Breakdown of phonon confinement in nanostructures”, IMRC 2026, Cancun, Mexico (2026).
+5. R. Anufriev, M. Diego, S. Brunot-Mueller, S. Volz, M. Nomura, “Breakdown of phonon confinement in nanoscale membranes, beams, and phononic crystals”, The 87th JSAP Autumn Meeting, Sapporo, Japan (2026).
 
 ### 2025
 

@@ -62,7 +62,7 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 · [Sakai Laboratory](files/internships2027/Sakai_lab_internship_FY2027.pdf)
 </br>
 
-<strong>Application Deadline:</strong> Must be received by November 9, 2026
+<strong>Application Deadline:</strong> Must be received by November 6, 2026
 </br>
 </br>
 

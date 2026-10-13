@@ -42,6 +42,30 @@ BioMEMS such as platforms with multi-modal sensors and actuators are developed i
 </br>
 </br>
 
+### Open positions
+
+</br>
+<strong>LIMMS Internship Campaign FY2027 Guidelines</strong>
+</br>
+
+<strong>Research topic:</strong>
+
+</br>
+· [Nomura Laboratory](files/internships2027/Nomura_lab_internship_FY2027.pdf)
+</br>
+· [Kuroyama Laboratory](files/internships2027/Kuroyama_lab_internship_FY2027.pdf)
+</br>
+· [SH. Kim Laboratory](files/internships2027/SHKim_lab_internship_FY2027.pdf)
+</br>
+· [Matsuhisa Laboratory](files/internships2027/Matsuhisa_lab_internship_FY2027.pdf)
+</br>
+· [Sakai Laboratory](files/internships2027/Sakai_lab_internship_FY2027.pdf)
+</br>
+
+<strong>Application Deadline:</strong> Must be received by November 9, 2026
+</br>
+</br>
+
 <!--
 ### JSPS PostDoc positions
 
